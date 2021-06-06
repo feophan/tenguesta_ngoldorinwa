@@ -1,4 +1,4 @@
-# Tengwesta Ngoldorinwa
+# Tenguesta Ngoldorinwa
 
 This is a compilation of grammatical notes, intended as a reference for the project of translating *Alice in Wonderland* to Quenya in a consistent manner.
  I have accumulated a notable amount of notes by now, and switching to this format will facilitate their maintenance and accessibility. For now only a few notes are added, but the rest will slowly be transferred as well. But even the notes-composition phase is far from being over.
