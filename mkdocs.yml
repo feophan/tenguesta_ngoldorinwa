@@ -1,0 +1,22 @@
+site_name: Tengwesta Ngoldorinwa
+
+pages:
+    - 'Morphology':
+        - 'Nouns':
+            - 'First Declension': morph/noun/d1.md
+            - 'Second Declension': morph/noun/d2.md
+            - 'Third Declension': morph/noun/d3.md
+            - 'Fourth Declension': morph/noun/d4.md
+            - 'Fifth Declension': morph/noun/d5.md
+            - 'Sixth Declension': morph/noun/d6.md
+
+theme:
+    name: readthedocs
+    
+markdown_extensions:
+  - footnotes
+  - admonition
+  - abbr
+
+extra_javascript:
+  - js/extra.js
