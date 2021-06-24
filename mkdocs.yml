@@ -2,16 +2,49 @@ site_name: Tenguesta Ngoldorinwa
 
 pages:
     - 'Morphology':
-        - 'Nouns':
+        - '4. Nouns':
             - 'First Declension': morph/noun/d1.md
             - 'Second Declension': morph/noun/d2.md
             - 'Third Declension': morph/noun/d3.md
             - 'Fourth Declension': morph/noun/d4.md
             - 'Fifth Declension': morph/noun/d5.md
             - 'Sixth Declension': morph/noun/d6.md
+    - 'Syntax':
+        - '26. Simple Sentences':
+            - 'Introduction': syntx/intro/intro.md
+            - 'The Sentence Core': syntx/intro/core.md
+            - 'Optional Constituents': syntx/intro/opt.md
+            - 'Noun Phrases': syntx/intro/np.md
+            - 'Predicative Modifiers': syntx/intro/pred.md
+            - 'Elements Interrupting or Outside the Syntax of a Sentence': syntx/intro/out.md
+        - '27. Agreement':
+            - 'Subject &mdash; Finite Verb': syntx/agr/sfv.md
+            - 'Head &mdash; Modifier; Predicative Modifiers and Complements': syntx/agr/hm.md
+            - 'Antecedent &mdash; Relative Pronoun': syntx/agr/antr.md
+            - 'Apposition': syntx/agr/app.md
+        - '28. The Article':
+            - 'Definite Article': syntx/article/article.md
+            - 'Position': syntx/article/position.md
+            - 'Pronominal Use': syntx/article/pron.md
+        - '29. Pronouns and Quantifiers':
+            - 'Personal Pronouns': syntx/pron/pers.md
+            - 'Reflexive Pronouns': syntx/pron/refl.md
+            - 'Possessive Pronouns': syntx/pron/pos.md
+            - 'Reciprocal Pronouns': syntx/pron/rec.md
+            - 'Demonstrative Pronouns': syntx/pron/dem.md
+            - 'Sentential Pronouns': syntx/pron/sen.md
+            - 'Indefinite Pronouns': syntx/pron/indef.md
+            - 'Generic Pronoun': syntx/pron/gen.md
+            - 'Interrogative Pronouns': syntx/pron/interr.md
+            - 'Relative Pronouns': syntx/pron/rel.md
+            - 'Quantifiers': syntx/pron/quant.md
+        - '30. Cases':
+            - 'Functions, Meanings and Labels': syntx/case/fun.md
+            - 'Common': syntx/case/com.md
 
 theme:
     name: readthedocs
+    navigation_depth: 2
     
 markdown_extensions:
   - footnotes
@@ -20,3 +53,6 @@ markdown_extensions:
 
 extra_javascript:
   - js/extra.js
+
+extra_css:
+  - stylesheets/extra.css
