@@ -11,4 +11,4 @@ case, they are normally used for emphasis (&rarr;29.2-5), and in poetry much mor
 
 > `nan úye sére indo-ninya símen, ullume` [LR/72]. *But my heart resteth not here for ever*.
 
-> `ávatyara mello menye rohtar` [draft; VT43/11]. *Forgive us our trespasses*.
+> `ávatyara mello menye roctar` [draft; VT43/11]. *Forgive us our trespasses*.

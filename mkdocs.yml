@@ -41,7 +41,8 @@ pages:
         - '30. Cases':
             - 'Functions, Meanings and Labels': syntx/case/fun.md
             - 'Common': syntx/case/com.md
-
+            - 'Genitive': syntx/case/gen.md
+            
 theme:
     name: readthedocs
     navigation_depth: 2
@@ -50,6 +51,8 @@ markdown_extensions:
   - footnotes
   - admonition
   - abbr
+  - mdx_custom_span_class
+  - mdx_emdash
 
 extra_javascript:
   - js/extra.js

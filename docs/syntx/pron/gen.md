@@ -7,12 +7,12 @@ The pronoun `mo` is used as a **generic pronoun** in:
 	> `matie telumbi sine cé nace mo` *One can die from eating these mushrooms*.
 	
 + advises and instructions which should affect the listener's practical reasoning:
-	
+
 	> `alasaila ná lá care tai mo nave mára` [PE22/154]. *It is unwise not to do what one judges good*.
 
 + putting a speaker into the other person's situation in conditional statement:
 
-	> `cé mo querne cendele númenna, i·hyarma tentane Melcorello` [VT49/8]. *If one turned the face westward, the left hand pointed away from Melkor*.
+	> `cé mo querne cendele númenna, i·jarma tentane Melcorello` [VT49/8]. *If one turned the face westward, the left hand pointed away from Melkor*.
 
 + in sayings and aphorisms:
 	

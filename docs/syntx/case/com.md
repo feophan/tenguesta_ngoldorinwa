@@ -33,4 +33,13 @@ The accusative is also used in the **accusative-and-infinitive** (&rarr;51), the
 
 Time **when**, or **within which**, is expressed by either locative or accusative:
 
-> <abbr title="umbe nin i hríve nauva urra si loa" class="tengwar">kube nin ki ^rjive n>v kurN si lok</abbr> &puncsp;[PE22/168]. *I have a feeling that winter will be bad this year.*
+> `umbe nin i hríve nauva urra si loa` [PE22/168]. *I have a feeling that winter will be bad this year.*
+
+Accusative can also denote the spatial measure (*how long? how broad?*), especially with numerals:
+
+> `talion lempe halda ná i·ando` [translated; TAI/150]. *Five foot high is the door*.
+
+## Apposition to a Sentence
+
+!!! tip
+	When an appositive is added to an entire sentence or clause, it normally stands in the accusative (&rarr;27.14).

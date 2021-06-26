@@ -1,6 +1,6 @@
 @font-face {
   font-family: "tengwar";
-  src:  url('/font/TengwarAnnatarParmaquesta.ttf') format('truetype');
+  src:  url('../font/TengwarAnnatarParmaquesta.ttf') format('truetype');
 }
 
 .tengwar {
