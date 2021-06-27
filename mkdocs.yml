@@ -1,6 +1,7 @@
 site_name: Tenguesta Ngoldorinwa
+site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 
-pages:
+nav:
     - 'Morphology':
         - '4. Nouns':
             - 'First Declension': morph/noun/d1.md
