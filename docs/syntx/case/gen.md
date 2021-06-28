@@ -1,6 +1,6 @@
 # Genitive
 
-The main function of the genitive is at the level of the noun phrase, to mark attributive modifiers (i.e. expressing various relations between (pro)nouns/noun phrases). It is also used to mark some required constituents (complements) with verbs/adjectives, and functions in a few adverbial expressions.
+The main function of the genitive is at the level of the noun phrase, to mark attributive modifiers (i.e. expressing various relations between (pro)nouns/noun phrases). It is also used to mark some required constituents (complements) with adjectives, and functions in a few adverbial expressions.
 
 Quenya distinguishes two genitival cases: genitive I or **partitive** and genitive II or **adjective**[^1].
 
@@ -76,7 +76,7 @@ The choice then comes as mostly esthetical, but some difference in meaning might
 
 > `yuldar miruvóreo` *draughts (made) of mead* [genitive of composition] and `yuldar miruvóreva` *mead draughts, draughts sweet like mead* [classifying or metaphorical genitive].
 
-Mismatch mapping is a very late phenomenon when Quenya stopped being a colloquial language. It surfaced as a confusion between genitive I and II and consequent displacement of the latter.
+Mismatch mapping is a very late phenomenon when Quenya stopped being a colloquial language. It surfaced as a confusion between semantics of genitive I and II and consequent displacement of the latter.
 
 !!! tip
 	As a rule of thumb if you are in an muddy case where it is difficult to decide between genitive I or II, consider whether a dependent is conveying a reference (genitive I) or describing a property (genitive II):
@@ -84,11 +84,53 @@ Mismatch mapping is a very late phenomenon when Quenya stopped being a colloquia
 	> `octe porceo` *an egg of (a specific) chicken*;	
 	> `octe porceva` *a chicken egg (and not a duck egg)*.
 
-## As Obligatory Constituent (to Complement Verbs/Adjectives)
+## As Obligatory Constituent
 
-### Verbs Taking the Genitive
+#### *With Adjectives*
+
+The following adjectives (often related in meaning to the verbs regularly taking adverbial modifiers, especially with partitive sense) are complemented by a genitive: 'filled with', 'released from', 'free from', etc.
+
+The **genitive of comparison** is used to complement comparatives:
+
+> `arimelda na ilyaron ` [PE17/57]. *She is dearest of all*. 
+
+For more details on comparatives and their constructions, &rarr;32.
+
+#### *With Numerals*
+
+From `nelde` *three* onwards, a preceding noun or noun phrase stand in genitive I plural: `elenion nelde` *three stars*. Note that in the late use it was substituted with accusative: `eleni nelde` *three stars*. For details on agreement of numerals, &rarr;26.TBD.
+
+#### *As Predicative Complement or Prepositional Complement*
+
+Many of the **attributive uses** of the genitive (&rarr;30.above) also occur **as predicative complement** with linking verbs.
+
+The **genitive of quality**, used to express a certain characteristic or manner of being,
+occurs exclusively in this way:
+
+> `neri ú nati nostalèo mare` [translated; PE15/32][^8]. *Men are not beings good by nature*.
+
+Similarly, attributive uses of the genitive may occur after certain prepositions (&rarr;31.8): 
+
+> `Aina Wende mi Wenderon` [VT44/12]. *Holy Virgin of virgins*.
+
+## As an Optional Constituent (Adverbial Modifier)
+
+Sometimes verbs take genitive I in its partitive function to underline **separation**:
+
++ verbs meaning 'remove from', 'rob of', 'free from' etc.: `Varda ortane máryat Oiolosseo`, `lunces macilya vaileo`[^6];
++ many verbs expressing sensorial or mental processes, to denote **a source** of stimulus: `hlassenye·s Vardo`[^5].
+
+!!!note
+	To describe the **direction**, genitive is substituted with **ablative**: `tentane Melcorello`.
+
+Some verbs permit the **genitive of cause** to express the origin or reason for that action: `síla Ráno`[^7].
+
 
 [^1]: more commonly labeled in other sources as **possessive** or **possessive-adjective**.
 [^2]: The system is described in [PE22/120].
 [^3]: Source: ["Descriptive genitives in English: a case study on constructional gradience" by Anette Rosenbach](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/abs/descriptive-genitives-in-english-a-case-study-on-constructional-gradience/7B0AD52F3E002B99300A2EE9E805577B)
 [^4]: MQ `Ar Ulmon` and others would need to be changed to `Ulmóva` within this system, as specifying a *kind of* day rather than referring to Ulmo. I treat it similarly to `mar vanwa tyalien >> mar vanwa tyaliéva` vascillation.
+[^8]: EQ `néri ur natsi nostalen máre`.
+[^6]: Updated from EQ `unlunke naiqe yu vaile·na ar elle ha men ambostuva`.
+[^5]: Not attested.
+[^7]: EQ `silmeráno tindon`.
