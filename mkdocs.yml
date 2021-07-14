@@ -43,6 +43,7 @@ nav:
             - 'Functions, Meanings and Labels': syntx/case/fun.md
             - 'Common': syntx/case/com.md
             - 'Genitive': syntx/case/gen.md
+            - 'Dative': syntx/case/dat.md
             
 theme:
     name: readthedocs
