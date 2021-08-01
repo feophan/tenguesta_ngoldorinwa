@@ -46,7 +46,9 @@ kinds of adverbial modifiers.
 
 The **dative of cause** expresses reason or cause.
 
-The bare **dative of place** may be used to express the direction whereto action takes place.
+The bare **dative of place** may be used to express the direction whereto action takes place, as a short form of allative:
+
+> `lendes pallan i sír` [PE17/65]. *He came to a point far beyond the river*.
 
 ### *Referring to Persons*
 

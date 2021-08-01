@@ -10,7 +10,7 @@ The locative describes a **general** spatial relation. We can postulate the basi
 The figure is located close to the ground.
 ```
 
-The exact position therefore is either not relevant, or easily accessible through context. The use of a specific spatial adpositions, like `mi` *in* or `to` *on* (&rarr; TBD), emphasizes the particulars of the relation and can highlight any deviations from the default assumption, thus serving to cancel unwarranted implicatures:
+The exact position therefore is either not relevant, or easily accessible through context. The use of specific spatial adpositions, like `mi` *in* or `to` *on* (&rarr; TBD), emphasizes the particulars of the relation and can highlight any deviations from the default assumption, thus serving to cancel unwarranted implicatures:
 
 ```text
 a. The figure is in contact with the ground.
@@ -51,7 +51,7 @@ The locative of time refers to a specific moment or period:
 + **at** which the event happens;
 + **by** which the event should happen.
 
-> `qe e·kárie i kirya aldaryas, ni kauva kiryasta menelyas` [MQ: PE22/121]. *if he finishes the boat* ***by Monday***, *I shall be able to sail* ***on Wednesday***.
+> `qe e·kárie i kirya aldaryas, ni kauva kiryasta menelyas` [MQ: PE22/121]. *If he finishes the boat* ***by Tuesday***, *I shall be able to sail* ***on Wednesday***.
 
 ### Locative of Respect
 

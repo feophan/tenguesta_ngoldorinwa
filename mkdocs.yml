@@ -46,6 +46,7 @@ nav:
             - 'Dative': syntx/case/dat.md
             - 'Instrumental': syntx/case/ins.md
             - 'Locative': syntx/case/loc.md
+            - 'Allative': syntx/case/all.md
     - 'Appendix':
         - 'Article': dat/art.md
             

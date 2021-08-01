@@ -1,4 +1,4 @@
-# Definite Article Split[^1]
+# Definite Article Split
 
 | Phrase | Type | Default 	|
 |--------|----	|----------	|
@@ -36,10 +36,15 @@
 | ar mi cemen rainë i hínin | IC | RN |
 | lírinen ómo i aire táríva | IC | SN |
 
-[^1]: "Definite Article Asymmetries and Concept Types: Semantic and Pragmatic Uniqueness" Albert Ortmann.
 [^2]: It could be the only example where the article would refer to the head, instead of modifier in genitive.
 [^4]: The gloss was **indefinite**: "in lofty halls beyond the West". This is the only example of definite Quenya phrase being indefinite in English gloss, not explainable.
 [^3]: The alternative interpretation would be IC-D "**these** stars".
+
+***
+
+**Sources**:
+
++ "Definite Article Asymmetries and Concept Types: Semantic and Pragmatic Uniqueness" by Albert Ortmann.
 
 *[SN]: Sortal Noun
 *[RN]: Relational Noun
