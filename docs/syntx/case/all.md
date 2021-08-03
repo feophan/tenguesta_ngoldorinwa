@@ -48,8 +48,7 @@ contact with:
 
 ## Allative of Time
 
-!!! tip
-	In the domain of time, the use of the allative is restricted to those expressions where both the starting point and the endpoint are mentioned. For instance, if we want to say 'from Monday to Friday', we will use the allative as in `izilyallo valanyanna`, but if we just want to mention the endpoint, the use of the allative is not allowed; instead, the adposition `tenna` *until* is used. Therefore, *until tomorrow* is translated as `tenna enar`. 
+In the domain of time, the use of the allative is restricted to those expressions where both the starting point and the endpoint are mentioned. For instance, if we want to say 'from Monday to Friday', we will use the allative as in `izilyallo valanyanna`, but if we just want to mention the endpoint, the use of the allative is not allowed; instead, the adposition `tenna` *until* is used. Therefore, *until tomorrow* is translated as `tenna enar`[^3]. 
 
 ## Allative of Purpose
 
@@ -87,6 +86,7 @@ Generally, dative denoting a recipient can be freely substituted for allative:
 
 [^1]: [PE21/79]. More on difference between allative and directive can be found in ["Polysemy in Basque Locational Cases" by Iraide Ibarretxe-Antuñano](https://www.researchgate.net/publication/233650860_Polysemy_in_Basque_Locational_Cases).
 [^2]: `ortírielyanna rucimme` might be an example of such function ("we flee *for your protection*"), and the use of `ruce` with ablative to denote the <span style="font-variant:small-caps;">cause</span> of fear does give some credibility to it. However, the Latin original *Sub tuum praesidium confugimus* has a metaphorical spatial sense 'under', hence the example cannot serve as a solid confirmation of such usage. But for typological and pragmatical reasons, as well as (weak) additional support by <span style="font-variant:small-caps;">future</span> function, we suggest to keep it.
+[^3]: Neither ablative nor allative are attested in temporal domain, but: "`na` *to, towards, of space/****time***" [PE17/147].
 
 ***
 

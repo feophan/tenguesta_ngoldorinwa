@@ -19,12 +19,14 @@ Instrumental case, as the name implies, most commonly marks the **instrument or 
 
 The **instrumental of material** is closely adjacent to it, and is used to complement transitive verbs and related adjectives to describe the material used in action: *built with stone*, *rich with spoils*, *fraught with sorrows*. Note the difference: *filled with water* (instrumental of material), but *full of water* (genitive of material).
 
-The **instrumental of manner** describes the manner in which an action was carried out, particularly with abstract nouns: *carry with weariness*, *shine with golden light*, *give in measure*.
+The **instrumental of manner** describes the manner in which an action was carried out, particularly with abstract nouns: *carry with weariness*, *shine with golden light*, *give in measure*[^2].
 
 The **instrumental of agent** is used in passive constructions to denote the agent of the action: *executed by the king*, *heard by the audience*, *blamed by the wicked*.
 
-While the instrumental of agent is usually employed for voluntary actions of animate nouns, similar **instrumental of cause** describes the circumstances in which an action happened, sometimes tangentially, and generally can be substituted in gloss with *because of*: *disabled by a wound*, *bent with the sails*.
+While the instrumental of agent is usually employed for voluntary actions of animate nouns, similar **instrumental of cause** describes the circumstances in which an action happened, sometimes tangentially, and generally can be substituted in gloss with *because of*: *disabled by a wound*, *bent with the sails*[^3].
 
 The **instrumental of location** describes location or other intrinsic relations linked to the manner or source of an action, typically of intransitive verbs, and is generally translated with *in, on*: *fall in the wind*, *cloack in veils*, *fluttering on the wings*.
 
 [^1]: ["A diachronic dimension in maps of case functions" by Heiko Narrog](https://www.eva.mpg.de/lingua/conference/07-SemanticMaps/pdf/narrog.pdf).
+[^2]: also, `tanen` *in this way* [VT49/11].
+[^3]: also, `tánen` *therefore* [VT49/11].
