@@ -7,8 +7,10 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 
-document.querySelectorAll(".ref").forEach(function(item, i) {
-	$(item).attr('id', $(item).attr('id') + "." + parseInt(i + 1));
+document.addEventListener("DOMContentLoaded", function() {
+	document.querySelectorAll(".ref").forEach(function(item, i) {
+		$(item).attr('id', $(item).attr('id') + "." + parseInt(i + 1));
+	});
 });
 
 document.querySelectorAll(".exp").forEach(function(item, i) {
