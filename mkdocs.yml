@@ -1,69 +1,34 @@
-site_name: Tenguesta Ngoldorinwa
+site_name: Tenguesta Ngoldorinwa v0.2
 site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 
 nav:
     - 'Morphology':
-        - '4. Nouns':
-            - 'First Declension': morph/noun/d1.md
-            - 'Second Declension': morph/noun/d2.md
-            - 'Third Declension': morph/noun/d3.md
-            - 'Fourth Declension': morph/noun/d4.md
-            - 'Fifth Declension': morph/noun/d5.md
-            - 'Sixth Declension': morph/noun/d6.md
+        - '4. Nouns': morph/nou.md
+        - '12. Introduction to Verb Forms': morph/ivf.md
     - 'Syntax':
-        - '26. Simple Sentences':
-            - 'Introduction': syntx/intro/intro.md
-            - 'The Sentence Core': syntx/intro/core.md
-            - 'Optional Constituents': syntx/intro/opt.md
-            - 'Noun Phrases': syntx/intro/np.md
-            - 'Predicative Modifiers': syntx/intro/pred.md
-            - 'Elements Interrupting or Outside the Syntax of a Sentence': syntx/intro/out.md
-        - '27. Agreement':
-            - 'Subject &mdash; Finite Verb': syntx/agr/sfv.md
-            - 'Head &mdash; Modifier; Predicative Modifiers and Complements': syntx/agr/hm.md
-            - 'Antecedent &mdash; Relative Pronoun': syntx/agr/antr.md
-            - 'Apposition': syntx/agr/app.md
-        - '28. The Article':
-            - 'Definite Article': syntx/article/article.md
-            - 'Position': syntx/article/position.md
-            - 'Pronominal Use': syntx/article/pron.md
-        - '29. Pronouns and Quantifiers':
-            - 'Personal Pronouns': syntx/pron/pers.md
-            - 'Reflexive Pronouns': syntx/pron/refl.md
-            - 'Possessive Pronouns': syntx/pron/pos.md
-            - 'Reciprocal Pronouns': syntx/pron/rec.md
-            - 'Demonstrative Pronouns': syntx/pron/dem.md
-            - 'Sentential Pronouns': syntx/pron/sen.md
-            - 'Indefinite Pronouns': syntx/pron/indef.md
-            - 'Generic Pronoun': syntx/pron/gen.md
-            - 'Interrogative Pronouns': syntx/pron/interr.md
-            - 'Relative Pronouns': syntx/pron/rel.md
-            - 'Quantifiers': syntx/pron/quant.md
-        - '30. Cases':
-            - 'Functions, Meanings and Labels': syntx/case/fun.md
-            - 'Common': syntx/case/com.md
-            - 'Genitive': syntx/case/gen.md
-            - 'Dative': syntx/case/dat.md
-            - 'Instrumental': syntx/case/ins.md
-            - 'Locative': syntx/case/loc.md
-            - 'Allative': syntx/case/all.md
-            - 'Ablative': syntx/case/abl.md
+        - '26. Simple Sentences': syntx/sen.md
+        - '27. Agreement': syntx/agr.md
+        - '28. The Article': syntx/art.md
+        - '29. Pronouns and Quantifiers': syntx/pro.md
+        - '30. Cases': syntx/cas.md
     - 'Appendix':
         - 'Article': dat/art.md
             
 theme:
     name: readthedocs
     navigation_depth: 2
-    
+        
 markdown_extensions:
   - footnotes
   - admonition
   - abbr
   - mdx_custom_span_class
   - mdx_emdash
+  - attr_list
 
 extra_javascript:
   - js/extra.js
 
 extra_css:
   - stylesheets/extra.css
+  - https://use.fontawesome.com/releases/v5.12.0/css/all.css
