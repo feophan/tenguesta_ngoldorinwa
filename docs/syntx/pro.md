@@ -124,6 +124,9 @@ The following pronouns are used in reflexive constructions:
 
 !!! note
 	A distinction should thus be maintained between 'reflexive pronouns' (a morphological category, referring to a specific type of pronoun, `inse`, etc.) and 'pronouns used in reflexive constructions' (a syntactic phenomenon). While reflexive pronouns always express reflexivity, reflexivity is not always necessarily marked by the use of a reflexive pronoun.
+	
+!!! attention "To-Do"
+	Go through PE22/94 in case there are some missed details.
 
 ### Pronouns Used as Direct and Indirect Reflexives
 

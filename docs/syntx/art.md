@@ -152,7 +152,7 @@ When the head of a noun phrase is modified by the article and one or more other 
 !!! tip
 	The general difference between attributive and predicative position may be described in the following way:
 	
-	+ a modifier in **attributive position** typically serve to **identify** the referent of the head noun (cf. e.g. En. *the good man*, as opposed to any other man);
+	+ a modifier in **attributive position** typically serves to **identify** the referent of the head noun (cf. e.g. En. *the good man*, as opposed to any other man);
 	
 	+ a modifier in **predicative position** is not used to identify the referent. Rather, adjectives and participles in predicative position say something about the **condition** the referent is in (cf. En. *I drink my coffee* ***black***, *They found the premises* ***deserted***).
 	

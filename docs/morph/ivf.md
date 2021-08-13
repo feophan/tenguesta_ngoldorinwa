@@ -158,13 +158,13 @@ For verbs which have variant verb stems, all variants are given below, where req
 
 Through the addition of various suffixes, prefixes and ablaut, a **tense-aspect stem** is formed. The tense-aspect stem identifies the form as having a particular combination of tense-aspect.
 
-Five different kinds of tense-aspect stems maybe distinguished; these fall into the three overarching systems described above (@@):
+Six different kinds of tense-aspect stems maybe distinguished; these fall into the three overarching systems described above (@@):
 
 + aorist tense-aspect: aorist stems, past stems, future stems;
 + present tense-aspect: present stems, imperfect stems;
 + perfect tense-aspect: perfect stems.
 
-The mechanisms involved in forming tense-aspect stems from verb stems are detailed in the individual chapters on the present (@@), aorist (@@), future (@@), and perfect (@@) stems.
+The mechanisms involved in forming tense-aspect stems from verb stems are detailed in the individual chapters on the present (@@), aorist (@@), and perfect (@@) stems.
 
 !!! attention "To-Do"
 	Verbs lacking certain tense-aspect stems altogether are called **defective verbs**. Are there examples of defective verbs in Quenya?
@@ -201,14 +201,28 @@ A final consonant of such prefixes often assimilates to the following sound: e.g
 
 [^1]: also known as `ómataima`.
 
+## Verbal Stems
+
+Quenya verbal stems split into seven major groups or **conjugations**:
+
+1. **basic verbs**: most numerous group of bare primitive <span style="font-variant:small-caps;">&Sqrt;tal</span> shape: `cen-` (<span style="font-variant:small-caps;">&Sqrt;ken</span>) *see*, `tul-` (<span style="font-variant:small-caps;">&Sqrt;tul</span>) *come*, `mat-` (<span style="font-variant:small-caps;">&Sqrt;mat</span>) *eat*;
+2. **long verbs**: triconsonantal verbs of <span style="font-variant:small-caps;">&Sqrt;talat</span> shape: `talat-` (<span style="font-variant:small-caps;">&Sqrt;talat</span>) *fall*, `carap-` (<span style="font-variant:small-caps;">&Sqrt;karap</span>) *speak*, `sulup-` (<span style="font-variant:small-caps;">&Sqrt;sulup</span>) *drink*;
+3. **vocalic-progressive** or **a-verbs**: verbs with an inherently continuative sense of <span style="font-variant:small-caps;">&Sqrt;tal-ā</span> shape: `gala-` (<span style="font-variant:small-caps;">&Sqrt;gal-ā</span>) *grow*, `fara-` (<span style="font-variant:small-caps;">&Sqrt;spar-ā</span>) *hunt*, `hora-` (<span style="font-variant:small-caps;">&Sqrt;skor-ā</span>) *wait*;
+4. **vocalic-inceptive** or **u-verbs**: verbs often with an inherently inchoactive sense of <span style="font-variant:small-caps;">&Sqrt;tal-ū</span> shape: `haru-` (<span style="font-variant:small-caps;">&Sqrt;khad-ū</span>) *sit down*, `liru-` (<span style="font-variant:small-caps;">&Sqrt;lir-ū</span>) *sing*, `celu-` (<span style="font-variant:small-caps;">&Sqrt;kel-ū</span>) *flow*;
+5. **formative verbs**: verbs that add an additional consonant to the stem, usually of inchoactive or anticausative meaning, of <span style="font-variant:small-caps;">&Sqrt;tal-t</span>, <span style="font-variant:small-caps;">&Sqrt;tal-j</span> or <span style="font-variant:small-caps;">&Sqrt;tal-s</span> shape: `cait-` (<span style="font-variant:small-caps;">&Sqrt;kaj-t</span>) *lie*, `siry-` (<span style="font-variant:small-caps;">&Sqrt;sir-j</span>) *flow*, `cals-` (<span style="font-variant:small-caps;">&Sqrt;kal-s</span>) *shine*;
+6. **causative verbs**: verbs with an inherently causative meaning that add an additional syllable to the stem of <span style="font-variant:small-caps;">&Sqrt;tal-ta</span> or <span style="font-variant:small-caps;">&Sqrt;tal-ja</span> shape: `caita-` (<span style="font-variant:small-caps;">&Sqrt;caj-ta</span>) *lay*, `tulta-` (<span style="font-variant:small-caps;">&Sqrt;tul-ta</span>) *send*, `tulya-` (<span style="font-variant:small-caps;">&Sqrt;tul-ja</span>) *lead*;
+7. **derivative verbs**: verbs formed from nouns, with or without addition of derivative elements: `tengwa-` *read* (from `tengwa` *letter*), `remba-` *trap* (from `rembe` *net*), `telconta-` *stride* (from `telco` *leg*).
+
+Together conjugations 2-7 are known as **secondary verbs**.
+
 ## Thematic and Athematic Conjugations
 
 Quenya verb forms are either thematic or athematic. Thematic forms include a thematic vowel `a` between the verb-stem and the non-finite or tense-aspect suffix. Athematic forms do not include a thematic vowel: thus in athematic forms tense-aspect suffix is attached immediately to the stem:
 
-+ **Thematic conjugations**: all forms of causative verbs, aorist-stem forms of all secondary verbs, past-stem forms of progressive verbs, present-, past and perfect-stem forms of derivative verbs, gerund of progressive and invertable verbs;
++ **Thematic conjugations**: all forms of causative verbs, aorist-stem forms of all secondary verbs, past-stem forms of progressive verbs, present-, past and perfect-stem forms of derivative verbs, gerund of progressive verbs;
 + **Athematic conjugations**: all forms of basic verbs, future-stem forms of progressive, formative and derivative verbs, present-, perfect-stem forms of progressive and formative verbs, present-stem forms of progressive verbs, past-stem forms of formative verbs.
 
-Some examples with the verb `fara` *hunt*:
+Some examples with the a-verb (3rd conjugation) `fara` *hunt*:
 
 + `faran`: 1 sg. aor. thematic: thematic vowel `a` stands between the ending `-n` and the aorist-stem;
 + `fáran`: 1 sg. pres. athematic: the tense-aspect suffix `a` is a part of the present-stem;
@@ -220,15 +234,65 @@ Some examples with the verb `fara` *hunt*:
 !!! tip "Assumption"
 	No infinitive form but of basic verbs is attested. 
 
-Some non-finite verbal forms (verbal adjectives in `-ite`) include a different thematic vowel &mdash; the **root vowel** which follows the verbal stems: `caraitë` *busy*, `coloite` *tolerant*. Same thematic vowel was added in deverbal nouns (for these, @@).
+Some non-finite verbal forms (verbal adjectives in `-ite`) include a different thematic vowel &mdash; the **root vowel** which follows the verbal stems: `caraitë` *busy*, `coloite` *tolerant*. Same thematic vowel is added in deverbal nouns (for these, @@).
 
 ## Endings
 
 ### Personal and Apersonal Endings
 
-The (a)personal endings of finite verb forms are either long or short, and are the same for all stems:
+The (a)personal endings of finite verb forms are are the same for all stems:
 
 + Apersonal endings mark number, and they are used when the subject of the verb is explicit;
-+ Personal endings mark number and person when the subject is left implicit.
++ Personal endings mark number and person when the subject is left implicit;
++ In singular personal endings can be either short or long depending on euphonic environment.
 
 #### Tables of Endings
+
+<table>
+	<tr>
+		<th/>
+		<th colspan="2">singular</th>
+		<th colspan="2">plural</th>
+		<th colspan="2">dual</th>
+	</tr>
+		<tr>
+		<th/>
+		<th>familiar</th>
+		<th>formal</th>
+		<th>inclusive</th>
+		<th>exclusive</th>
+		<th>inclusive</th>
+		<th>exclusive</th>
+	</tr>
+	<tr>
+		<th>apersonal</th>
+		<td colspan="2" style="text-align:center">&mdash;</td>
+		<td colspan="2" style="text-align:center">-r</td>
+		<td colspan="2" style="text-align:center">-t</td>
+	</tr>
+	<tr>
+		<th>first-person</th>
+		<td colspan="2" style="text-align:center">-n(ye)</td>
+		<td>-lwe</td>
+		<td>-lme</td>
+		<td>-nque, -ngwe</td>
+		<td>-mme</td>
+	</tr>
+		<tr>
+		<th>second-person</th>
+		<td>-t(ye)</td>
+		<td>-l(ye)</td>
+		<td colspan="2" style="text-align:center">-lde</td>
+		<td colspan="2" style="text-align:center">-ste</td>
+	</tr>
+		</tr>
+		<tr>
+		<th>third-person</th>
+		<td colspan="2" style="text-align:center">-s(e)</td>
+		<td colspan="2" style="text-align:center">-lte, -nte</td>
+		<td colspan="2" style="text-align:center">-tte</td>
+	</tr>
+</table>
+
+!!! attention "To-Do"
+	+ What is the difference between optional variants?  
