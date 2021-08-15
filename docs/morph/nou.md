@@ -1,6 +1,6 @@
 # Nouns
 
-## First-Declension Nouns
+## First-Declension Nouns ## {: #fdn }
 
 ### Stems and Types of First-Declension Nouns
 
@@ -12,7 +12,7 @@ The following types of noun belong to the first declension:
 + **weak**: nouns with a *light penult*;
 + nouns in `-oa`.
 
-### Nouns in -a
+### Nouns in -a ### {: #fdna }
 
 Overview of forms:
 
@@ -95,7 +95,7 @@ Overview of forms:
 [^d13]: Such explanation for `Ulmóva` is given in [PE21/8].
 [^d14]: Supposedly, `kawā-ō > kawō > köo > kuo`. Alternative form `có` from `kawā-ō > koa-ō > köo > kō` has been proposed before, and both could coexist [PE21/40].
 
-## Second-Declension Nouns
+## Second-Declension Nouns ## {: #sdn }
 
 ### Stems and Types of Second-Declension Nouns
 
@@ -107,7 +107,7 @@ The following types of noun belong to the second declension:
 + **strong** nouns in `-ye`: *disyllabic* or with a *heavy penult*;
 + their **weak** variants with a *light penult*.
 
-### Nouns in -e
+### Nouns in -e ### {: #nie }
 
 Overview of forms:
 
@@ -140,7 +140,7 @@ In some texts forms like `nasser` *natures*, `wenderon` *of maidens*, `lasseron`
 !!! note 
 	Some nouns in `-e` irregularly decline like nouns in `-ye`, particularly those ending in `-le`, `-ve` and `-tse`: `fintaler` *tricks*, `tyáver` *tastes*, `lotser` *flowers*.
 
-### Nouns in -ye and -ie
+### Nouns in -ye and -ie ### {: #nye }
 
 Overview of forms:
 
