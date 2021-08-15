@@ -52,8 +52,7 @@ Examples (zero-grade ablaut stems and thematic vowels are highlighted):
 |		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
 |	---	|	---	|	---	|	---	|	---	|
 |	basic	|	cen-	|	cen-ë	|	cen-ne	|	cen-uva	|
-|	vocalic u (a)	|	liru-	|	liru-(ë)	|	liru-ne	|	liru-uva	|
-|	vocalic u (b)	|	nicu-	|	niqu-ë	|	niqu-ne	|	nicu-uva	|
+|	vocalic u	|	liru-	|	liru-(ë)	|	liru-ne	|	liru-uva	|
 |	long	|	talat-	|	**talt**-*a*-ø	|	talat-ne	|	**talt**-uva	|
 |	formative	|	siry-	|	**siry**-*a*-ø	|	siriy-ne	|	**siry**-uva	|
 |	vocalic a	|	far-a-	|	far-*a*-ø	|	far-*a*-ne	|	far-uva	|
