@@ -217,7 +217,7 @@ Quenya verbal stems split into seven major groups or **conjugations**:
 4. **vocalic-inceptive** or **u-verbs**: verbs often with an inherently inchoactive sense of <span style="font-variant:small-caps;">&Sqrt;tal-ū</span> shape (with or without a consonantal element): `haru-` (<span style="font-variant:small-caps;">&Sqrt;khad-ū</span>) *sit down*, `liru-` (<span style="font-variant:small-caps;">&Sqrt;lir-ū</span>) *sing*, `cainu-` (<span style="font-variant:small-caps;">&Sqrt;kaj-nū</span>) *lie down*;
 5. **formative verbs**: verbs that add an additional consonant to the stem, usually of inchoactive or anticausative meaning, of <span style="font-variant:small-caps;">&Sqrt;tal-t</span>, <span style="font-variant:small-caps;">&Sqrt;tal-j</span> or <span style="font-variant:small-caps;">&Sqrt;tal-s</span> shape: `cait-` (<span style="font-variant:small-caps;">&Sqrt;kaj-t</span>) *lie*, `siry-` (<span style="font-variant:small-caps;">&Sqrt;sir-j</span>) *flow*, `cals-` (<span style="font-variant:small-caps;">&Sqrt;kal-s</span>) *shine*;
 6. **causative verbs**: verbs with an inherently causative meaning that add an additional syllable to the stem of <span style="font-variant:small-caps;">&Sqrt;tal-ta</span> or <span style="font-variant:small-caps;">&Sqrt;tal-ja</span> shape: `caita-` (<span style="font-variant:small-caps;">&Sqrt;caj-ta</span>) *lay*, `tulta-` (<span style="font-variant:small-caps;">&Sqrt;tul-ta</span>) *send*, `tulya-` (<span style="font-variant:small-caps;">&Sqrt;tul-ja</span>) *lead*;
-7. **derivative verbs**: verbs formed from nouns or adjectives, with or without addition of derivative elements: `tengwa-` *read* (from `tengwa` *letter*), `remba-` *trap* (from `rembe` *net*), `telconta-` *stride* (from `telco` *leg*).
+7. **derivative verbs**: verbs formed from nouns or adjectives, with or without addition of derivative elements: `tengua-` *read* (from `tengua` *letter*), `remba-` *trap* (from `rembe` *net*), `telconta-` *stride* (from `telco` *leg*).
 
 Together conjugations 2-7 are known as **secondary verbs**.
 
@@ -447,7 +447,7 @@ With verb stems beginning
 
 ##### Further Particulars
 
-Verbal roots of <span style="font-variant:small-caps;">&Sqrt;tā</span> shape frequently show **inversion**. When this happens, augment and reduplication follow refular 'consonant-first' form:
+Verbal roots of <span style="font-variant:small-caps;">&Sqrt;tā</span> shape frequently show **inversion**. When this happens, augment and reduplication follow regular 'consonant-first' form:
 
 |	verbal stem	|	stem with augment	|
 |	---			|	---				|
