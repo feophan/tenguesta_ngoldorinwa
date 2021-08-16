@@ -10,7 +10,7 @@ Present stem is formed from a verb stem with either a short- or lengthened-grade
 !!! warning "Exception"
 	Formative verbs with `-t` make their present tense stem with **zero-grade** ablaut, see below.
 
-### Thematic and Athematic Aorists
+### Thematic and Athematic Presents
 
 Forms built on the present stem follow either a thematic or an athematic conjugation.
 

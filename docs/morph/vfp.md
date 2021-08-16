@@ -7,7 +7,7 @@ Present stem is formed from a verb stem with either a short- or lengthened-grade
 + **short-grade**: long, causative, and derivative verbs;
 + **lengthened-grade**: basic verbs, a-verbs, u-verbs, and formative verbs.
 
-### Thematic and Athematic Aorists
+### Thematic and Athematic Perfects
 
 Forms built on the present stem follow either a thematic or an athematic conjugation.
 
