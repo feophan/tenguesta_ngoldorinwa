@@ -33,8 +33,8 @@ Examples (lengthened-grade ablaut stems and thematic vowels are highlighted):
 |	formative (a)	|	sir-y-	|	i-**sír**-y-ie > isírie	|
 |	formative (b)	|	is-t-	|	is-**ís**-ø-ie	|
 |	vocalic a	|	far-a-	|	a-**fár**-ie	|
-|	derivative	|	tengu-a-	|	tengu-*a*-nie	|
-|	causative	|	tul-ta-	|	tul-t-*a*-nie	|
+|	derivative	|	tengu-a-	|	e-tengu-*a*-nie	|
+|	causative	|	tul-ta-	|	u-tul-t-*a*-nie	|
 
 !!! important "Late Tarquesta"
 	Since in lengthened-grade stems formatives (a) and (b) have essentially the same form, the alternative **short-grade** forms developped to distinguish them: `is-t-` > `isi-t-nie` > `isintie`.
