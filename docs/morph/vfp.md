@@ -2,14 +2,14 @@
 
 ### Ablaut in Perfect Stems
 
-Present stem is formed from a verb stem with either a short- or lengthened-grade ablaut:
+Perfect stem is formed from a verb stem with either a short- or lengthened-grade ablaut:
 
 + **short-grade**: long, causative, and derivative verbs;
 + **lengthened-grade**: basic verbs, a-verbs, u-verbs, and formative verbs.
 
 ### Thematic and Athematic Perfects
 
-Forms built on the present stem follow either a thematic or an athematic conjugation.
+Forms built on the perfect stem follow either a thematic or an athematic conjugation.
 
 + **thematic** conjugation: long, derivative and causative verbs.
 + **athematic** conjugation: all other verbs.
