@@ -35,7 +35,7 @@ Verbs which experience metathesis:
 
 + ending in **voiceless stops** `-p`, `-t`, `-c`: `cap-ne > campe`, `mat-ne > mante`, `ruc-ne > runce`;
 + ending in **voiced stop** `-d`: `red-ne > rende`;
-+ ending in **fricatives** `-f`, `-h`, `-z`: `raf-ne > rappe`, `lah-ne > lacce`, `cez-ne > cenze`;
++ ending in **fricatives** `-f`, `-h`, `-z`: `raf-ne > rappe`, `lah-ne > lacce`, `cez-ne > cesse`;
 + ending in `-l`: `tul-ne > tulle`;
 + ending in `-s`: `hlas-ne > hlasse`.
 
@@ -52,12 +52,12 @@ Examples (zero-grade ablaut stems and thematic vowels are highlighted):
 |		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
 |	---	|	---	|	---	|	---	|	---	|
 |	basic	|	cen-	|	cen-ë	|	cen-ne	|	cen-uva	|
-|	vocalic u	|	liru-	|	liru-(ë)	|	liru-ne	|	liru-uva	|
-|	long	|	talat-	|	**talt**-*a*-ø	|	talat-ne	|	**talt**-uva	|
-|	formative	|	siry-	|	**siry**-*a*-ø	|	siriy-ne	|	**siry**-uva	|
+|	vocalic u	|	lir-u-	|	lir-u-(ë)	|	lir-u-ne	|	lir-u-uva > lirúva	|
+|	long	|	talat-	|	**talt**-*a*-ø	|	talat-ne > talante	|	**talt**-uva	|
+|	formative	|	sir-y-	|	**sir**-y-*a*-ø	|	siri-y-ne > sirinye	|	**sir**-y-uva	|
 |	vocalic a	|	far-a-	|	far-*a*-ø	|	far-*a*-ne	|	far-uva	|
-|	derivative	|	tengu-a-	|	tengu-*a*-ø	|	tengu-*a*-ne	|	tengu-uva	|
-|	causative	|	tult-a-	|	tult-*a*-ø	|	tult-*a*-ne	|	tult-*a*-uva	|
+|	derivative	|	tengu-a-	|	tengu-*a*-ø	|	tengu-*a*-ne	|	tengu-uva > tengúva	|
+|	causative	|	tul-ta-	|	tul-t-*a*-ø	|	tul-t-*a*-ne	|	tul-t-*a*-uva	|
 
 ## Particular Formations
 
@@ -67,14 +67,37 @@ The u-verbs which end in a velar consonant behave transiently between true u-ver
 
 ### Augmented Preterite
 
-A special group of formative verbs of <span style="font-variant:small-caps;">&Sqrt;tā</span> shape might form preterite from inverted root with an augment: `is-t > i-si-t-ne > isinte`, `or-y > o-ro-t-ne > oronte`. The resulting form is superficially the same as from short-grade ablaut: `isi-t-ne > isinte`, `orot-ne > oronte`. However, the augment is not a part of the stem, and can be freely omitted, especially if following a vowel (elision, @@): `sinte`, `ronte`. The vowel of a short-grade ablaut stem can't be elided.  
+A special group of formative verbs of <span style="font-variant:small-caps;">&Sqrt;tā</span> shape might form preterite from inverted root with an augment: `is-t-` > `i-si-t-ne` > `isinte`, `or-y-` > `o-ro-t-ne` > `oronte`. The resulting form is superficially the same as from short-grade ablaut: `isi-t-ne` > `isinte`, `orot-ne` > `oronte`. However, the augment is not a part of the stem, and can be freely omitted, especially if following a vowel (elision, @@): `sinte`, `ronte`. The vowel of a short-grade ablaut stem can't be elided.  
 
 ### Long Preterite
 
 Some basic and formative verbs show a lengthened-grade ablaut in preterite:
 
 + verbs ending in `-b` or `-w`: `lab-` > `láve`, `tyaw-` > `tyáve`;
++ verbs ending in `-d` beside regular `-nde` sometimes reformed either after regular `-r` verbs to no-metathesis `-rne`: `nid-` > `nirne`; or, more commonly, to long preterite: `yod-` > `yóre`;
++ verbs in `-y` beside regular `-ine` could have a long preterite form (see below): `ray-` > `ráie`;
 
 !!! important "Late Tarquesta"
-	+ verbs ending in `-d` beside regular `-nde` sometimes reformed either to no-metathesis `-rne`: `nid-` > `nirne`; or long preterite: `yod-` > `yóre`;
 	+ later verbs in `-l` also formed a long preterite: `tul-` > `túle`;
+	+ eventually such forms started to spread and become more common: `car-` > `cáre`.
+	
+### Long Future and Contract Future
+
+Basic verbs ending in `-b` or `-w` show an irregular future form depending on its root vowel:
+
++ if root vowel is `-o-` or `-u-`, the future ending is `-ua`: `tub-` > `tuvua`;
++ with any other root vowel, the final consonant is dropped: `lab-` > `la-ø-uva` > `lauva`.  
+	
+### Verbs in -ea
+
+A small and rare group of verbs which show `-ea` in aorist tenses comprises basic verbs with stems in `-ay` and a-verbs enging in `-e(ng)a`:
+
+|		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
+|	---	|	---	|	---	|	---	|	---	|
+|	basic	|	ray-	|	ray-ë > rea	|	ray-ne > raine	|	ray-uva	|
+|	vocalic a	|	te(ng)a-	|	te-*a*-ø	|	te(ng)-ne > tenge	|	te-uva	|
+
+!!! note
+	The basic verbs in `-y` blended with formative verbs in `-y-t`. As the result, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
+	
+	Verbs which kept basic conjugation, commonly employed long preterite: `ray-` > `ráie`, `cay-` > `cáie`.

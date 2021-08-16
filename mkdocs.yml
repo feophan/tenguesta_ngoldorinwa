@@ -6,6 +6,9 @@ nav:
         - '4. Nouns': morph/nou.md
         - '12. Introduction to Verb Forms': morph/ivf.md
         - '13. The Aorist': morph/vfa.md
+        - '14. The Present': morph/vfi.md
+        - '15. The Perfect': morph/vfp.md
+        - '16. Principal Parts': morph/vov.md
     - 'Syntax':
         - '26. Simple Sentences': syntx/sen.md
         - '27. Agreement': syntx/agr.md

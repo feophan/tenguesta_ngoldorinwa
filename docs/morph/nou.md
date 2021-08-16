@@ -186,18 +186,18 @@ The third declension is also known as the **semivocalic declension**, since it c
 
 The following types of noun belong to the third declension:
 
-+ nouns in `-e`, which show `-i-` in inflection;
-+ nouns in `-o`, which show `-u-` in inflection;
++ nouns in `-ë`, which show `-i-` in inflection;
++ nouns in `-ö`, which show `-u-` in inflection;
 + their **weak** variants.
 
-### Nouns in -e
+### Nouns in -ë
 
 Overview of forms:
 
-| strong  	| súre    	| *wind*    	|
+| strong  	| súrë    	| *wind*    	|
 |---------	|----------	|-----------	|
 |         	| *sg*     	| *pl*      	|
-| `com.`   	| súre    	| súri	    	|
+| `com.`   	| súrë    	| súri	    	|
 | `gen. I` 	| suryo   	| súrion	  	|
 | `gen. II`	| súriva  	| súríva	  	|
 | `dat.`   	| suryen[^d31]| súrin		   	|
@@ -205,9 +205,9 @@ Overview of forms:
 | `loc.`   	| súrisse 	| súrissen		|
 | `abl.`   	| súrillo 	| súrillon		|
 | `all.`   	| súrinna 	| súrinnar	 	|
-| **weak**  |**linde**	| ***song***  	|
+| **weak**  |**lindë**	| ***song***  	|
 |         	| *sg*     	| *pl*      	|
-| `com.`   	| linde   	| lindi    		|
+| `com.`   	| lindë   	| lindi    		|
 | `gen. I` 	| lindio	| lindion	  	|
 | `gen. II`	| lindiva	| lindíva	  	|
 | `dat.`   	| lindin	| lindína   	|
@@ -216,14 +216,14 @@ Overview of forms:
 | `abl.`   	| lindillo	| lindillon 	|
 | `all.`   	| lindinna  | lindinnar 	|
 
-### Nouns in -o
+### Nouns in -ö
 
 Overview of forms:
 
-| strong  	| rusco    	| *fox*   		|
+| strong  	| ruscö    	| *fox*   		|
 |---------	|----------	|-----------	|
 |         	| *sg*     	| *pl*      	|
-| `com.`   	| rusco    	| rusqui   		|
+| `com.`   	| ruscö    	| rusqui   		|
 | `gen. I` 	| rusquo	| rusquion	  	|
 | `gen. II`	| ruscuva  	| rusquiva	  	|
 | `dat.`   	| rusquen[^d31]| rusquin	 	|
@@ -231,9 +231,9 @@ Overview of forms:
 | `loc.`   	| ruscusse 	| ruscussen	 	|
 | `abl.`   	| ruscullo 	| ruscullon	 	|
 | `all.`   	| ruscunna 	| ruscunnar	 	|
-| **weak**  | **luppo** | ***lump***  	|
+| **weak**  | **luppö** | ***lump***  	|
 |         	| *sg*     	| *pl*      	|
-| `com.`   	| luppo   	| luppuvi    	|
+| `com.`   	| luppö   	| luppuvi    	|
 | `gen. I` 	| luppuo	| luppuron  	|
 | `gen. II`	| luppuva 	| luppuiva		|
 | `dat.`   	| luppun  	| luppuin   	|
@@ -243,7 +243,7 @@ Overview of forms:
 | `all.`   	| lupunna	| luppunnar 	|
 
 !!! note 
-	Weak nouns might have plural forms of the **first** declension: `macso` *mire* &mdash; `macsor`.
+	Weak nouns might have plural forms of the **first** declension: `macsö` *mire* &mdash; `macsor`.
 
 !!! warning 
 	Words of this declension originally tend to be reanalyzed as belonging to the **first** and **second** declension respectively[^d32]: `taurisse` \> `tauresse`, `languen` \> `langon`. Use them consistently!

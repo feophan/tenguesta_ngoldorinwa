@@ -1,5 +1,6 @@
 # Introduction to Verb Forms
 
+<!---
 ## Summary of the Quenya Verbal System
 
 <table>
@@ -81,6 +82,7 @@
 		<td>cáriévane,<br>*(cáriéluváne)</td>
 	</tr>
 </table>
+--->
 
 ## Basic Categories and Elements
 
@@ -169,6 +171,9 @@ The mechanisms involved in forming tense-aspect stems from verb stems are detail
 !!! attention "To-Do"
 	Verbs lacking certain tense-aspect stems altogether are called **defective verbs**. Are there examples of defective verbs in Quenya?
 	
+	+ PE22/117: verbs like `lir-` are defective;
+	+ -ea verbs from -ng- are defective and don't have present tense stem.
+	
 #### Thematic Vowels
 
 Some elements appear between the verb-stem and the tense-aspect stem ending:
@@ -254,7 +259,7 @@ The endings of finite verb forms are divided into **primary**, which mark tense-
 
 |	aorist	|	present	|	preterite	|	perfect	|	future	|
 |	---	|	---	|	---	|	---	|	---	|
-|	-(ë)	|	-(y)a	|	-ne	|	-(n)ie	|	-uva	|
+|	-(ë)	|	-(y)a	|	-(n)e	|	-(n)ie	|	-uva	|
 
 More details in @@.
 
