@@ -4,8 +4,15 @@
 
 Aorist stem is formed from a verb stem with either a short- or zero-grade ablaut:
 
-+ **zero-grade**: formative and long verbs in aorist and future;
-+ **short-grade**: basic verbs, a-verbs, u-verbs, causative verbs, derivative verbs in all tenses, formative and long verbs in preterite.
++ **zero-grade**: formative and long verbs in aorist and future, other conjugations in all tenses;
++ **short-grade**: formative and long verbs in preterite.
+
+!!! note "Reminder"
+	Derivative and causative conjugations have **only zero-grade** stem (&rarr;@@).
+	
+	The u-verbs don't have a short-grade ablaut.
+	
+	Basic and a-verbs use short-grade ablaut only in **derivational morphology**, but not as a part of tense conjugation.
 
 ### Thematic and Athematic Aorists
 
@@ -13,6 +20,9 @@ Forms built on the aorist stem follow either a thematic or an athematic conjugat
 
 + **thematic** conjugation: all causative tense forms, aorist and preterite tense forms of derivative and a-verbs, aorist tense form of long and formative verbs.
 + **athematic** conjugation: all basic and u-verbs tense forms, preterite and future tense forms of long and formative verbs, future tense forms of derivative and a-verbs.
+
+!!! important "Late Tarquesta"
+	In preterite a-verbs became **athematic**: `far-a-` > `far-ne`.
 
 ### Tense Endings
 
@@ -47,23 +57,57 @@ Verbs which experience metathesis:
 
 ### Overview of Regular Forms
 
-Examples (zero-grade ablaut stems and thematic vowels are highlighted):
+Examples (short-grade ablaut stems and thematic vowels are highlighted):
 
 |		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
 |	---	|	---	|	---	|	---	|	---	|
 |	basic	|	cen-	|	cen-ë	|	cen-ne	|	cen-uva	|
 |	vocalic u	|	lir-u-	|	lir-u-(ë)	|	lir-u-ne	|	lir-u-uva > lirúva	|
-|	long	|	talat-	|	**talt**-*a*-ø	|	talat-ne > talante	|	**talt**-uva	|
-|	formative	|	sir-y-	|	**sir**-y-*a*-ø	|	siri-y-ne > sirinye	|	**sir**-y-uva	|
+|	long	|	talat-	|	talt-*a*-ø	|	**talat**-ne > talante	|	talt-uva	|
+|	formative (a)	|	sir-y-	|	sir-y-*a*-ø	|	**siri**-y-ne > sirinye	|	sir-y-uva	|
+|	formative (b)	|	lah-t-	|	lah-t-*a*-ø	|	**laha**-t-ne > lahante	|	lah-t-uva	|
 |	vocalic a	|	far-a-	|	far-*a*-ø	|	far-*a*-ne	|	far-uva	|
 |	derivative	|	tengu-a-	|	tengu-*a*-ø	|	tengu-*a*-ne	|	tengu-uva > tengúva	|
-|	causative	|	tul-ta-	|	tul-t-*a*-ø	|	tul-t-*a*-ne	|	tul-t-*a*-uva	|
+|	causative (a)	|	tul-ya-	|	tul-y-*a*-ø	|	tul-y-*a*-ne	|	tul-y-*a*-uva	|
+|	causative (b)	|	tul-ta-	|	tul-t-*a*-ø	|	tul-t-*a*-ne	|	tul-t-*a*-uva	|
 
 ## Particular Formations
 
-### Spurious u-Verbs
+### Spurious Verbs
 
-The u-verbs which end in a velar consonant behave transiently between true u-verbs and basic verbs. They receive ending like basic verbs in aorist and preterite: `micu-` > aorist `miquë`, preterite `minque`; but behave like true u-verbs in future: `micu-uva` > `micúva`.
+It happens that in different tenses some verbs belong to different conjugations. The reasons for that vary, but all those verbs are usually easily recognized, and more importantly, they behave regularly within the selected conjugation. We can find:
+
++ spurious u-verbs: they behave like basic verbs in aorist and preterite: `micu-` > aorist `miquë`, preterite `minque`; but like u-verbs in future: `micu-uva` > `micúva`;
++ spurious formatives: they behave like formative verbs in aorist and future: `cay-t-` > aorist `caita`, future `caituva`; but like basic verbs in preterite: `cay-ne` > `caine`;
+
+#### Spurious u-Verbs
+
+There are two types of spurious u-verbs:
+
++ verbs ending in a velar consonant: `micu-`, `nicu-`;
++ defective basic verbs which were partially displaced by u-verbs: `lir-`, `cel-`.
+
+|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
+|	---	|	---	|	---	|	---	|
+|	nicu-	|	niqu-ë	|	niqu-ne	> ninque, nic-u-ne |	nicu-uva > nicúva	|
+|	lir-	|	lir-ë	|	lir-ne, lir-u-ne	|	lir-u-uva > lirúva	|
+
+The preference for a form in preterite is sporadic and varies from author to author.
+
+#### Spurious Formative Verbs
+
+The basic verbs ending in a semivowel largely blended with the formative verbs from the same historical root. Such verbs show variant forms in preterite:
+
+|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
+|	---	|	---	|	---	|	---	|
+|	cay-(t)-	|	cay-t-*a*-ø	|	**caya**-t-ne > ceante, cay-ne > caine |	cay-t-uva	|
+|	law-(t)-	|	law-t-*a*-ø		|	**lawa**-t-ne > loante, law-ne > laune	|	law-t-uva	|
+|	law-(y)-	|	law-y-*a*-ø	|	**lawa**-y-ne > loanye, law-ne > laune |	law-y-uva	|
+
+The spurious verbs with `y`-extension were rare, but basic preterite for `t`-extension was regular.
+
+!!! important "Late Tarquesta"
+	Eventually formative verbs were brought into line and became regular. Basic forms which persisted commonly transferred to **long peterite** (see below).
 
 ### Augmented Preterite
 
@@ -90,7 +134,7 @@ Basic verbs ending in `-b` or `-w` show an irregular future form depending on it
 	
 ### Verbs in -ea
 
-A small and rare group of verbs which show `-ea` in aorist tenses comprises basic verbs with stems in `-ay` and a-verbs enging in `-e(ng)a`:
+A small and rare group of verbs which show `-ea` in aorist tenses comprises basic verbs with stems in `-ay` and a-verbs ending in `-e(ng)a`:
 
 |		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
 |	---	|	---	|	---	|	---	|	---	|
@@ -98,6 +142,6 @@ A small and rare group of verbs which show `-ea` in aorist tenses comprises basi
 |	vocalic a	|	te(ng)a-	|	te-*a*-ø	|	te(ng)-ne > tenge	|	te-uva	|
 
 !!! note
-	The basic verbs in `-y` blended with formative verbs in `-y-t`. As the result, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
+	Since basic verbs in `-y` became spurious, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
 	
-	Verbs which kept basic conjugation, commonly employed long preterite: `ray-` > `ráie`, `cay-` > `cáie`.
+	But verbs which *kept* basic conjugation, commonly employed long preterite: `ray-` > `ráie`, `cay-` > `cáie`.

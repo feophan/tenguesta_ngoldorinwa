@@ -245,8 +245,6 @@ Some examples with the a-verb (3rd conjugation) `fara` *hunt*:
 !!! tip "Assumption"
 	No infinitive form but of basic verbs is attested. 
 
-Some non-finite verbal forms (verbal adjectives in `-ite`) include a different thematic vowel &mdash; the **root vowel** which follows the verbal stems: `caraitë` *busy*, `coloitë` *tolerant*. Same thematic vowel is added in deverbal nouns (for these, @@).
-
 ## Endings
 
 ### Endings of Finite Forms
