@@ -230,8 +230,8 @@ Together conjugations 2-7 are known as **secondary verbs**.
 
 Quenya verb forms are either thematic or athematic. Thematic forms include a thematic vowel `a` between the verb-stem and the non-finite or tense-aspect ending. Athematic forms do not include a thematic vowel: thus in athematic forms tense-aspect ending is attached immediately to the stem:
 
-+ **Thematic conjugations**: all forms of causative verbs, aorist-stem forms of all secondary verbs, past-stem forms of progressive verbs, present-, past and perfect-stem forms of derivative verbs, gerund of progressive verbs;
-+ **Athematic conjugations**: all forms of basic verbs, future-stem forms of progressive, formative and derivative verbs, present-, perfect-stem forms of progressive and formative verbs, present-stem forms of progressive verbs, past-stem forms of formative verbs.
++ **Thematic conjugations**: all causative tense forms, all but future tense of derivative verbs, aorist and preterite tense forms of a-verbs, aorist tense form of long and formative verbs;
++ **Athematic conjugations**: all basic and u-verbs tense forms, all but aorist tense forms of long and formative verbs, all but pretertire and future tense forms of a-verbs, future tense forms of derivative verbs.
 
 Some examples with the a-verb (3rd conjugation) `fara` *hunt*:
 
