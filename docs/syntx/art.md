@@ -118,6 +118,9 @@ A noun usually also doesn’t have the article when it refers to an **abstract c
 The article is not used with nouns modified by **demonstrative** and **possessive pronouns**, **quantifiers**, or **determiner adjectives** such as `métima` *the last*:
 {: .ref #28}
 
+!!! attention "To-Do"
+	Is the article used before superlatives? PE17/91 says 'no', but PE21/78 says 'yes'.
+
 + `vanda sina termaruva Elenna-nóreo alcar enyalien` [UT/305]. *This oath shall stand in memory of the glory of the Land of the Star*.
 {: .exp}
 + `nai amanya onnalya ter coivierya` [VT49/41]. *May your child be blessed throughout his life*.

@@ -296,6 +296,9 @@ Overview of forms:
 
 ## Fifth-Declension Nouns
 
+!!! attention "To-Do"
+	Add or mention gen.II on -CCua.
+
 ### Stems and Types of Fifth-Declension Nouns
 
 All fifth-declension nouns have a **stem ending in a consonant**.

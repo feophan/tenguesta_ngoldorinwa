@@ -79,6 +79,7 @@ It happens that in different tenses some verbs belong to different conjugations.
 
 + spurious u-verbs: they behave like basic verbs in aorist and preterite: `micu-` > aorist `miquë`, preterite `minque`; but like u-verbs in future: `micu-uva` > `micúva`;
 + spurious formatives: they behave like formative verbs in aorist and future: `cay-t-` > aorist `caita`, future `caituva`; but like basic verbs in preterite: `cay-ne` > `caine`;
++ spurious s-verbs: they behave like formative verbs in aorist and future: `cal-s-` > aorist `calarya`, future `calaryuva`; but like long verbs in preterite: `cala-s-ne` > `calasse`; 
 
 #### Spurious u-Verbs
 
@@ -108,6 +109,17 @@ The spurious verbs with `y`-extension were rare, but basic preterite for `t`-ext
 
 !!! important "Late Tarquesta"
 	Eventually formative verbs were brought into line and became regular. Basic forms which persisted commonly transferred to **long peterite** (see below).
+	
+#### Spurious s-Verbs
+
+Formative verbs with `-s-` largely merged with formative (a) conjugation, but have long conjugation in preterite:
+
+|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
+|	---	|	---	|	---	|	---	|
+|	cal-s-	|	**cala**-s-y-*a*-ø > calarya	|	**cala**-s-ø-ne > calasse |	**cala**-s-y-uva > calaryuva	|
+
+!!! warning
+	Spurious s-vebs have **only short-grade ablaut** form.
 
 ### Augmented Preterite
 
@@ -145,3 +157,18 @@ A small and rare group of verbs which show `-ea` in aorist tenses comprises basi
 	Since basic verbs in `-y` became spurious, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
 	
 	But verbs which *kept* basic conjugation, commonly employed long preterite: `ray-` > `ráie`, `cay-` > `cáie`.
+
+### Formative-Derivative and Causative-Derivative
+
+The derivative verbs which make use of additional suffixes like `-t`, `-s` or `-ta` technically belong to either formative or causative conjugation, except that just like derivative verbs, they have **no ablaut**.
+
+Verbs with addition of `-s` were **spurious** (see above): they had formative (a) forms in aorist and future tense, but joined long conjugation in preterite.
+
+!!! warning
+	Verbs with `-nta` suffix were derivative-proper: `telco-nta` > preterite `telcontane`, future `telcontuva` (not causative \*\*`telcontauva`).
+
+|		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
+|	---	|	---	|	---	|	---	|	---	|
+|	formative (a)	|	tenca-s-	|	tenca-s-y-*a*-ø	|	tenca-s-ø-ne	|	tenca-s-y-uva	|
+|	formative (b)	|	tenca-t-	|	tenca-t-*a*-ø	|	tenca-t-ne	|	tenca-t-uva	|
+|	derivative	|	tenca-ta-	|	tenca-t-*a*-ø	|	tenca-t-*a*-ne	|	tenca-t-*a*-uva	|

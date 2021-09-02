@@ -4,85 +4,68 @@
 
 <table>
 	<tr>
-		<th colspan="6">Basic Forms</th>
-	</tr>
-	<tr>
 		<th rowspan="3" colspan="2"></th>
 		<th colspan="4">Tense</th>
-	<tr>
-	<tr>
-		<th>Present</th>
-		<th>Past</th>
-		<th>Future</th>
 	</tr>
 	<tr>
-		<th rowspan="3" ><span style="writing-mode: vertical-lr; -ms-writing-mode: tb-rl; transform: rotate(180deg);">Aspect</span></th>
+		<th colspan="2">Present</th>
+		<th colspan="2">Past</th>
+	</tr>
+	<tr>
+		<th><i>non-prospective</i></th>
+		<th><i>prospective</i></th>
+		<th><i>non-prospective</i></th>
+		<th><i>prospective</i></th>
+	</tr>
+	<tr>
+		<th rowspan="3"><span style="writing-mode: vertical-lr; -ms-writing-mode: tb-rl; transform: rotate(180deg);">Aspect</span></th>
 		<th>Simple</th>
 		<td>carë</td>
-		<td>carne</td>
 		<td>caruva</td>
+		<td>carne</td>
+		<td>caruváne</td>
 	</tr>
 	<tr>
-		<th>Imperfect</th>
+		<th>Continuous</th>
 		<td>cára</td>
+		<td>**cár(a)uva</td>
 		<td>cárane</td>
-		<td>
+		<td>&mdash;</td>
 	</tr>
 	<tr>
 		<th>Perfect</th>
-		<td>
 		<td>acárie</td>
-		<td>
+		<td>**(a)cáriéva</td>
+		<td>acáriéne</td>
+		<td>**(a)cáriévane</td>
 	</tr>
 	<tr>
 		<th colspan="2">Active Participle</th>
-		<td>carila</td>
-		<td>cáriéla</td>
+		<td>cárala</td>
 		<td>caruvaila</td>
+		<td>cáriéla</td>
+		<td>&mdash;</td>
 	</tr>
 	<tr>
 		<th colspan="2">Passive Participle</th>
-		<td>carina</td>
-		<td>cárienwa</td>
+		<td>cárina</td>
 		<td>caruvaina</td>
+		<td>cárienwa</td>
+		<td>&mdash;</td>
 	</tr>
 	<tr>
 		<th colspan="2">Gerund</th>
-		<td colspan="3" style="text-align:center;">carie</td>
+		<td colspan="4" style="text-align:center;">carie</td>
 	</tr>
 	<tr>
 		<th colspan="2">Infinitive</th>
-		<td colspan="3" style="text-align:center;">carita</td>
-	</tr>
-	<tr>
-		<th colspan="5">Derivative Forms</th>
-	</tr>
-	<tr>
-	<tr>
-		<th rowspan="2" ><span style="writing-mode: vertical-lr; -ms-writing-mode: tb-rl; transform: rotate(180deg);">Aspect</span></th>
-		<th>Imperfect</th>
-		<td>
-		<td>
-		<td>*(cariluva)</td>
-	</tr>
-	<tr>
-		<th>Perfect</th>
-		<td>
-		<td>
-		<td>(a)cáriéva,<br>*(cáriéluva)</td>
-	</tr>
-	<tr>
-		<th colspan="2" rowspan="2">Remote Tense</th>
-		<td rowspan="2">*(acáriéla)</td>
-		<td rowspan="2">cáriéne</td>
-		<td>caruvane</td>
-	</tr>
-	<tr>
-		<td>cáriévane,<br>*(cáriéluváne)</td>
+		<td colspan="4" style="text-align:center;">carita</td>
 	</tr>
 </table>
 
-## Basic Verbs
+## Finite Forms
+
+### Basic Verbs
 
 |	|	aorist	|	present	|	preterite	|	imperfect	|	perfect	|	future	|
 |	---	|	---	|	---	|	---	|	---	|	---	|	---	|
@@ -104,4 +87,14 @@
 |	ndeb-	|	nevë	|	néva	|	néve	|	névane	|	endévie	|	neuva	|
 |	cub-	|	cuvë	|	cúva	|	cúve	|	cúvane	|	ucúvie	|	cuvua	|
 |	now-	|	novë	|	nóva	|	nóve	|	nóvane	|	onóvie	|	novua	|
-|	tyaw-	|	tyavë	|	tyáva	|	tyáve	|	tyávane	|	atyávie	|	tyauva	|	
+|	tyaw-	|	tyavë	|	tyáva	|	tyáve	|	tyávane	|	atyávie	|	tyauva	|
+|	ndac-	|	nacë	|	náca	|	nance	|	nácane	|	andácie	|	nacuva	|
+|	mbar-	|	marë	|	mára	|	marne	|	márane	|	ambárie	|	maruva	|
+|	ngor-	|	ngorë	|	ngóra	|	ngorne	|	ngórane	|	ongórie	|	ngoruva	|
+
+### Formative Verbs
+
+|	|	aorist	|	present	|	preterite	|	imperfect	|	perfect	|	future	|
+|	---	|	---	|	---	|	---	|	---	|	---	|	---	|
+|	or-t	|	orta	|	ortya	|	oronte	|	ortane	|	orórie	|	ortuva	|
+	

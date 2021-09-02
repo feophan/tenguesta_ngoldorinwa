@@ -1,4 +1,4 @@
-site_name: Tenguesta Ngoldorinwa v0.2
+site_name: Tenguesta Ngoldorinwa
 site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 
 nav:
@@ -15,8 +15,9 @@ nav:
         - '28. The Article': syntx/art.md
         - '29. Pronouns and Quantifiers': syntx/pro.md
         - '30. Cases': syntx/cas.md
+        - '32. Comparison': syntx/cmp.md
     - 'Appendix':
-        - 'Article': dat/art.md
+        - 'A: Primary Material': dat/can.md
             
 theme:
     name: readthedocs

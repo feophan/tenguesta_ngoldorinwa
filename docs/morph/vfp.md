@@ -2,7 +2,7 @@
 
 ### Ablaut in Perfect Stems
 
-Perfect stem is formed from a verb stem with either a short- or lengthened-grade ablaut:
+Perfect stem is formed from a verb stem with either a zero- or lengthened-grade ablaut:
 
 + **zero-grade**: causative and derivative verbs;
 + **lengthened-grade**: basic verbs, a-verbs, u-verbs, and formative verbs.
@@ -47,3 +47,6 @@ Examples (lengthened-grade ablaut stems and thematic vowels are highlighted):
 
 !!! important "Late Tarquesta"
 	Since in lengthened-grade stems formatives (a) and (b) have essentially the same form, the alternative **short-grade** forms developped to distinguish them: `is-t-` > `isi-t-nie` > `isintie`.
+	
+!!! attention "To-Do"
+	Perfect from the preterite forms like *engie*, *lambie*, *alahtie*.
