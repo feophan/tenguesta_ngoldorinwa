@@ -12,6 +12,11 @@ ul > li > ul {
 	margin-bottom:12px !important;
 }
 
+/* Primary Material listing */
+ol > li.pm {
+	list-style-type: lower-alpha !important;
+}
+
 /* Fix list spacing in admonitions */
 .admonition ul {
 	margin-bottom: 0px !important;
@@ -53,6 +58,26 @@ h1 {
 	font-family: 'tengwar';
 	border-bottom: none !important;
 }
+
+/* IPA font support */
+@font-face {
+  font-family: 'fira';
+  src:  url('./font/FiraGO-Book.woff2') format('woff2');
+  font-weight: normal; font-style: normal;
+}
+
+.ipa {
+	font-family: 'fira';
+}
+
+/* Sources Text */
+
+.src {
+	font-size: x-small;
+	margin-bottom:0px;
+}
+
+/* Notes Styles */
 
 .admonition-title: {
 	font-weight: normal;

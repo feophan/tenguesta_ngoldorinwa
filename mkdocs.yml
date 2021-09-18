@@ -1,7 +1,9 @@
-site_name: Tenguesta Ngoldorinwa
+site_name: Tenguesta Goldorinwa
 site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 
 nav:
+    - 'Phonology':
+        - '1. The Sounds': phon/sou.md
     - 'Morphology':
         - '4. Nouns': morph/nou.md
         - '12. Introduction to Verb Forms': morph/ivf.md
@@ -17,7 +19,7 @@ nav:
         - '30. Cases': syntx/cas.md
         - '32. Comparison': syntx/cmp.md
     - 'Appendix':
-        - 'A: Primary Material': dat/can.md
+        - 'A. Primary Material': dat/can.md
             
 theme:
     name: readthedocs

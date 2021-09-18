@@ -42,7 +42,7 @@ A special form of adjective, called **elative**, expresses a relatively **high d
 + `elen ancalima` *very bright star, star brighter than usual*.
 {: .exp}
 
-The elative is formed either with a prefix `ama-` or with `ari-`, the latter expressing much higher **contrast** between concepts, persons, entities or groups (&rarr;[A.@@](../dat/can.md#A.1)). Finally, a prefix `ere-` indicates the uniqueness of the high degree of intensity:
+The elative is formed either with a prefix `ama-` or with `ari-`, the latter expressing much higher **contrast** between concepts, persons, entities or groups[^A1]. Finally, a prefix `ere-` indicates the uniqueness of the high degree of intensity:
 {: .ref #32}
 
 + `elen ancalima` *very bright star*;
@@ -103,9 +103,9 @@ Prepositions `epe` and `nó`[^cmp1] in conjunction with **positive** or **graded
 {: .exp}
 
 !!! error "Early Material"
-	No example of attenuative in later phases has been published yet, but &rarr;[A.@@](../dat/can.md#A.2).
+	No example of attenuative in later phases has been published yet, but there is a document where they might be mentioned[^A2].
 	
-	It is not clear whether positive adjectives would be permitted with these markers, but &rarr;[A.@@](../dat/can.md#A.3).
+	It is not clear whether positive adjectives would be permitted with these markers, but they might well be[^A3].
 
 Other spatial prepositions also occur in this role:
 
@@ -205,7 +205,7 @@ Expressions of similarity and dissimilarity belong to various lexical classes:
 While the comparative expresses the **higher degree** of the meaning of an adjective with respect to some **reference**, the **superlative** expresses the **highest degree**. The comparative is employed to compare two entities or two groups of entities, while the superlative typically oposes one entity to a group. The superlative in Quenya is usually expressed in one of three ways:
 {: .ref #32}
 
-+ an article with partitive (&rarr;[A.@@](../dat/can.md#A.3)):
++ an article with partitive[^A3]:
 
 	+ `i rindë roccoron` *the fastest of horses*;
 	{: .exp}
@@ -231,4 +231,7 @@ While the comparative expresses the **higher degree** of the meaning of an adjec
 + "Comparative and superlative" by Pierluigi Cuzzolin
 + "Equative and similative constructions in the languages of Europe" by Martin Haspelmath
 
+[^A1]: [PE17/56]: "The difference is that *ari* ( < *arya*-, to excel) implies a greater degree of the quality, and/or a greater gap between the thing so described and its (nearest) competitor".
+[^A2]: [PE21/78]: "see below on CE 'noun and adjective suffixes and prefixes'" {*pointing to yet unpublished text*}.
+[^A3]: [PE21/78]: "The superlative was usually expressed by an article and partitive: as 'the swift among horses'; the comparative with some preposition: as 'swift beyond others'".
 [^cmp1]: Only comparative with `epe` is attested.

@@ -1,3 +1,6 @@
+!!! attention "To-Do"
+	Add *farinye*-type preterite
+	
 # The Aorist Stem
 
 ### Ablaut in Aorist Stems
