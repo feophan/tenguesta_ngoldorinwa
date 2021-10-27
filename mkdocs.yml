@@ -4,6 +4,7 @@ site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 nav:
     - 'Phonology':
         - '1. The Sounds': phon/sou.md
+        - '2. The Signs': phon/sig.md
     - 'Morphology':
         - '4. Nouns': morph/nou.md
         - '12. Introduction to Verb Forms': morph/ivf.md

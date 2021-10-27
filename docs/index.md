@@ -13,6 +13,9 @@ Since the main goal of this grammar is to be used as a reference for a *specific
 
 ## Updates
 
++ v0.3.1:
+	+ the way to provide primary sources is fixed;
+	+ the chapter 'Sounds' is added.
 + v0.2.3:
 	+ the site's name has been changed to accomodate new spelling convention;
 	+ the chapter 'Comparison' is added.
