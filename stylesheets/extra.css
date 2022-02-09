@@ -12,6 +12,10 @@ ul > li > ul {
 	margin-bottom:12px !important;
 }
 
+ul > li > p {
+	margin-bottom:12px !important;
+}
+
 /* Primary Material listing */
 ol > li.pm {
 	list-style-type: lower-alpha !important;
