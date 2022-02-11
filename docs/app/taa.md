@@ -1,5 +1,7 @@
 # Aspect in Quenya
 
+## Grammatical Aspect
+
 In his work[^lj] Lars Johanson investigated how the aspectual systems can be regarded as an interaction of a limited set of viewpoint markers. Those relevant to Quenya include:
 
 + *intraterminality* vs. *nonintraterminality*
@@ -7,7 +9,7 @@ In his work[^lj] Lars Johanson investigated how the aspectual systems can be reg
 
 Marked members of the oppositions are items with the values intraterminality (+INTRA) and postterminality (+POST), implying the positive notion. Unmarked members are items with the values nonintraterminality (–INTRA) and nonpostterminality (–POST), implying negation of, or neutrality towards, the positive notion on a common basis of comparison. An item may also be naturally characterized by a certain value though lacking a competing item in the same temporal stratum, e.g. +INTRA&deg;, +POST&deg;.
  
-## Intraterminality
+### Intraterminality
 
 The most widespread viewpoint opposition in European languages is that of intraterminality vs. nonintraterminality. Intraterminality, +INTRA, envisages the event from an internal point of view: within its limits, after its beginning and before its end. +INTRA items view the event in its course and are unable to grasp it in its totality. In narrative discourse, this internal way of viewing events makes them non-propulsive, incapable of advancing a plot.
 
@@ -15,7 +17,7 @@ Nonintraterminality, –INTRA, as opposed to +INTRA, does not present the event 
 
 The ±INTRA opposition is found in large swathes of Europe. The items signaling intraterminality show varying degrees of grammaticalization and generalized use. In many languages the ±INTRA distincion is obligatory in the past tense. There are, however, also systems in which +INTRA items are used so restrictively that the opposing items seem to be rather neutral +PAST&deg; items.
 
-### Degrees of Focality
+#### Degrees of Focality
 
 Intraterminals display higher and lower focality degrees. Focality concerns the concentration of the psychological interest on the situation obtaining at core "now". All intraterminals refer to events that are relevant within an interval, but they may differ with respect to the relative narrowness of the range of vision determined by "nunc". The 'presentness' is more or less focal: from the narrowest idea of an interval confined to the immediate proximity to broader ideas of an expanded and even infinitely expandable period of time.
 
@@ -25,7 +27,7 @@ The tentative focality scale adopted here has three positions or cardinal degree
 
 A lower item on the focality scale is semantically more general than a higher one. It may thus be used in cases that allow characterization in terms of higher focality or require a higher item in some other language. If a language has two items of different focality, the lower one may roughly cover ongoing events that are more precisely expressed by the higher one, e.g. English *wrote* &sup; *was writing*. A relatively low +INTRA item in language A may cover situations that require a higher item in language B, e.g., French *écrivait* &sup; English *was writing*. This is also true of items that are indifferent towards intraterminality, e.g., German *schrieb* &sup; English *was writing*.
 
-### Focality Oppositions
+#### Focality Oppositions
 
 Numerous European languages exhibit thoroughly grammaticalized focality oppositions. In the non-past stratum, English progressives express high-focal intraterminality within the opposition –PAST(+INTRA&deg;(+FOC)) *is writing* vs. –PAST(+INTRA&deg;(–FOC)) *writes*. In the simple past stratum, however, the high-focal is the only +INTRA item of the opposition: +PAST(+INTRA) *was writing* vs. +PAST(–INTRA) *wrote*.
 
@@ -33,7 +35,7 @@ The type is rather marginal in the overall European picture. Focality opposition
 
 The degree of focality signalled in the oppositions may be higher or lower. In some oppositions, the higher item basically stands for a narrow presentness and is not readily used for a expanded or open presentness, e.g., Icelandic –PAST(+INTRA&deg;(+FOC<sup>HF</sup>)) *er аð lesa bokina* 'is reading the book' vs. –PAST(+INTRA&deg;(–FOC)) *leser bókina* 'is reading, reads the book'. Turkic languages of Europe display oppositions of a relatively low focality, e.g., Turkish -PAST(+INTRA&deg;(+FOC<sup>LF</sup>)) *yazıyor* 'writes, is writing' vs. –PAST(+INTRA&deg;(–FOC)) *yazar* 'writes, will write'; +PAST(+INTRA(+FOC<sup>LF</sup>)) *yazıyordu* 'was writing, wrote' vs. +PAST(+INTRA(–FOC)) *yazardı* 'wrote, would write'.
 
-### Intraterminality in Quenya
+#### Intraterminality in Quenya
 
 In –PAST stratum we observe the opposition of two tenses:
 
@@ -105,7 +107,7 @@ To summarize the (non-)intraterminal items of Quenya and how they compare to Eng
 
 ***
 
-## Postterminality
+### Postterminality
 
 The next viewpoint opposition to deal with is that of postterminality vs. nonpostterminality. Postterminality, +POST, envisages the event after the transgression of its relevant limit: the beginning or the end, depending on the phase structure. Transgressing the limit means going beyond it and not only reaching it. +POST items may thus present an event from an orientation point outside its cursus. Nonpostterminality, –POST, disregards this view.
 
@@ -117,7 +119,7 @@ While +POST has a natural affinity with the representation of past events, it is
 
 If a +PAST(–POST) item is not intraterminal, it may present the historical event including its limits in an integral way, suggesting, unless the contrary is signalled, the occurrence of the event as an unanalyzed totality. Consequently, they are less compatible with markers of indefinite, unrestricted or generalized time ('ever', 'always', 'never', etc.) or with O-implying adverbs meaning 'already', 'not yet', 'just', 'now', etc. +PAST(–POST) items are thus not "simple Pasts", usable for all past events. They differ considerably from items that may present past events both in a historical and a diagnostic way, e.g., Hungarian *lopott*, Maltese *seraq*, Turkish *çaldi* 'stole, has stolen'.
 
-### Degrees of Focality
+#### Degrees of Focality
 
 Anterior items can be interpreted more or less diagnostically or historically. A diagnostic reading is "now"-oriented, focusing the attention on the current state and stressing the relevance of the event at this point. A historical reading is event-oriented, stressing the relevance of the event at the time of its realization. Similar to +INTRA operator, postterminality can rage from high- ('stative') to low- ('constative') and non- (historic) focality levels. Lower focality does not exclude higher interpretations.
 
@@ -140,7 +142,7 @@ A further kind of O<sup>s</sup>-relevance is the **constative** use, based on a 
 !!! error
 	No constative examples in corpus
 	
-### Peripheral postterminal items
+#### Peripheral postterminal items
 
 Many components found in postterminals show a high combinability and also occur in constructions that indicate a 'dwelling in' or 'entering into' a posttransformational phase without functioning as viewpoint operators of the core systems. These less generalized peripheral items exhibit uses atypical of fully grammaticalized postterminal items and must be assigned +POST<sup>0</sup> values, as they do not compete with nonpostterminals in their respective temporal strata.
 
@@ -148,7 +150,7 @@ As for prospective postterminals, –PAST(+PRO(+POST<sup>0</sup>)) items instruc
 
 + `illume e·kestanen/kestanelyanen, ni·tulle` "when/if he (had) asked me, I came" [PE22/121]
 
-### Postterminality in Quenya
+#### Postterminality in Quenya
 
 Quenya employs one core postterminal tense called *perfect*. In its description and gloss it has a clear 'recentness' connotation, and thus more closely correspond to similar items in Greek or Irish *tá tar éis leabhar a scríobh* 'has (just) written a book', with more restricted use than English Present Perfect.
 
@@ -206,7 +208,11 @@ To summarize the (non-)postterminal items of Quenya and how they compare to Engl
 
 ***
 
-## Quenya Tense-Aspect System Summary
+### Future
+
+TBD
+
+### Quenya Tense-Aspect System Summary
 
 <table>
 	<tr>
@@ -281,6 +287,8 @@ To summarize the (non-)postterminal items of Quenya and how they compare to Engl
 		<td><i>would have gone</i></td>
 	</tr>
 </table>
+
+## Lexical Aspect
 
 [^lj]: Tense and Aspect in the European Languages, pp. 27-189, 2000
 [^imp1]: Note that relative rareness of imperfect might have been a left-over from the previous version (a).
