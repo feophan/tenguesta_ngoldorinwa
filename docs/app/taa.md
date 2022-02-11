@@ -157,7 +157,7 @@ Quenya also developped +POST<sup>HF</sup> items discussed above called *perfecti
 !!! warning
 	Pluperfect QVS forms were made only from participles. The default assumption would be to discard it altogether like *habitual past* and *future*, as no form of *acáriéne* shape is attested. However, non-participle past future perfect is attested and ill conceived without its counterpart in the past stratum. 
 
-To summarize the (non-)intraterminal items of Quenya and how they compare to English:
+To summarize the (non-)postterminal items of Quenya and how they compare to English:
 
 <table>
 	<tr>
