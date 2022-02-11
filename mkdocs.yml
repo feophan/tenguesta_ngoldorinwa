@@ -19,6 +19,10 @@ nav:
         - '29. Pronouns and Quantifiers': syntx/pro.md
         - '30. Cases': syntx/cas.md
         - '32. Comparison': syntx/cmp.md
+        - '33. The Verb: Tense and Aspect': syntx/taa.md
+    - 'Appendix':
+        - 'Definite Article': app/art.md
+        - 'Aspect': app/taa.md
             
 theme:
     name: readthedocs
