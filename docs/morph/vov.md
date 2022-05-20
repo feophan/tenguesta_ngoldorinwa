@@ -21,23 +21,21 @@
 		<th rowspan="3"><span style="writing-mode: vertical-lr; -ms-writing-mode: tb-rl; transform: rotate(180deg);">Aspect</span></th>
 		<th>Simple</th>
 		<td>carë</td>
-		<td>caruva</td>
+		<td rowspan=2>caruva</td>
 		<td>carne</td>
-		<td>caruváne</td>
+		<td rowspan=2>caruváne</td>
 	</tr>
 	<tr>
 		<th>Continuous</th>
 		<td>cára</td>
-		<td>**cár(a)uva</td>
 		<td>cárane</td>
-		<td>&mdash;</td>
 	</tr>
 	<tr>
 		<th>Perfect</th>
 		<td>acárie</td>
-		<td>**(a)cáriéva</td>
+		<td>(a)cáriéva</td>
 		<td>acáriéne</td>
-		<td>**(a)cáriévane</td>
+		<td>(a)cáriévane</td>
 	</tr>
 	<tr>
 		<th colspan="2">Active Participle</th>
@@ -90,7 +88,7 @@
 |	tyaw-	|	tyavë	|	tyáva	|	tyáve	|	tyávane	|	atyávie	|	tyauva	|
 |	ndac-	|	nacë	|	náca	|	nance	|	nácane	|	andácie	|	nacuva	|
 |	mbar-	|	marë	|	mára	|	marne	|	márane	|	ambárie	|	maruva	|
-|	ngor-	|	ngorë	|	ngóra	|	ngorne	|	ngórane	|	ongórie	|	ngoruva	|
+|	ngor-	|	gorë	|	góra	|	gorne	|	górane	|	ongórie	|	goruva	|
 
 ### Formative Verbs
 

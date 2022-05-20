@@ -529,7 +529,7 @@ For the use of allative of purpose in periphrasic future construction &rarr; TBD
 #### Allative as Translative
 
 !!! tip "Assumption"
-	Verbs of change like `óla`, `verya`, `aja` take allative to describe a final **state** or **result**: *he turned into a great scholar*.
+	Verbs of change like `óla`, `virya`, `ahya` take allative to describe a final **state** or **result**: *he turned into a great scholar*.
 	{: .hide #30}
 	
 ### Allative of Extent

@@ -23,10 +23,11 @@ nav:
     - 'Appendix':
         - 'Definite Article': app/art.md
         - 'Aspect': app/taa.md
+        - 'Perfect Questionnaire': app/pfq.md
             
 theme:
     name: readthedocs
-    navigation_depth: 2
+    navigation_depth: 3
         
 markdown_extensions:
   - footnotes
@@ -35,6 +36,7 @@ markdown_extensions:
   - mdx_custom_span_class
   - mdx_emdash
   - attr_list
+  - pymdownx.details
 
 extra_javascript:
   - js/extra.js

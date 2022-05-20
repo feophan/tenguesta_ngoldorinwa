@@ -152,7 +152,7 @@ As for prospective postterminals, –PAST(+PRO(+POST<sup>0</sup>)) items instruc
 
 #### Postterminality in Quenya
 
-Quenya employs one core postterminal tense called *perfect*. In its description and gloss it has a clear 'recentness' connotation, and thus more closely correspond to similar items in Greek or Irish *tá tar éis leabhar a scríobh* 'has (just) written a book', with more restricted use than English Present Perfect.
+Quenya employs one core postterminal tense called *perfect*. In its description and gloss it has a clear 'recentness' connotation, and thus more closely correspond to similar item in Irish *tá tar éis leabhar a scríobh* 'has (just) written a book', with more restricted use than English Present Perfect.
 
 Quenya also developped +POST<sup>HF</sup> items discussed above called *perfective participles*: `vanwa` 'gone', `istanwa` 'known', `carinwa` 'done'; as well as a few peripheral (non-obligatory) items in +PAST and +PRO strata.
 

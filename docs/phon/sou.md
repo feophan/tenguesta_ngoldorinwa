@@ -589,7 +589,7 @@ The standard Goldorin has eight fricatives, but in recitations /θ/ could be res
 The category of **resonants** consists of the nasal consonants /m/, /n/ and /ŋ/, the so-called 'liquids' /l/ and /r/, and 'semivowels' /j/ and /w/.
 {: .ref #1}
 
-**Nasals**: the air flow is completely obstructed in the mouth, but flows through the nose. The Quenya alphabet has three nasals (all voiced):
+**Nasals**: the air flow is completely obstructed in the mouth, but flows through the nose. The Quenya alphabet has four nasals (all voiced):
 {: .ref #1}
 
 + a labial nasal, /m/: the flow of air is interrupted by pressing the lips together; air escapes throughthe nose;
@@ -641,6 +641,9 @@ The category of **resonants** consists of the nasal consonants /m/, /n/ and /ŋ/
 		<td>En. <i>si<b>ng</b></i>, It. <i>a<b>n</b>che</i></td>
 	</tr>
 </table>
+
+??? note "Note"
+	It is possible that *n* in /nj/ sequence was not palatal, cf. Further Notes
 
 **Liquids**: two Quenya letters belong to the class of liquids /l/ and /r/:
 {: .ref #1}
@@ -768,7 +771,309 @@ The unvoicing is 'partial': the voicing occurs during only part of the sound (i.
 **On Palatalization of L**: PE22/65 (2), LotR AppE.
 {: .src }
 
+**On Palatalization of NY**: PE22/66 (8) /ɲj/, PE19/74 B 1 (i) /nj/.
+{: .src }
+
 **On Devoicing**: PE22/65 (2-6), PE19/99 (v.a), PE19/100 (b).
 {: .src }
 
 ***
+
+## Historical Developments
+
+The remaining sections of this chapter treat certain historical developments in Quenya before the classical period. Particularly these sections are designed to elucidate many of the 'irregularities' of Quenya morphology. Contrast, for instance, the following pairs of nominatives and genitives of some third-declension nouns:
+
+EXAMPLES
+
+Such changes are found to have occurred consistently in certain environments at certain periods, and are therefore sometimes referred to as **sound change 'laws'**: for instance, the disappearance of ¢ between vowels is such a law of Greek historical grammar. Most of the apparentirregularities of Greek morphology can be explained with reference to such laws, and it is therefore useful to have some familiarity with them. Reference to the sections below will be made throughout the morphology.
+
+## Historical Developments: Consonants
+
+### Initial Consonant Groups
+
+#### Combinations with Y
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*kj*	|	*c*		|	*c*		|	\**tʃ*	|
+|	*kʰj*	|	*ç*		|	*ç*		|	*ʃ*		|
+|	*gj*	|	*lj*	|	*lj*	|	*lj*	|
+|	*ŋj*	|	*nj*	|	*nj*	|	*nj*	|
+
+\*Also in Númenórean Quenya
+
+#### Combinations with W
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*kw*	|	*kw*		|	*kw*		|	*kw*	|
+|	*kʰw*	|	*xʷ*	|	*xʷ*	|	*f*		|
+|	*gw*	|	*w*	|	*v*	|	*v*	|
+|	*ŋw*	|	*ŋw*	|	*ŋw*	|	\**nw*	|
+
+\*Also in Númenórean Quenya
+
+#### Nasalized Groups
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*mb*	|	*m*	|	*m*		|	*m*	|
+|	*nd*	|	*n*	|	*n*	|	*n*		|
+|	*ŋg*	|	*ŋ*	|	*ŋ*	|	*n*	|
+|	*ŋgj*	|	*nj*	|	*nj*	|	*nj*	|
+|	*ŋgw*	|	*ŋw*	|	*ŋw*	|	\**nw*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*mb*	|	*umb*	|	|	|
+|	*nd*	|	*and*	|	|		|
+|	*ŋg*	|	*iŋg*	|	|	|
+|	*ŋgj*	|	*indj*	|	*inj*	|	|
+|	*ŋgw*	|	*uŋgw*	|	*uŋgw*	|	|
+
+\*Also in Númenórean Quenya
+
+#### Combinations with S
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*sp*{.ipa}	|	a) *ps*{.ipa}<br>b) *f*{.ipa}	|	a) *s, ups*{.ipa}<br>b) *f*{.ipa}		|	a) *s, ups*{.ipa}<br>b) *f*{.ipa}	|
+|	*st*{.ipa}	|	*θ*{.ipa}	|	*s*{.ipa}	|	*θ*{.ipa}	|
+|	*sk*{.ipa}	|	a) *ks*{.ipa}<br>b) *h*{.ipa}	| a) *s, iks*{.ipa}<br>b) *h*{.ipa}	|	a) *s, iks*{.ipa}<br>b) *h*{.ipa}	|
+|	*sm*{.ipa}	|	*m*{.ipa}	|	*m*{.ipa}	|	*m*{.ipa}	|
+|	*sn*{.ipa}	|	*n*{.ipa}	|	*n*{.ipa}	|	*n*{.ipa}	|
+|	*sr*{.ipa}	|	*r̥*{.ipa}	|	\**r*{.ipa}	|	*r̥*{.ipa}	|
+|	*sl*{.ipa}	|	*l̥*{.ipa}	|	\**l*{.ipa}	|	*l̥*{.ipa}	|
+|	*sj*{.ipa}	|	*ç*{.ipa}	|	*ç*{.ipa}	|	*ʃ*{.ipa}	|
+|	*sw*{.ipa}	|	*xʷ*{.ipa}	|	*xʷ*{.ipa}	|	*f*{.ipa}	|
+
+\*But after Sindarin became a native speech, *r̥, l̥*{.ipa} were restored. 
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*sp*	|	*ups*	|	*ups*	|	*ups*	|
+|	*st*	|	*ist*	|	*ist*	|	*ist*	|
+|	*sk*	|	*iks*	| *iks*	|	*iks*	|
+
+#### Combinations with D, G
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*dl*	|	*l*	|	*l*	|	*l*	|
+|	*dr*	|	*r*	|	*r*	|	*r*	|
+|	*gl*	|	*l, ωl*	|	*l*	|	*l*	|
+|	*gr*	|	*r, ωr*	|	*r*	|	*r*	|
+
+### Medial Combinations
+
+#### Voiceless Stops
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*p*	|	*p*	|	*p*	|	*p*	|
+|	*pp*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pt*	|	*ɸt*	|	*wt*	|	*wt*	|
+|	*ps*	|	*ps*	|	*ps*	|	*ps*	|
+|	*pn*	|	*ɸt*	|	*wt*	|	*wt*	|
+|	*pm*	|	*mp, pp*	|	*mp; pp*	|	*mp; pp*	|
+|	*pj*	|	*pj*	|	*pj*	|	*pʃ*	|
+|	*pw*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pl*	|	*mp, pηl*	|	a. *mp; pηl*<br>b. &orarr; *pωl*	|	a. *mp; pηl*<br>b.  &orarr; *pωl*	|
+|	*pr*	|	*rp, ps*	|	a. *rp; ps*<br>b. &orarr; *par*	|	a. *rp; ps*<br>b. &orarr; *par*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*t*	|	*t*	|	*t*	|	*t*	|
+|	*tt*	|	a. *st*[^hd1]<br>b. *tt*	|	a. *st*<br>b. *tt*	|	a. *st*<br>b. *tt*	|
+|	*tk*	|	*kk*	|	*kk*	|	*kk*	|
+|	*ts*	|	*ts*	|	*ss*	|	*ss*	|
+|	*tn*	|	*tt*	|	*tt*	|	*tt*	|
+|	*tm*	|	*tw*	|	*tw*	|	*tw*	|
+|	*tj*	|	*c*	|	*c*	|	*tʃ*	|
+|	*tw*	|	*tw*	|	*tw*	|	*tw*	|
+|	*tl*	|	*lt, tηl*	|	a. *lt; tηl*<br>b. &orarr; *tωl*	|	a. *lt; tηl*<br>b. &orarr; *lt, tωl*	|
+|	*tr*	|	*rt, ts*	|	a. *rt; ss*<br>b. &orarr; *tar*	|	a. *rt; ss*<br>b. &orarr; *tar*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*k*	|	*k*	|	*k*	|	*k*	|
+|	*kt*	|	*χt*	|	*χt*	|	*χt*	|
+|	*kk*	|	*kk*	|	*kk*	|	*kk*	|
+|	*ks*	|	*ks*	|	*ks*	|	*ks*	|
+|	*kn*	|	*ŋk, χt*	|	*ŋk; χt*	|	*ŋk; χt*	|
+|	*km*	|	*kw*	|	*kw*	|	*kw*	|
+|	*kj*	|	*c*	|	*c*	|	*tʃ*	|
+|	*kw*	|	*kw*	|	*kw*	|	*kw*	|
+|	*kl*	|	*lk, kηl*	|	a. *lk; kηl*<br>b. &orarr; *lk, kωl*	|	a. *lk; kηl*<br>b. &orarr; *lk, kωl*	|
+|	*kr*	|	*rk, ks*	|	a. *rk; ks*<br>b. &orarr; *kar*	|	a. *rk; ks*<br>b. &orarr; *kar*	|
+
+#### Voiceless Aspirates
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*pʰ*	|	*ɸ*	|	*f*	|	*f*	|
+|	*pʰu*	|	*hu*	|	*hu*	|	*hu*	|
+|	*pʰp(ʰ)*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pʰt(ʰ)*	|	*ɸt*	|	*wt*	|	*wt*	|
+|	*pʰs*	|	*ps*	|	*ps*	|	*ps*	|
+|	*pʰn*	|	*ɸt*	|	*wt*	|	*wt*	|
+|	*?pʰm*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pʰj*	|	*fj*	|	*fj*	|	*fj*	|
+|	*pʰw*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pʰl*	|	*lp, fηl*	|	a. *lp; fηl*<br>b. &orarr; *fωl*	|	a. *lp; fηl*<br>b. &orarr; *fωl*	|
+|	*pʰr*	|	*rp, ps*	|	a. *rp; ps*<br>b. &orarr; *far*	|	a. *rp; ps*<br>b. &orarr; *far*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*tʰ*	|	*θ*	|	*s*	|	*θ*	|
+|	*tʰt(ʰ)*	|	*tt*	|	*tt*	|	*tt*	|
+|	*tʰk(ʰ)*	|	*kk*	|	*kk*	|	*kk*	|
+|	*tʰs*	|	*ts*	|	*ss*	|	*ss*	|
+|	*tʰn*	|	*tt*	|	*tt &rarr; st*	|	*tt*	|
+|	*tʰm*	|	*tw*	|	*tw*	|	*tw*	|
+|	*tʰj*	|	*θj*	|	*ʃ*	|	*θj*	|
+|	*tʰw*	|	*θw*	|	*sw*	|	*θw*	|
+|	*tʰl*	|	*lt, θηl*	|	a. *lt; sηl*<br>b. &orarr; *lt, sωl*	|	a. *lt; θηl*<br>b. &orarr; *lt, θωl*	|
+|	*tʰr*	|	*rt, ts*	|	a. *rt; ss*<br>b. &orarr; *tar*	|	a. *rt, ss*<br>b. &orarr; *θar*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*kʰ*	|	*χ*	|	*h*	|	*h*	|
+|	*kʰt(ʰ)*	|	*χt*	|	*χt*	|	*χt*	|
+|	*kʰk(ʰ)*	|	*kk*	|	*kk*	|	*kk*	|
+|	*kʰs*	|	*ks*	|	*ks*	|	*ks*	|
+|	*kʰn*	|	*ŋk, χt*	|	*ŋk, χt*	|	*ŋk, χt*	|
+|	*kʰm*	|	*kw*	|	*kw*	|	*kw*	|
+|	*kʰj*	|	*çç*	|	*ç*	|	*ʃ*	|
+|	*kʰw*	|	*xʷxʷ*	|	*xʷ*	|	*ff*	|
+|	*kʰl*	|	*lk, χηl*	|	a. *lk; hηl*<br>b. &orarr; *lk, hωl*	|	a. *lk; hηl*<br>b. &orarr; *lk, hωl*	|
+|	*kʰr*	|	*rk, ks*	|	a. *rk; ks*<br>b. &orarr; *har*	|	a. *rk; ks*<br>b. &orarr; *har*	|
+
+#### Voiced Stops
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*b*	|	*β*	|	*v*	|	*v*	|
+|	*bt(ʰ)*	|	*ɸt, wt*	|	*wt*	|	*wt*	|
+|	*bs*	|	*ps &rarr; ws*	|	*ps; ws (wr)*	|	*ps; ws (wz)*	|
+|	*bb*	|	*pp*	|	*pp*	|	*pp*	|
+|	*bd*	|	*ɸt*	|	*wt*	|	*wt*	|
+|	*bn*	|	*mn*	|	*nn &rarr; wn*	|	*mn &rarr; wn*	|
+|	*bm*	|	*mm*	|	*mm &rarr; wm*	|	*mm &rarr; wm*	|
+|	*bj*	|	*wj*	|	a.*wj*<br>b. &orarr; *vi*	|	a.*wj*<br>b. &orarr; *vi*	|
+|	*bw*	|	*wv*	|	*wv*	|	*wv*	|
+|	*bl*	|	*wl*	|	a. *wl*<br>b. &orarr; *vul*	|	a. *wl*<br>b. &orarr; *vul*	|
+|	*br*	|	*wr*	|	a. *wr*<br>b. &orarr; *var*	|	a. *wr*<br>b. &orarr; *var*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*d*	|	*ɹ*	|	*r*	|	*z*	|
+|	*rαd*	|	*rαl*	|	*rαl*	|	*rαl*	|
+|	*dt(ʰ)*	|	*st, ɹt*	|	*st; rt*	|	*st*	|
+|	*ds*	|	*ts &rarr; ss*	|	*ss*	|	*ss*	|
+|	*dd*	|	a. *st*[^hd1]<br>b. *tt*	|	a. *st*<br>b. *tt*	|	a. *st*<br>b. *tt*	|
+|	*dn*	|	*nn*	|	*nn &rarr; rn*	|	*nn &rarr; rn*	|
+|	*dm*	|	*nw*	|	*nw &rarr; rm*	|	*nw &rarr; mm*	|
+|	*dj*	|	*lj*	|	*lj*	|	*lj*	|
+|	*dw*	|	*ɹw*	|	*rw*	|	*zw*	|
+|	*dl*	|	*ɹl*	|	*ll, ld*	|	*ll, ld*	|
+|	*dr*	|	*ɹr*	|	*rr*	|	*rr*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*g*	|	a. *&mdash;*<br>b. *j*[^hd2]	|	a. *&mdash;*<br>b. *j*	|	a. *&mdash;*<br>b. *j*	|
+|	*gt(ʰ)*	|	*χt, ήt*	|	*χt, ήt*	|	*χt, ήt*	|
+|	*gs*	|	*ks &rarr; ss*	|	a. *ks; ss*<br>b. &orarr; *ήs*	|	*ks; ss*<br>b. &orarr; *ήs*	|
+|	*gd*	|	*χt*	|	*χt*	|	*χt*	|
+|	*gg*	|	*kk*	|	*kk*	|	*kk*	|
+|	*gn*	|	*ŋn*	|	a. *nn*<br>b. *ŋn &rarr; ήn*[^hd3]	|	a. *nn*<br>b. *ŋn &rarr; ήn*	|
+|	*gm*	|	*ŋm*	|	*ῆm &rarr; ήm*	|	*ῆm &rarr; ήm*	|
+|	*gj*	|	a. *jj*<br>b. *dj*[^hd4]	|	a. *jj*<br>b. *j*	|	a. *jj*<br>b. *dʒ*	|
+|	*gw*	|	a. *ww*<br>b. *w*[^hd4]	|	a. *ww*<br>b. *w*	|	a. *ww*<br>b. *w &rarr; b*	|
+|	*gl*	|	*ήl*	|	*ήl*	|	*ήl*	|
+|	*gr*	|	*ήr*	|	*ήr*	|	*ήr*	|
+
+#### Nasals
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*n*	|	*n*	|	*n*	|	*n*	|
+|	*nt*	|	*nt*	|	*nt*	|	*nt*	|
+|	*ntʰ*	|	*tt*	|	*tt &rarr; ss*	|	*tt &rarr; nt*	|
+|	*ns*	|	*ps &rarr; ws*	|	*ps; ws (wr)*	|	*ps; ws (wz)*	|
+|	*bb*	|	*pp*	|	*pp*	|	*pp*	|
+|	*bd*	|	*ɸt*	|	*wt*	|	*wt*	|
+|	*bn*	|	*mn*	|	*nn &rarr; wn*	|	*mn &rarr; wn*	|
+|	*bm*	|	*mm*	|	*mm &rarr; wm*	|	*mm &rarr; wm*	|
+|	*bj*	|	*wj*	|	a.*wj*<br>b. &orarr; *vi*	|	a.*wj*<br>b. &orarr; *vi*	|
+|	*bw*	|	*wv*	|	*wv*	|	*wv*	|
+|	*bl*	|	*wl*	|	a. *wl*<br>b. &orarr; *vul*	|	a. *wl*<br>b. &orarr; *vul*	|
+|	*br*	|	*wr*	|	a. *wr*<br>b. &orarr; *var*	|	a. *wr*<br>b. &orarr; *var*	|
+
+### Consonants at Word End
+
+Final consonants were avoided in CE. Uninflected words seldom ended in a consonant, with the exception of ancient monosyllabic nouns, which could end in one of the continuants: *m*, *n*, *ŋ*; *r, l, y, w*; *s* and *h*: *khōm* 'heart'; *nen* 'water'; *peŋ* 'mouth', etc.
+
+The inflexional elements often ended in a consonant: *t, s, d, th, n, r, l, m*; also the combinations *nt* and *st*. When vowels were lost after other consonants or groups of consonants, these were changed or simplified.
+
+#### Nasals
+
+|	CE	|	PQ		|	NTQ		|
+| ----	|	----	|	----	|
+|	*m*	|	*n*		|	*n*		| 
+|	*n*	|	*n*		|	*n*		|
+|	*ŋ*	|	*nil*		|	*nil*		|
+
+#### Liquids
+
+|	CE	|	PQ		|	NTQ		|
+| ----	|	----	|	----	|
+|	*r*	|	*r*		|	*r*		|
+|	*l*	|	*l*		|	*l*		|
+|	*j*	|	\**i*		|	*i*		|
+|	*w*	|	\**u*		|	*u*		|
+
+\*But after a long vowel *j, w* were lost: *phāj* > *fá*
+
+#### Fricatives
+
+|	CE	|	PQ		|	NTQ		|
+| ----	|	----	|	----	|
+|	*s*	|	*s*		|	*s*		|
+|	*h*	|	*nil*		|	*nil*		|
+
+#### Stops
+
+|	CE	|	PQ		|	NTQ		|
+| ----	|	----	|	----	|
+|	*t*	|	*t*		|	*s*		|
+|	*th*	|	*t*	|	*s*		|
+|	*k*	|	*t*	|	*s*		|
+|	*p*	|	*t*	|	*s*		|
+|	*d*	|	*r*	|	*r*		|
+
+#### Groups
+
+|	CE	|	PQ		|	NTQ		|
+| ----	|	----	|	----	|
+|	*nt*	|	*nt*	|	*n*		|
+|	*nd*	|	*n*		|	*n*		|
+|	*mb*	|	*n*		|	*n*		|
+|	*ŋg*	|	*n*		|	*n*		|
+|	*ps*	|	*s*		|	*s*		|
+|	*ts*	|	*s*		|	*s*		|
+|	*ks*	|	*s*		|	*s*		|
+|	*ss*	|	*s*		|	*s*		|
+|	*st*	|	*s*		|	*s*		|
+|	*ht*	|	*t*		|	*t*		|
+
+
+[^hd1]: *st* from suffixial *t-t*, and *tt* from fortified *t*
+[^hd2]: After *e, i*
+[^hd3]: After *i, u*
+[^hd4]: After *l, r*
+
+*[CE]: Common Eldarin
+*[PQ]: Classical Quenya
+*[NTQ]: Noldorin Quenya
+*[VTQ]: Vanyarin Quenya
