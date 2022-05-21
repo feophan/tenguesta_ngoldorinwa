@@ -306,3 +306,5 @@ The **future indicative** presents the realization of some action in the future 
 
 + ["The Turkish Aorist and Progressive: Present Tense, Future Tense, or What?" by Mehmet Kanik](https://www.academia.edu/20430734/The_Turkish_Aorist_and_Progressive_Present_Tense_Future_Tense_or_What)
 + ["Semantics of the Turkish Non-Past" by Ryan Caro](https://ling.yale.edu/sites/default/files/files/alumni%20senior%20essays/CaroSeniorEssay.pdf)
++ "A cross-linguistic perspective on the Greek perfect" by Konstantinos Askitidis
++ "Synchronic variation in the Old English Perfect" by Morgan Macleod
