@@ -1,89 +1,5 @@
 # Introduction to Verb Forms
 
-<!---
-## Summary of the Quenya Verbal System
-
-<table>
-	<tr>
-		<th colspan="6">Basic Forms</th>
-	</tr>
-	<tr>
-		<th rowspan="3" colspan="2"></th>
-		<th colspan="4">Tense</th>
-	<tr>
-	<tr>
-		<th>Present</th>
-		<th>Past</th>
-		<th>Future</th>
-	</tr>
-	<tr>
-		<th rowspan="3" ><span style="writing-mode: vertical-lr; -ms-writing-mode: tb-rl; transform: rotate(180deg);">Aspect</span></th>
-		<th>Simple</th>
-		<td>carë</td>
-		<td>carne</td>
-		<td>caruva</td>
-	</tr>
-	<tr>
-		<th>Imperfect</th>
-		<td>cára</td>
-		<td>cárane</td>
-		<td>
-	</tr>
-	<tr>
-		<th>Perfect</th>
-		<td>
-		<td>acárie</td>
-		<td>
-	</tr>
-	<tr>
-		<th colspan="2">Active Participle</th>
-		<td>carila</td>
-		<td>cáriéla</td>
-		<td>caruvaila</td>
-	</tr>
-	<tr>
-		<th colspan="2">Passive Participle</th>
-		<td>carina</td>
-		<td>cárienwa</td>
-		<td>caruvaina</td>
-	</tr>
-	<tr>
-		<th colspan="2">Gerund</th>
-		<td colspan="3" style="text-align:center;">carie</td>
-	</tr>
-	<tr>
-		<th colspan="2">Infinitive</th>
-		<td colspan="3" style="text-align:center;">carita</td>
-	</tr>
-	<tr>
-		<th colspan="5">Derivative Forms</th>
-	</tr>
-	<tr>
-	<tr>
-		<th rowspan="2" ><span style="writing-mode: vertical-lr; -ms-writing-mode: tb-rl; transform: rotate(180deg);">Aspect</span></th>
-		<th>Imperfect</th>
-		<td>
-		<td>
-		<td>*(cariluva)</td>
-	</tr>
-	<tr>
-		<th>Perfect</th>
-		<td>
-		<td>
-		<td>(a)cáriéva,<br>*(cáriéluva)</td>
-	</tr>
-	<tr>
-		<th colspan="2" rowspan="2">Remote Tense</th>
-		<td rowspan="2">*(acáriéla)</td>
-		<td rowspan="2">cáriéne</td>
-		<td>caruvane</td>
-	</tr>
-	<tr>
-		<td>cáriévane,<br>*(cáriéluváne)</td>
-	</tr>
-</table>
---->
-
 ## Basic Categories and Elements
 
 ### Categories of the Verb
@@ -91,24 +7,29 @@
 #### Finite versus Non-finite Verb Forms
 
 Quenya verb forms are either **finite** (indicatives, subjunctives, optatives, imperatives) or **non-finite** (gerunds, infinitives, participles, and verbal adjectives in `-nwa`, `-ite` or `-ima`). Finite verbs can have a personal ending (@@) and express person or number, and can be modified by mood particles; nonfinite verbs do not have a personal ending and do not express person or mood.
+{: .ref #12}
 
 #### Categories Pertaining to All Verb Forms: Tense-Aspect
 
 All Quenya verb forms, i.e. both finite and non-finite forms (only participles), are marked for the category of **tense-aspect**.
+{: .ref #12}
 
 **Tense-aspect**: Quenya verb forms fall into three overarching systems, depending on which stem of the verb is used (@@); these three systems differ primarily in their expression of aspect:
+{: .ref #12}
 
-+ the **aorist-stem system**, covering the aorist, the preterite, the future, present active and passive participles;
-+ the **present-stem system**, covering the present and the imperfect;
-+ and the **perfect-stem system**, covering the perfect, the past active and passive participles.
++ the **aorist-stem system**, covering the aorist, the preterite, the future;
++ the **present-stem system**, covering the present, the imperfect, present active and passive participles;
++ and the **perfect-stem system**, covering the perfect, the pluperfect, the past active and passive participles.
 
-Within these systems, **tense** is expressed by all forms. Aspect is not expressed by participles.
+Within these systems, **tense** is expressed by all forms. **Aspect** is not expressed by participles.
 
 #### Categories Pertaining to Finite Verb Forms
 
 All finite verb forms, in addition to belonging to one of the three tense-aspect systems, are also marked for the categories of **person** and **number**, and the category of **mood**.
+{: .ref #12}
 
 Finite verb forms express one of the following **persons**:
+{: .ref #12}
 
 + **apersonal form** (used with expressed subject, @@);
 + **first person** ('I'/'we (but not you)'/'we (with you)');
@@ -122,13 +43,15 @@ And they express one of the following **numbers**:
 + in addition, Quenya has a **dual number** ('you and I', 'you two','the two of them', @@).
 
 Finite verb forms do not express **moods**, and those are realized as mood particles preceeding the verb (for the uses and meanings of these moods, @@). The following moods are recongnized:
+{: .ref #12}
 
 + **indicative**;
 + **subjunctive**;
 + **optative**;
 + **imperative**.
 
-Finally, indicative forms can be split into **basic forms** (aorist, present, preterite, imperfect, perfect, future) and **derivative forms** (future perfect, future imperfect, long perfect (perfect continuous), pluperfect, future-in-the-past).
+Finally, indicative forms can be split into **basic forms** (aorist, present, preterite, perfect, future) and **derivative forms** (imperfect, future perfect, future imperfect, long perfect (perfect continuous), pluperfect, future-in-the-past).
+{: .ref #12}
 
 !!! danger "Controversial"
 	Derivative forms are extremely rare and should be avoided.
@@ -136,14 +59,15 @@ Finally, indicative forms can be split into **basic forms** (aorist, present, pr
 #### Categories Pertaining to Non-finite Verb Forms
 
 Non-finite verb forms are marked for the following categories:
+{: .ref #12}
 
 + **Infinitives** are not marked for any category;
 + **Gerunds** are marked for case;
-+ **Participles** express tense-aspect and voice, and, like adjectives, are also marked
-for the categories of case (passive participles are also marked for number, @@);
++ **Participles** express tense and voice, and, like adjectives, are also marked for the categories of case and number (&rarr; @@);
 + **Verbal adjectives** are only marked for the categories of case, number and voice.
 
 **Voice**: all Quenya participle forms also express voice, treated in detail in @@. A basic two way distinction between different kinds of forms may be made:
+{: .ref #12}
 
 + **active** forms;
 + and **passive** forms.
@@ -153,68 +77,73 @@ for the categories of case (passive participles are also marked for number, @@);
 #### Verb Stems and Tense-Aspect Stems
 
 All forms of a certain verb share a **verb stem**, which identifies the forms as deriving from that particular verb: for example, in any form of the verb `talta` (e.g. `atalantiemma`, `taltuvante`, `talanter`), the verb stem `talat-` identifies the form as belonging to that particular verb (and thus expressing in some way the meaning *fall*).
+{: .ref #12}
 
-Many Quenya verb stems occur in different variants due to ablaut vowel gradation (@@): for example, the verb stem of the verb `ortä` *rise* occurs as either `ort-` (zero grade), `orot-` (short grade) or `ór-` (lengthened grade). Different tense-aspect stems of such verbs differ in the vowel-grade they show.
+Many Quenya verb stems occur in different variants due to ablaut vowel gradation (&rarr; @@): for example, the verb stem of the verb `ortä` *rise* occurs as either `ort-` (zero grade), `orot-` (short grade) or `ór-` (lengthened grade). Different tense-aspect stems of such verbs differ in the vowel-grade they show.
 
 For verbs which have variant verb stems, all variants are given below, where required.
 
 Through the addition of endings, augments and ablaut, a **tense-aspect stem** is formed. The tense-aspect stem identifies the form as having a particular combination of tense-aspect.
+{: .ref #12}
 
-Six different kinds of tense-aspect stems maybe distinguished; these fall into the three overarching systems described above (@@):
+Six different kinds of tense-aspect stems may be distinguished; these fall into the three overarching systems described above (@@):
 
 + aorist tense-aspect: aorist stems, past stems, future stems;
 + present tense-aspect: present stems, imperfect stems;
 + perfect tense-aspect: perfect stems.
 
-The mechanisms involved in forming tense-aspect stems from verb stems are detailed in the individual chapters on the present (@@), aorist (@@), and perfect (@@) stems.
+The mechanisms involved in forming tense-aspect stems from verb stems are detailed in the individual chapters on the present (&rarr; @@), aorist (&rarr; @@), and perfect (&rarr; @@) stems.
 
-!!! attention "To-Do"
-	Verbs lacking certain tense-aspect stems altogether are called **defective verbs**. Are there examples of defective verbs in Quenya?
-	
-	+ PE22/117: verbs like `lir-` are defective;
-	+ -ea verbs from -ng- are defective and don't have present tense stem.
+Verbs lacking certain tense-aspect stems altogether are called **defective verbs**: for instance, the verb `lir-` *sing* lacks past-stem forms in classical Quenya, and verbs in `-ea` have no present forms at all.
+{: .ref #12}
 	
 #### Thematic Vowels
 
-Some elements appear between the verb-stem and the tense-aspect stem ending:
+Some elements appear **between the verb-stem and the tense-aspect stem ending**:
+{: .ref #12}
 
-+ Many Quenya verb forms include a thematic vowel (or: 'theme vowel') `a` standing between the stem and the ending, e.g. <code>ort<b>a</b>uva</code>, <code>hent<b>a</b>nie</code>; for details, @@ below.
++ Many Quenya verb forms include a **thematic vowel** (or: 'theme vowel') `a` standing between the stem and the ending, e.g. <code>ort<b>a</b>uva</code>, <code>hent<b>a</b>nie</code>; for details, @@ below.
 
 #### Endings
 
 Every verb form also has an **ending**, which provides the information required to identify the form as either finite or non-finite, and sometimes its voice, tense, aspect or mood. These endings are called **primary**.
+{: .ref #12}
 
 !!! note
 	Most often such an ending is referred to as a **suffix**, but here this term is reserved for a derivative block of a new lexeme. By this defnition, the derivational morphology of verbal adjectives, participles and gerunds like `-itë` is a *suffix*, but preterite `-ne` is a *primary ending*. However, for simplicity (particularly due to cases like future participle, where derivational suffix follows its primary ending), they are all discussed under the title of verbal eindings.
 	
-Some verbal forms can express additional information in their **secondary ending**: 
+Some verbal forms can express additional information in their **secondary ending**:
+{: .ref #12}
 
 + For finite verbs, the 'personal ending' expresses person and number;
 + For infinitive, the 'possessive ending' also expresses person and number;
 + The endings of gerund, participles and verbal adjectives might express case and number.
 
-The endings are treated more fully below, @@.
+The endings are treated more fully below, &rarr; @@.
+{: .ref #12}
 
 #### Augments and Prepositional Prefixes
 
 Finally, some elements precede the stem:
+{: .ref #12}
 
-+ perfect stems might include an augment, which takes the form of a **root vowel**[^app1] directly preceding the stem (e.g. `e-cénie`), or, if the verb stem begins with a vowel, either that vowel is lengthened (e.g. `úlie`) or the syllable is duplicated (`orórie`). For details, @@.
-+ Many compound verbs begin with a prepositional prefix, an original preposition integrated into the verb form, e.g. `ettulë`, `aucirë` (@@). These prefixes are always the first element of a form, preceding even augments and reduplications (@@).
++ perfect stems might include an augment, which takes the form of a **root vowel**[^app1] directly preceding the stem (e.g. `e-cénie`), or, if the verb stem begins with a vowel, either that vowel is lengthened (e.g. `úlie`) or the syllable is duplicated (`orórie`). For details, &rarr; @@.
++ Many compound verbs begin with a prepositional prefix, an original preposition integrated into the verb form, e.g. `ettulë`, `aucirë` (&rarr; @@). These prefixes are always the first element of a form, preceding even augments and reduplications (&rarr; @@).
 
-A final consonant of such prefixes often assimilates to the following sound: e.g. `eccezë` but `etecézie` (@@).
+A final consonant of such prefixes often assimilates to the following sound: e.g. `eccezë` but `etecézie` (&rarr; @@).
 
 !!! tip "Assumption"
-	If the prefix ends in a vowel, this vowel usually drops out before another vowel (elision, @@).
+	If the prefix ends in a vowel, this vowel usually drops out before another vowel (elision, &rarr; @@).
 
 !!! note
-	For reduplications, @@.
+	For reduplications, &rarr; @@.
 
-[^app1]: also known as `ómataima`.
+[^app1]: also known as `sundóma`.
 
 ## Verbal Stems
 
 Quenya verbal stems split into seven major groups or **conjugations**:
+{: .ref #12}
 
 1. **basic verbs**: most numerous group of bare primitive <span style="font-variant:small-caps;">&Sqrt;tal</span> shape: `cen-` (<span style="font-variant:small-caps;">&Sqrt;ken</span>) *see*, `tul-` (<span style="font-variant:small-caps;">&Sqrt;tul</span>) *come*, `mat-` (<span style="font-variant:small-caps;">&Sqrt;mat</span>) *eat*;
 2. **long verbs**: triconsonantal verbs of <span style="font-variant:small-caps;">&Sqrt;talat</span> shape: `talat-` (<span style="font-variant:small-caps;">&Sqrt;talat</span>) *fall*, `carap-` (<span style="font-variant:small-caps;">&Sqrt;karap</span>) *speak*, `sulup-` (<span style="font-variant:small-caps;">&Sqrt;sulup</span>) *drink*;
@@ -229,11 +158,19 @@ Together conjugations 2-7 are known as **secondary verbs**.
 ## Thematic and Athematic Conjugations
 
 Quenya verb forms are either thematic or athematic. Thematic forms include a thematic vowel `a` between the verb-stem and the non-finite or tense-aspect ending. Athematic forms do not include a thematic vowel: thus in athematic forms tense-aspect ending is attached immediately to the stem:
+{: .ref #12}
 
-+ **Thematic conjugations**: all causative tense forms, all but future tense of derivative verbs, aorist and preterite tense forms of a-verbs, aorist tense form of long and formative verbs;
-+ **Athematic conjugations**: all basic and u-verbs tense forms, all but aorist tense forms of long and formative verbs, all but pretertire and future tense forms of a-verbs, future tense forms of derivative verbs.
-
-Some examples with the a-verb (3rd conjugation) `fara` *hunt*:
+|	class	|	aorist	|	preterite	|	future	|	present	|	perfect	|
+|	----	|	----	|	----	|	----	|	----	|	----	|
+|	I	|	A	|	A	|	A	|	A	|	A	|
+|	II	|	T	|	A	|	A	|	A	|	A	|
+|	III	|	T	|	T	|	A	|	A	|	A	|
+|	IV	|	A	|	A	|	A	|	A	|	A	|
+|	V	|	T	|	A	|	A	|	A	|	A	|
+|	VI	|	T	|	T	|	T	|	T	|	T	|
+|	VI	|	T	|	T	|	A	|	T	|	T	|
+	
+Some examples with a III conjugation verb with a stem `far-` *hunt*:
 
 + `faran`: 1 sg. aor. thematic: thematic vowel `a` stands between the ending `-n` and the aorist-stem;
 + `fáran`: 1 sg. pres. athematic: the tense-aspect ending `a` is a part of the present-stem;
@@ -250,10 +187,12 @@ Some examples with the a-verb (3rd conjugation) `fara` *hunt*:
 ### Endings of Finite Forms
 
 The endings of finite verb forms are divided into **primary**, which mark tense-aspect, and **secondary** or 'personal' which mark person and number of its subject.
+{: .ref #12}
 
 #### Primary Endings
 
-##### Tense-Aspect Endings
+**Tense-Aspect Endings**
+{: .ref #12}
 
 |	aorist	|	present	|	preterite	|	perfect	|	future	|
 |	---	|	---	|	---	|	---	|	---	|
@@ -261,13 +200,15 @@ The endings of finite verb forms are divided into **primary**, which mark tense-
 
 More details in @@.
 
-##### Imperative Ending
+**Imperative Ending**
+{: .ref #12}
 
 !!! attention "To-Do"
 
 #### Personal Endings
 
 The (a)personal endings of finite verb forms are the same for all stems:
+{: .ref #12}
 
 + Apersonal endings mark only **number**, and they are used when the subject of the verb is **explicit**;
 + Personal endings mark **number and person** when the subject is left **implicit**;

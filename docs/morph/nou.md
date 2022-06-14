@@ -277,7 +277,7 @@ Overview of forms:
 | `all.`   	| ainunna 	| ainunnar	 	|
 | **feminine**|**tári** | ***queen***  	|
 |         	| *sg*     	| *pl*      	|
-| `com.`   	| tári   	| tári    		|
+| `com.`   	| tári   	| tárir    		|
 | `gen. I` 	| tário		| tárion	  	|
 | `gen. II`	| táríva	| táríva	  	|
 | `dat.`   	| tárin		| tárin[^d41]		|
@@ -290,14 +290,11 @@ Overview of forms:
 	Nouns in `-ru` have *i-plural*: `veru` *husband* --- `veruvi`, `veruion`.
 
 !!! note 
-	Some nouns in `-i` permit *r-plural*: `quendi` *woman* --- `quendir`, `quendíron`.
+	Some nouns in `-i` permit *r-plural* genitive: `quendi` *woman* --- `quendir`, `quendíron`.
 
 [^d41]: Alternatively, `tárína`, but the same form can be used in singular. A disambiguation with plural epenthetic `-n` (`tárínan`) seems possible [cf TBD].  
 
 ## Fifth-Declension Nouns
-
-!!! attention "To-Do"
-	Add or mention gen.II on -CCua.
 
 ### Stems and Types of Fifth-Declension Nouns
 
@@ -308,7 +305,7 @@ Although the endings used are generally the same throughout the entire declensio
 + (type of) the consonant in which the stem ends;
 + length of the vowel in the stem.
 
-It is often impossible to derive the stem of a fifth-declension noun (and thus the exact pattern of that noun’s declension) from the *common singular* alone: the genitive is required to determine which subtype the noun belongs to. Compare, for example:
+It is often impossible to derive the stem of a fifth-declension noun (and thus the exact pattern of that noun's declension) from the *common singular* alone: the genitive is required to determine which subtype the noun belongs to. Compare, for example:
 
 | n-base	| aran    	| *king*    	|
 |---------	|----------	|-----------	|
@@ -325,7 +322,7 @@ It is often impossible to derive the stem of a fifth-declension noun (and thus t
 |         	| *sg*     		| *pl*      		|
 | `com.`   	| wilwarin   	| wilwarindi    	|
 | `gen. I` 	| wilwarindo	| wilwarindion		|
-| `gen. II`	| wilwarinduva	| wilwarindíva		|
+| `gen. II`	| wilwarindua	| wilwarindíva		|
 | `dat.`   	| wilwarinden	| wilwarindin		|
 | `instr.` 	| wilwarindanen	| wilwarindínen		|
 | `loc.`   	| wilwarindesse | wilwarindissen	|
@@ -335,7 +332,7 @@ It is often impossible to derive the stem of a fifth-declension noun (and thus t
 |         	| *sg*     	| *pl*      		|
 | `com.`   	| oron   	| oronti    		|
 | `gen. I` 	| oronto	| orontion			|
-| `gen. II`	| orontuva	| orontíva			|
+| `gen. II`	| orontua	| orontíva			|
 | `dat.`   	| oronten	| orontin			|
 | `instr.` 	| orontanen	| orontínen			|
 | `loc.`   	| orontesse | orontissen		|
@@ -390,7 +387,7 @@ Overview of forms:
 |         	| *sg*     	| *pl*      	|
 | `com.`   	| mól    	| móli	    	|
 | `gen. I` 	| mólo   	| mólion	  	|
-| `gen. II`	| móluva	| mólíva	  	|
+| `gen. II`	| mólua	| mólíva	  	|
 | `dat.`   	| mólen		| mólin	  	 	|
 | `instr.` 	| mólanen[^d51]| mólínen	 	|
 | `loc.`   	| mólosse 	| mólissen[^d52]	|

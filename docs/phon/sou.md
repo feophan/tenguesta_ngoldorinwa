@@ -834,22 +834,22 @@ Such changes are found to have occurred consistently in certain environments at 
 
 |	CE	|	PQ		|	NTQ		|	VTQ	|
 | ----	|	----	|	----	|	----	|
-|	*sp &rarr; ps*{.ipa}	|	*ps*{.ipa}	|	*s, ups*{.ipa}	|	*s, ups*{.ipa}	|
-|	*sp*{.ipa}	|	*f*{.ipa}	|	*f*{.ipa}		|	*f*{.ipa}	|
-|	*ṣp*{.ipa}	|	*ups*{.ipa}	|	*ups*{.ipa}	|	*ups*{.ipa}	|
-|	*st*{.ipa}	|	*θ*{.ipa}	|	*s*{.ipa}	|	*θ*{.ipa}	|
-|	*ṣt*{.ipa}	|	*ist*{.ipa}	|	*ist*{.ipa}	|	*ist*{.ipa}	|
-|	*sk &rarr; ks*{.ipa}	|	*ks*{.ipa}	| *s, iks*{.ipa}	|	*s, iks*{.ipa} |
-|	*sk*{.ipa}	|	*h*{.ipa}	| *h*{.ipa}	|	*h*{.ipa}	|
-|	*ṣk*{.ipa}	|	*iks*{.ipa}	| *iks*{.ipa}	|	*iks*{.ipa}	|
-|	*sm*{.ipa}	|	*m*{.ipa}	|	*m*{.ipa}	|	*m*{.ipa}	|
-|	*sn*{.ipa}	|	*n*{.ipa}	|	*n*{.ipa}	|	*n*{.ipa}	|
-|	*sr*{.ipa}	|	*r̥*{.ipa}	|	\**r*{.ipa}	|	*r̥*{.ipa}	|
-|	*sl*{.ipa}	|	*l̥*{.ipa}	|	\**l*{.ipa}	|	*l̥*{.ipa}	|
-|	*sj*{.ipa}	|	*ç*{.ipa}	|	*ç*{.ipa}	|	*ʃ*{.ipa}	|
-|	*sw*{.ipa}	|	*xʷ*{.ipa}	|	*xʷ*{.ipa}	|	*f*{.ipa}	|
+|	*sp &rarr; ps*	|	*ps*	|	*s, ups*	|	*s, ups*	|
+|	*sp*	|	*f*	|	*f*		|	*f*	|
+|	*ṣp*	|	*ups*	|	*ups*	|	*ups*	|
+|	*st*	|	*θ*	|	*s*	|	*θ*	|
+|	*ṣt*	|	*ist*	|	*ist*	|	*ist*	|
+|	*sk &rarr; ks*	|	*ks*	| *s, iks*	|	*s, iks* |
+|	*sk*	|	*h*	| *h*	|	*h*	|
+|	*ṣk*	|	*iks*	| *iks*	|	*iks*	|
+|	*sm*	|	*m*	|	*m*	|	*m*	|
+|	*sn*	|	*n*	|	*n*	|	*n*	|
+|	*sr*	|	*̥r*	|	*r* ~ \**̥r*	|	*̥r*	|
+|	*sl*	|	*ɬ*	|	*l* ~ \**ɬ*	|	*ɬ*	|
+|	*sj*	|	*ç*	|	*ç*	|	*ʃ*	|
+|	*sw*	|	*xʷ*	|	*xʷ*	|	*f*	|
 
-\*But after Sindarin became a native speech, *r̥, l̥*{.ipa} were restored. 
+\*Colloquial Sindarin influence 
 
 ##### Combinations with D, G
 
@@ -867,32 +867,41 @@ Such changes are found to have occurred consistently in certain environments at 
 |	CE	|	PQ		|	NTQ		|	VTQ	|
 | ----	|	----	|	----	|	----	|
 |	*p*	|	*p*	|	*p*	|	*p*	|
-|	*pp*	|	*pp*	|	*pp*	|	*pp*	|
-|	*pt*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
+|	*pp(ʰ)*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pt(ʰ)*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
 |	*ps*	|	*ps*	|	*ps*	|	*ps*	|
-|	*pn*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
 |	*pm &rarr; mp*	|	*mp*	|	*mp*	|	*mp*	|
 |	*pm*	|	*pp*	|	*pp*	|	*pp*	|
-|	*pj*	|	*pj*	|	*pj*	|	*pʃ*	|
-|	*pw*	|	*pp*	|	*pp*	|	*pp*	|
+|	*pn*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
 |	*pl &rarr; lp*	|	*lp*	|	*lp*	|	*lp*	|
 |	*pl*	|	*pηl*	|	*pηl*	|	*pηl*	|
 |	---		|	*pl* &rarr; *pωl*	|	*pωl*	|	*pωl*	|
 |	*pr &rarr; rp*	|	*rp*	|	*rp*	|	*rp*	|
 |	*pr*	|	*ps*	|	*ps*	|	*ps*	|
 |	---		|	*pr* &rarr; *par*	|	*par*	|	*par*	|
+|	|
+|	*pj*	|	*pj*	|	*pj*	|	*pʃ*	|
+|	*pw*	|	*pp*	|	*pp*	|	*pp*	|
+|	|
 
-|	CE	|	PQ		|	NTQ		|	VTQ	|
-| ----	|	----	|	----	|	----	|
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments* |
+| ----	|	----	|	----	|	----	|	----	|
 |	*t*	|	*t*	|	*t*	|	*t*	|
-|	*tt*[^t1]	|	*st*	|	*st*	|	*st*	|
-|	*tt*[^t2]	|	*tt*	|	*tt*	|	*tt*	|
+|	|
+|	*tt*	|	*st*	|	*st*	|	*st*	|	from suffixial *t*	|
+|	*tt*	|	*tt*	|	*tt*	|	*tt*	|	from fortified *t*	|
 |	*tk*	|	*kk*	|	*kk*	|	*kk*	|
+|	|
 |	*ts*	|	*ts*	|	*ss*	|	*ss*	|
-|	*tn*	|	*tt*	|	*tt*	|	*tt*	|
+|	|
 |	*tm*	|	*tw*	|	*tw*	|	*tw*	|
-|	*tj*	|	*c*	|	*c*	|	*tʃ*	|
-|	*tw*	|	*tw*	|	*tw*	|	*tw*	|
+|	*tn &rarr; nt*	|	*nt*	|	*nt*	|	*nt*	|
+|	*tn*	|	*tt*	|	*tt*	|	*tt*	|
+|	|
 |	*tl &rarr; lt*	|	*lt*	|	*lt*	|	*lt*	|
 |	*tl*	|	*tηl*	|	*tηl*	|	*tηl*	|
 |	---	|	*tl* &rarr;	*lt* |	*lt*	|	*lt*	|
@@ -900,18 +909,24 @@ Such changes are found to have occurred consistently in certain environments at 
 |	*tr &rarr; rt*	|	*rt*	|	*rt*	|	*rt*	|
 |	*tr*	|	*ts*	|	*ss*	|	*ss*	|
 |	---	|	*tr* &rarr; *tar*	|	*tar*	|	*tar*	|
+|	|
+|	*tj*	|	*c*	|	*c*	|	*tʃ*	|
+|	*tw*	|	*tw*	|	*tw*	|	*tw*	|
+|	|
 
 |	CE	|	PQ		|	NTQ		|	VTQ	|
 | ----	|	----	|	----	|	----	|
 |	*k*	|	*k*	|	*k*	|	*k*	|
+|	|
 |	*kt*	|	*χt*	|	*χt*	|	*χt*	|
 |	*kk*	|	*kk*	|	*kk*	|	*kk*	|
+|	|
 |	*ks*	|	*ks*	|	*ks*	|	*ks*	|
+|	|
+|	*km*	|	*kw*	|	*kw*	|	*kw*	|
 |	*kn &rarr; nk*	|	*ŋk*	|	*ŋk*	|	*ŋk*	|
 |	*kn*	|	*χt*	|	*χt*	|	*χt*	|
-|	*km*	|	*kw*	|	*kw*	|	*kw*	|
-|	*kj*	|	*c*	|	*c*	|	*tʃ*	|
-|	*kw*	|	*kw*	|	*kw*	|	*kw*	|
+|	|
 |	*kl &rarr; lk*	|	*lk*	|	*lk*	|	*lk*	|
 |	*kl*	|	*kηl*	|	*kηl*	|	*kηl*	|
 |	---	|	*kl* &rarr; *lk*	|	*lk*	|	*lk*	|
@@ -919,37 +934,48 @@ Such changes are found to have occurred consistently in certain environments at 
 |	*kr &rarr; rk*	|	*rk*	|	*rk*	|	*rk*	|
 |	*kr*	|	*ks*	|	*ks*	|	*ks*	|
 |	---	|	*kr* &rarr; *kar*	|	*kar*	|	*kar*	|
+|	|
+|	*kj*	|	*c*	|	*c*	|	*tʃ*	|
+|	*kw*	|	*kw*	|	*kw*	|	*kw*	|
+|	|
 
 ##### Voiceless Aspirates
 
-|	CE	|	PQ		|	NTQ		|	VTQ	|
-| ----	|	----	|	----	|	----	|
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	|
+| ----	|	----	|	----	|	----	|	----	|
 |	*pʰ*	|	*ɸ*	|	*f*	|	*ɸ*	|
-|	*pʰ*[^ph1]	|	*h*	|	*h*	|	*h*	|
+|	*pʰ*	|	*h*	|	*h*	|	*h*	| before *u*	|
+|	|
 |	*pʰp(ʰ)*	|	*pp*	|	*pp*	|	*pp*	|
 |	*pʰt(ʰ)*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
 |	*pʰs*	|	*ps*	|	*ps*	|	*ps*	|
-|	*pʰn*	|	*ɸt*	|	*ʍt*	|	*ʍt*	|
-|	*?pʰm*	|	*pp*	|	*pp*	|	*pp*	|
-|	*pʰj*	|	*ɸj*	|	*fj*	|	*ɸj*	|
-|	*pʰw*	|	*pp*	|	*pp*	|	*pp*	|
+|	|
+|	*pʰm*	|	*pp*	|	*pp*	|	*pp*	| no known case[^ph1]	|
+|	*pʰn*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
 |	*pʰl &rarr; lpʰ*	|	*lp*	|	*lp*	|	*lp*	|
 |	*pʰl*	|	*ɸηl*	|	*fηl*	|	*ɸηl*	|
 |	---	|	*pʰl* &rarr; *ɸωl*	|	*fωl*	|	*ɸωl*	|
 |	*pʰr &rarr; rpʰ*	|	*rp*	|	*rp*	|	*rp*	|
 |	*pʰr*	|	*ps*	|	*ps*	|	*ps*	|
 |	---	|	*ɸr* &rarr; *ɸar*	|	*far*	|	*ɸar*	|
+|	|
+|	*pʰj*	|	*ɸj*	|	*fj*	|	*ɸj*	|
+|	*pʰw*	|	*pp*	|	*pp*	|	*pp*	|
 
 |	CE	|	PQ		|	NTQ		|	VTQ	|
 | ----	|	----	|	----	|	----	|
 |	*tʰ*	|	*θ*	|	*s*	|	*θ*	|
+|	|
 |	*tʰt(ʰ)*	|	*tt*	|	*tt*	|	*tt*	|
 |	*tʰk(ʰ)*	|	*kk*	|	*kk*	|	*kk*	|
+|	|
 |	*tʰs*	|	*ts*	|	*ss*	|	*ss*	|
-|	*tʰn*	|	*tt*	|	*tt &rarr; st*	|	*tt*	|
+|	|
 |	*tʰm*	|	*tw*	|	*tw*	|	*tw*	|
-|	*tʰj*	|	*θj*	|	*ʃ*	|	*θj*	|
-|	*tʰw*	|	*θw*	|	*sw*	|	*θw*	|
+|	*tʰn*	|	*tt*	|	*tt > st*	|	*tt*	|
+|	|
 |	*tʰl &rarr; ltʰ*	|	*lt*	|	*lt*	|	*lt*	|
 |	*tʰl*	|	*θηl*	|	*sηl*	|	*θηl*	|
 |	---	|	*θl* &rarr; *lt*	|	*lt*	|	*lt*	|
@@ -957,128 +983,283 @@ Such changes are found to have occurred consistently in certain environments at 
 |	*tʰr &rarr; rtʰ*	|	*rt*	|	*rt*	|	*rt*	|
 |	*tʰr*	|	*ts*	|	*ss*	|	*ss*	|
 |	---	|	*rθ* &rarr; *θar*	|	*sar*	|	*θar*	|
+|	|
+|	*tʰj*	|	*θj*	|	*ʃ*	|	*θj*	|
+|	*tʰw*	|	*θw*	|	*sw*	|	*θw*	|
 
 |	CE	|	PQ		|	NTQ		|	VTQ	|
 | ----	|	----	|	----	|	----	|
 |	*kʰ*	|	*χ*	|	*h*	|	*h*	|
+|	|
 |	*kʰt(ʰ)*	|	*χt*	|	*χt*	|	*χt*	|
 |	*kʰk(ʰ)*	|	*kk*	|	*kk*	|	*kk*	|
+|	|
 |	*kʰs*	|	*ks*	|	*ks*	|	*ks*	|
-|	*kʰn*	|	*χt*	|	*χt*	|	*χt*	|
+|	|
 |	*kʰm*	|	*kw*	|	*kw*	|	*kw*	|
-|	*kʰj*	|	*çç*	|	*ç*	|	*ʃ*	|
-|	*kʰw*	|	*xxʷ*	|	*xʷ*	|	*ff*	|
+|	*kʰn*	|	*χt*	|	*χt*	|	*χt*	|
+|	|
 |	*kʰl* &rarr; *lkʰ*	|	*lk*	|	*lk*	|	*lk*	|
 |	*kʰl*	|	*χηl*	|	*hηl*	|	*hηl*	|
 |	---	|	*χl* &rarr; *χωl*	|	*hωl*	|	*hωl*	|
 |	*kʰr* &rarr; *rkʰ*	|	*rk*	|	*rk*	|	*rk*	|
 |	*kʰr*	|	*ks*	|	*ks*	|	*ks*	|
 |	---	|	*χr* &rarr; *χar*	|	*har*	|	*har*	|
+|	|
+|	*kʰj*	|	*çç*	|	*ç*	|	*ʃ*	|
+|	*kʰw*	|	*xxʷ*	|	*xʷ*	|	*ff*	|
+
+[^ph1]: PE19/87
 
 ##### Voiced Stops
 
 |	CE	|	PQ		|	NTQ		|	VTQ	|
 | ----	|	----	|	----	|	----	|
 |	*b*	|	*β*	|	*v*	|	*β*	|
-|	*bt(ʰ)*	|	*ɸt, wt*	|	*ʍt*	|	*ɸt*	|
-|	*bt(ʰ)*	|	*wt*	|	*wt*	|	*wt*	|
-|	*bs*	|	*ps &rarr; ws*	|	*ps; ws (wr)*	|	*ps; ws (wz)*	|
+|	|
+|	*bt(ʰ)*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	*---*	|	*βt &rarr; wt*	|	*wt*	|	*wt*	|
+|	|
+|	*bs*	|	*ps*	|	*ps > ws (wr)*	|	*ps > ws (wz)*	|
+|	|
 |	*bb*	|	*pp*	|	*pp*	|	*pp*	|
-|	*bd*	|	*ɸt*	|	*wt*	|	*wt*	|
-|	*bn*	|	*mn*	|	*nn &rarr; wn*	|	*mn &rarr; wn*	|
-|	*bm*	|	*mm*	|	*mm &rarr; wm*	|	*mm &rarr; wm*	|
-|	*bj*	|	*wj*	|	*wj*	|	*wj*	|
-|	---	|	*βj* &rarr; *βi*	|	*vi*	|	*βi*	|
-|	*bw*	|	*wv*	|	*wv*	|	*wv*	|
+|	*bd*	|	*ɸt*	|	*ʍt*	|	*ɸt*	|
+|	|
+|	*bm*	|	*mm*	|	*mm > wm*	|	*mm > wm*	|
+|	*bn*	|	*mn*	|	*nn > wn*	|	*mn > wn*	|
+|	|
 |	*bl*	|	*wl*	|	*wl*	|	*wl*	|
 |	---	|	*βl* &rarr; *βul*	|	*vul*	|	*βul*	|
 |	*br*	|	*wr*	|	*wr*	|	*wr*	|
 |	---	|	*βr* &rarr; *βar*	|	*var*	|	*βar*	|
+|	|
+|	*bj*	|	*wj*	|	*wj*	|	*wj*	|
+|	---	|	*βj* &rarr; *βi*	|	*vi*	|	*βi*	|
+|	*bw*	|	*wv*	|	*wv*	|	*wv*	|
 
-|	CE	|	PQ		|	NTQ		|	VTQ	|
-| ----	|	----	|	----	|	----	|
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	|
+| ----	|	----	|	----	|	----	|	----	|
 |	*d*	|	*ɹ*	|	*r*	|	*z*	|
-|	*d*[^d1]	|	*l*	|	*l*	|	*l*	|
-|	*dt(ʰ)*	|	*st, ɹt*	|	*st; rt*	|	*st*	|
-|	*ds*	|	*ts &rarr; ss*	|	*ss*	|	*ss*	|
-|	*dd*	|	*st*[^t1]	|	*st*	|	*st*	|
-|	*dd*	|	*tt*[^t2]	|	*tt*	|	*tt*	|
-|	*dn*	|	*nn*	|	*nn &rarr; rn*	|	*nn &rarr; rn*	|
-|	*dm*	|	*nw*	|	*nw &rarr; rm*	|	*nw &rarr; mm*	|
-|	*dj*	|	*lj*	|	*lj*	|	*lj*	|
-|	*dw*	|	*ɹw*	|	*rw*	|	*zw*	|
+|	*d*	|	*l*	|	*l*	|	*l*	|	after *r* and a vowel	|
+|	|
+|	*dt(ʰ)*	|	*st*	|	*st > rt*	|	*st*	|
+|	|
+|	*ds*	|	*ts*	|	*ss*	|	*ss*	|
+|	|
+|	*dd*	|	*st*	|	*st*	|	*st*	|	from suffixial *t*	|
+|	*dd*	|	*tt*	|	*tt*	|	*tt*	|	from fortified *t*	|
+||
+|	*dm*	|	*nw*	|	*nw > rm*	|	*nw > mb*	|
+|	*dn*	|	*nn*	|	*nn > rn*	|	*nn ~ nd*	|
+||
 |	*dl*	|	*ɹl*	|	*ll, ld*	|	*ll, ld*	|
 |	---		|	*ðl* &rarr; *lð*	|	*ld*	|	*ld*	|
 |	*dr*	|	*ɹr*	|	*rr*	|	*rr*	|
+||
+|	*dj*	|	*lj*	|	*lj*	|	*lj*	|
+|	*dw*	|	*ɹw*	|	*rw*	|	*zw*	|
 
-|	CE	|	PQ		|	NTQ		|	VTQ	|
-| ----	|	----	|	----	|	----	|
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	|
+| ----	|	----	|	----	|	----	|	----	|
 |	*g*	|	---	|	---	|	---	|
-|	*g*	|	*j*[^g1]	|	*j*	|	*j*	|
+|	*g*	|	*j*	|	*j*	|	*j*	|	after *e, i*	|
+|	*g*	|	*d*	|	*d*	|	*d*	|	before final *e* < *j*	|
+||
 |	*gt(ʰ)*	|	*χt*	|	*χt*	|	*χt*	|
-|	---	|	*ήt*	|	*ήt*	|	*ήt*	|
+|	---	|	*gt(ʰ) &rarr; ήt*	|	*ήt*	|	*ήt*	|
+||
 |	*gs*	|	*ks &rarr; ss*	|	*ks, s*	|	*ks, ss*	|
-|	---	|	*ήs*	|	*ήs*	|	*ήs*	|
+|	---	|	*gs &rarr; ήs*	|	*ήs*	|	*ήs*	|
+||
 |	*gd*	|	*χt*	|	*χt*	|	*χt*	|
 |	*gg*	|	*kk*	|	*kk*	|	*kk*	|
-|	*gn*	|	*ŋn*	|	*nn*[^g2] &rarr; *ήn* |	*nn*	|
-|	*gn*	|	*ŋn*	|	*ῆn*[^g3] |	*nn*	|
+||
 |	*gm*	|	*ŋm*	|	*ῆm &rarr; ήm*	|	*ῆm &rarr; ήm*	|
-|	*gj*	|	*jj*	|	*jj*	|	*jj*	|
-|	*gj*	|	*dj*[^g4]	|	*j*	|	*dʒ*	|
-|	*gw*	|	*ww*	|	*ww*	|	*ww*	|
-|	*gw*	|	*w*[^g4]	|	*w*	|	*w &rarr; b*	|
+|	*gn*	|	*ŋn*	|	*nn* &rarr; *ήn* |	*nn*	|	after *e, a, o*	|
+|	*gn*	|	*ŋn*	|	*ῆn* |	*nn*	|	after *i, u*	|
+||
 |	*gl*	|	*ήl*	|	*ήl*	|	*ήl*	|
 |	*gr*	|	*ήr*	|	*ήr*	|	*ήr*	|
+||
+|	*gj*	|	*jj*	|	*jj*	|	*jj*	|
+|	*gj*	|	*ɟj*	|	*j*	|	*dʒ*	|	after *n, r, l*	|
+|	*gw*	|	*ww*	|	*ww*	|	*ww*	|
+|	*gw*	|	*w*	|	*w*	|	*w &rarr; b*	|	after *r, l*	|
 
 ##### Nasals
 
-|	CE	|	PQ		|	NTQ		|	VTQ	|
-| ----	|	----	|	----	|	----	|
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	| 
+| ----	|	----	|	----	|	----	|	----	|
 |	*n*	|	*n*	|	*n*	|	*n*	|
+||
+|	*np*	|	*mp*	|	*mp*	|	*mp*	|
 |	*nt*	|	*nt*	|	*nt*	|	*nt*	|
+|	*nk*	|	*ŋk*	|	*ŋk*	|	*ŋk*	|
+|	*ntʰ*	|	*tt*	|	*tt > ss*	|	*tt*	|
+|	*---*	|	*nθ &rarr; nt*	|	*nt > ss*	|	*nt*	|
+||
+|	*ns*	|	*ss*	|	*ss* > *rr, rn, ns* ~ *ss*	|	*ss* > *nz*	|
+||
+|	*nn*	|	*nn*	|	*nn*	|	*nn* ~ *nd*	|	from suffixial *n*	|
+|	*nn*	|	*nd*	|	*nd* ~ \**nn*	|	*nd*	|	from fortified *n*	|
+|	*nm*	|	*mm*	|	*mm*	|	*mm* ~ *mb*	|	in compounds	|
+|	*nm*	|	*nw*	|	*nw*	|	*nw*	|	from suffixial *m*	|
+||
+|	*nl* &rarr; *ln*	|	*ld*	|	*ld*	|	*ld*	|	rare	|
+|	*nl*	|	*ll*	|	*ll*	|	*ll*	|
+|	*---*	|	*nl* &rarr; *nηl*	|	*nηl*	|	*nηl*	|
+|	*nr* &rarr; *rn*	|	*rn*	|	*rn*	|	*rn*	|
+|	*nr*	|	*rr*	|	*rr*	|	*rr*	|
+|	*---*	|	*nr* &rarr; *nar*	|	*nar*	|	*nar*	|
+||
+|	*nj*	|	*nj*	|	*nj*	|	*nj*	|
+|	*nw*	|	*nw*	|	*nw*	|	*nw*	|
 
-#### Consonants at Word End
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	|
+| ----	|	----	|	----	|	----	|	----	|
+|	*m*	|	*m*	|	*m*	|	*m*	|
+||
+|	*mp*	|	*mp*	|	*mp*	|	*mp*	|
+|	*mt*	|	*nt*	|	*nt*	|	*nt*	|
+|	*mk*	|	*ŋk*	|	*ŋk*	|	*ŋk*	|
+|	*mpʰ*	|	*pp*	|	*pp*	|	*pp*	|
+||
+|	*ms*	|	*ss*	|	*ss*	|	*ss*	|
+||
+|	*mm*	|	*mm*	|	*mm*	|	*mm* ~ *mb*	| from suffixial *m*	|
+|	*mm*	|	*mb*	|	*mb* ~ \**mm*	|	*mb*	| from fortified *m*	|
+|	*mn*	|	*mn*	|	*nn*	|	*mn*	|
+||
+|	*ml* &rarr; *lm*	|	*lm*	|	*lm*	|	*lm*	|
+|	*ml*	|	*mul*	|	*mul*	|	*mul*	|
+|	*mr* &rarr; *rm*	|	*rm*	|	*rm*	|	*rn*	|
+|	*mr*	|	*mar*	|	*mar*	|	*mar*	|
+||
+|	*mj*	|	*mj*	|	*mj*	|	*nj*	|
+|	*mw*	|	*nw*	|	*nw*	|	*nw*	|
 
-Final consonants were avoided in CE. Uninflected words seldom ended in a consonant, with the exception of ancient monosyllabic nouns, which could end in one of the continuants: *m*, *n*, *ŋ*; *r, l, y, w*; *s* and *h*: *khōm* 'heart'; *nen* 'water'; *peŋ* 'mouth', etc.
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	|
+| ----	|	----	|	----	|	----	|	----	|
+|	*ŋ*	|	*---*	|	*---* |	*---*	|
+||
+|	*ŋm*	|	*ῆn*	|	*ῆn* |	*ήn*	|
+|	*ŋn*	|	*ῆn*	|	*ῆn* |	*ήn*	|	after *i, u*	|
+|	*ŋn*	|	*nn*	|	*nn* > *ήn* |	*nn*	|	after *a, e, o*	|
+|	*ŋŋ*	|	*ŋg*	|	*ŋg* |	*ŋg*	|
+||
+|	*ŋj*	|	*ndj*	|	*nj* |	*ndʒ*	|
+|	*ŋw*	|	*ŋgw*	|	*ŋgw* |	*ŋgw*	|
 
-The inflexional elements often ended in a consonant: *t, s, d, th, n, r, l, m*; also the combinations *nt* and *st*. When vowels were lost after other consonants or groups of consonants, these were changed or simplified.
-
-##### Nasals
-
-|	CE	|	PQ		|	NTQ		|
-| ----	|	----	|	----	|
-|	*m*	|	*n*		|	*n*		| 
-|	*n*	|	*n*		|	*n*		|
-|	*ŋ*	|	---		|	---		|
+\*Colloquial Sindarin influence
 
 ##### Liquids
 
-|	CE	|	PQ		|	NTQ		|
-| ----	|	----	|	----	|
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	| 
+| ----	|	----	|	----	|	----	|	----	|
+|	*lp(ʰ)*	|	*lp*	|	*lp*	|	*lp*	|
+|	*lt(ʰ)*	|	*lt*	|	*lt*	|	*lt*	|
+|	*lk(ʰ)*	|	*lk*	|	*lk*	|	*lk*	|
+|	|
+|	*lb*	|	*lβ*	|	*lv*	|	*lb*	|
+|	*ld*	|	*ld*	|	*ld*	|	*ld*	|
+|	*lg*	|	*lɣ*	|	*ll*	|	*lg*	|
+|	*lg*	|	*lj*	|	*lj*	|	*lj*	|	before *e*	|
+|	|
+|	*ls*	|	*ls*	|	*ls*	|	*ls*	|
+||
+|	*ln*	|	*ld*	|	*ld*	|	*ld*	|
+|	*lm*	|	*lm*	|	*lm*	|	*lm*	|
+|	*lŋ*	|	*lŋ*	|	*lg*	|	*lg*	|
+|	|
+|	*lr*	|	*ll*	|	*ll*	|	*ll*	|
+||
+|	*lj*	|	*lj*	|	*lj*	|	*lj*	|
+|	*lw*	|	*lw*	|	*lw*	|	*lw ~ lb*	|
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	| 
+| ----	|	----	|	----	|	----	|	----	|
+|	*rp(ʰ)*	|	*rp*	|	*rp*	|	*rp*	|
+|	*rt(ʰ)*	|	*rt*	|	*rt*	|	*rt*	|
+|	*rk(ʰ)*	|	*rk*	|	*rk*	|	*rk*	|
+|	|
+|	*rb*	|	*rβ*	|	*rv*	|	*rb*	|
+|	*rd*	|	*rd*	|	*rd*	|	*rd*	|
+|	*rg*	|	*rɣ*	|	*rr*	|	*rg*	|
+|	*rg*	|	*rj*	|	*rj*	|	*rj*	|	before *e*	|
+|	|
+|	*rs*	|	*rs*	|	*ss*	|	*ss*	|
+||
+|	*rn*	|	*rn*	|	*rn*	|	*rn*	|
+|	*rm*	|	*rm*	|	*rm*	|	*rm*	|
+|	*rŋ*	|	*rŋ*	|	*rg*	|	*rg*	|
+|	|
+|	*rl*	|	*ll*	|	*ll*	|	*ll*	|
+||
+|	*rj*	|	*rj*	|	*rj*	|	*rj*	|
+|	*rw*	|	*rw*	|	*rw*	|	*rw ~ rb*	|
+
+##### Sibilants
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	| 
+| ----	|	----	|	----	|	----	|	----	|
+|	*s*	|	*z*	|	*r*	|	*z*	|	between vowels	|
+|	*s*	|	*s*	|	*s*	|	*s*	|	before *p, t, k, s*	|
+||
+|	*sb &rarr; zb*	|	*sp, ps*	|	*sp, ps*	|	*sp, ps*	|
+|	*sd &rarr; zd*	|	*st*	|	*st*	|	*st*	|
+|	*sg &rarr; zg*	|	*sk, ks*	|	*sk, ks*	|	*sk, ks*	|
+||
+|	*sm*	|	*mm*	|	*mm > rm*	|	*mb*	|
+|	*sn*	|	*nn*	|	*nn > rn*	|	*nd*	|
+||
+|	*sl &rarr; ls*	|	*ls*	|	*ls*	|	*ls*	|
+|	*sl*	|	*ll*	|	*ll*	|	*ll*	|
+|	*---*	|	*zl &rarr; zηl*	|	*rηl*	|	*zηl*	|
+|	*sr &rarr; rs*	|	*rs*	|	*ss*	|	*ss*	|
+|	*sr*	|	*ss*	|	*ss*	|	*ss*	|
+|	*---*	|	*zr &rarr; rr*	|	*rr*	|	*rr*	|
+|	*---*	|	*---*	|	*zr &rarr; sar*	|	*zr &rarr; zar*	|
+||
+|	*sj*	|	*zj*	|	*rj*	|	*ʒ*	|
+|	*sw*	|	*zw*	|	*rw*	|	*zw*	|
+
+#### Consonants at Word End
+
+##### Nasals
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*m*	|	*n*		|	*n*		|	*n*	|
+|	*n*	|	*n*		|	*n*		|	*n*	|
+|	*ŋ*	|	*ή*		|	*ή*		|	*ή*	|
+
+##### Liquids
+
+|	CE	|	PQ		|	NTQ		|	VTQ	|	*Comments*	|
+| ----	|	----	|	----	|	----	|	----	|
 |	*r*	|	*r*		|	*r*		|
 |	*l*	|	*l*		|	*l*		|
-|	*j*	|	\**i*		|	*i*		|
-|	*w*	|	\**u*		|	*u*		|
-
-\*But after a long vowel *j, w* were lost: *phāj* > *fá*
+|	*j*	|	*e*		|	*e*		|	*e*	|	after a consonant	|
+|	*j*	|	*---*		|	*---*		|	*---*	|	after a long vowel	|
+|	*w*	|	*o*		|	*o*		|	*o*	|	after a consonant	|
+|	*w*	|	*---*		|	*---*		|	*---*	|	after a long vowel	|
 
 ##### Fricatives
 
-|	CE	|	PQ		|	NTQ		|
-| ----	|	----	|	----	|
-|	*s*	|	*s*		|	*s*		|
-|	*h*	|	---		|	---		|
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*s*	|	*s*		|	*s*		|	*s*	|
+|	*h*	|	*ή*		|	*ή*		|	*ή*	|
 
 ##### Stops
 
-|	CE	|	PQ		|	NTQ		|
-| ----	|	----	|	----	|
-|	*t*	|	*t*		|	*s*		|
-|	*th*	|	*t*	|	*s*		|
-|	*k*	|	*t*	|	*s*		|
-|	*p*	|	*t*	|	*s*		|
-|	*d*	|	*r*	|	*r*		|
+|	CE	|	PQ		|	NTQ		|	VTQ	|
+| ----	|	----	|	----	|	----	|
+|	*t*	|	*t*		|	*s*		|	*s*	|
+|	*th*	|	*t*	|	*s*		|	*s*	|
+|	*d*	|	*r*	|	*r*		|	*r*	|
+|	*k*	|	*t*	|	*s*		|	*s*	|
+|	*p*	|	*t*	|	*s*		|	*s*	|
 
 ##### Groups
 
@@ -1095,15 +1276,7 @@ The inflexional elements often ended in a consonant: *t, s, d, th, n, r, l, m*; 
 |	*st*	|	*s*		|	*s*		|
 |	*ht*	|	*t*		|	*t*		|
 
-
-[^t1]: from suffixial *t*
-[^t2]: from fortified *t*
-[^ph1]: before *u*
-[^d1]: after *r* and a vowel
-[^g1]: After *e, i*
-[^g2]: After *e, a, o*
-[^g3]: After *i, u*
-[^g4]: After *l, r*
+### Vowels
 
 *[CE]: Common Eldarin
 *[PQ]: Classical Quenya

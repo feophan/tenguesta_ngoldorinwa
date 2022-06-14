@@ -85,7 +85,7 @@
 |	ndeb-	|	nevë	|	néva	|	néve	|	névane	|	endévie	|	neuva	|
 |	cub-	|	cuvë	|	cúva	|	cúve	|	cúvane	|	ucúvie	|	cuvua	|
 |	now-	|	novë	|	nóva	|	nóve	|	nóvane	|	onóvie	|	novua	|
-|	tyaw-	|	tyavë	|	tyáva	|	tyáve	|	tyávane	|	atyávie	|	tyauva	|
+|	tjaw-	|	tyavë	|	tyáva	|	tyáve	|	tyávane	|	atyávie	|	tyauva	|
 |	ndac-	|	nacë	|	náca	|	nance	|	nácane	|	andácie	|	nacuva	|
 |	mbar-	|	marë	|	mára	|	marne	|	márane	|	ambárie	|	maruva	|
 |	ngor-	|	gorë	|	góra	|	gorne	|	górane	|	ongórie	|	goruva	|

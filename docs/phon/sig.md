@@ -525,11 +525,94 @@ This method is mostly identical with phonetical transcription, but borrows a few
 
 While the phonetical transcription is well-suited to bridge the gab between tengwar spelling and use of Latin characters, the aesthetics of Latin spelling took an important place in devising the spelling for Quenya. Here we list some modifications to LotR spelling which ensure the Latin feel, but also provide a direct correspondence to the tengwar spelling:
 
-+ <gw\> is spelled <gu\>: <tengua\> for <tengwa\>;
+<table>
+	<tr>
+		<th/>
+		<th>I</th>
+		<th>II</th>
+		<th>III</th>
+		<th>IV</th>
+	</tr>
+	<tr>
+		<th>1</th>
+		<td>&lt;t&gt;</td>
+		<td>&lt;p&gt;</td>
+		<td>&lt;c&gt;</td>
+		<td>&lt;qu&gt;</td>
+	</tr>
+	<tr>
+		<th>2</th>
+		<td>&lt;nd&gt;</td>
+		<td>&lt;mb&gt;</td>
+		<td>&lt;ng&gt;</td>
+		<td>*&lt;ngu&gt;</td>
+	</tr>
+	<tr>
+		<th>3</th>
+		<td>*&lt;z&gt;</td>
+		<td>&lt;f&gt;</td>
+		<td>&lt;h&gt;</td>
+		<td>*&lt;hu&gt;</td>
+	</tr>
+	<tr>
+		<th>4</th>
+		<td>&lt;nt&gt;</td>
+		<td>&lt;mp&gt;</td>
+		<td>&lt;nc&gt;</td>
+		<td>&lt;nqu&gt;</td>
+	</tr>
+	<tr>
+		<th>5</th>
+		<td>&lt;n&gt;</td>
+		<td>&lt;m&gt;</td>
+		<td>*&lt;g&gt;</td>
+		<td>*&lt;gu&gt;</td>
+	</tr>
+	<tr>
+		<th>6</th>
+		<td>&lt;r&gt;</td>
+		<td>&lt;v&gt;</td>
+		<td>*&mdash;</td>
+		<td>&lt;v, u&gt;</td>
+	</tr>
+	<tr>
+		<th>7</th>
+		<td>&lt;st&gt;</td>
+		<td>&lt;pt&gt;</td>
+		<td>*&lt;ct&gt;</td>
+		<td>&mdash;</td>
+	</tr>
+	<tr>
+		<th>8</th>
+		<td>&lt;r&gt;</td>
+		<td>&lt;rd&gt;</td>
+		<td>&lt;l&gt;</td>
+		<td>&lt;ld&gt;</td>
+	</tr>
+	<tr>
+		<th>9</th>
+		<td>&lt;s&gt;</td>
+		<td>&lt;ss&gt;</td>
+		<td>&mdash;</td>
+		<td>&mdash;</td>
+	</tr>
+	<tr>
+		<th>10</th>
+		<td>&lt;h&gt;</td>
+		<td>&lt;i&gt;</td>
+		<td>&lt;u&gt;</td>
+		<td>*&lt;h, h·&gt;</td>
+	</tr>
+</table>
+
 + <þ\> is consistently distinguished from <s\> and is spelled <z\>: <azea\> for <aþea\>;
 + <ñ\> is consistently distinguished from <n\> and is spelled <g\>: <goldo\> for <ñoldo\>;
 + the nasal vowels are marked with the following <g\>: <tegma\> for <tẽma\>;
++ <gw, hw, ñw\> are spelled <gu, hu, gu\>: <tengua\> for <tengwa\>;
 + diaresis is not used for marked vowels in hiatus or final /e/;
-+ diaresis can be optionally used to mark a short final vowel, particularly final /e/ and /o/ which turn into /i/ and /u/ in inflection: <surë\>;
++ diaresis can be optionally used to mark a short final vowel, particularly final /e/ and /o/ which turn into /i/ and /u/ in inflection: <surë\>, <ortä\> as opposed to <orta\>;
++ diaresis is also used with <u\> to distinguish syllabic quality: <huinde\> *birch*, but <hüine\> *darkness*
 + <ht\> is spelled <ct\>: <nacte\> for <nahte\>;
-+ vowels stressed in violation of main stress rules (@@) can be optionally marked with a grave: <ovèa\>.
++ vowels stressed in violation of main stress rules (@@) can be optionally marked with a grave: <ovèa\>;
++ grave is also used to distinguish homonyms: <auta\> *go away*, but <àuta\> *devise*; <runya\> *footprint*, but <rùnya\> *red fire*;
++ a *running h* (@@) is marked with middle point: <h·orro\> *alas*.

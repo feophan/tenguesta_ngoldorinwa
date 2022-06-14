@@ -4,9 +4,13 @@ site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 nav:
     - 'Phonology':
         - '1. The Sounds': phon/sou.md
+        - '1a. Accentuation': phon/acc.md
         - '2. The Signs': phon/sig.md
     - 'Morphology':
+        - '3. The Article': morph/art.md
         - '4. Nouns': morph/nou.md
+        - '5. Adjectives and Participles': morph/aap.md
+        - '6. Adverbs': morph/adv.md
         - '12. Introduction to Verb Forms': morph/ivf.md
         - '13. The Aorist': morph/vfa.md
         - '14. The Present': morph/vfi.md
@@ -23,7 +27,6 @@ nav:
     - 'Appendix':
         - 'Definite Article': app/art.md
         - 'Aspect': app/taa.md
-        - 'Perfect Questionnaire': app/pfq.md
             
 theme:
     name: readthedocs
