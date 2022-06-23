@@ -76,7 +76,7 @@ Consequently, in words of one or two syllables the stress is always prototonic:
 	
 	+ `namárie` --- *na-['ma-****a****<sub>2</sub>-ri<sub>1</sub>]-e*
 
-### Tone
+## Tone
 
 In isolation, the main stress is always marked with a high tone. The secondary stress was lower, when equally strong, and low otherwise:
 
