@@ -22,7 +22,7 @@ ol > li.pm {
 }
 
 /* Fix list spacing in admonitions */
-.admonition ul {
+.admonition ul:last-child {
 	margin-bottom: 0px !important;
 }
 
