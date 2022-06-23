@@ -95,7 +95,7 @@ Sometimes, for example in weak nouns of first or second declension, it happened 
 
 + *'ilduˌma --- 'ildu'máron* or *'ildu'maron*
 
-The only notabe exception to this is genitive of penult-stressed words in partitive plural (@@). By *Exception 1*, the main accent shifts forward from *li*:
+The only notabe exception to this is genitive of paroxytone words in partitive plural (@@). By *Exception 1*, the main accent shifts forward from *li*:
 
 + *'mali'norne --- 'mali'norneˌli --- 'malinor'nélion* or *'malinor'nelion* (not \**'maliˌnorne'líon*)
 
