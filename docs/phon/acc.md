@@ -61,11 +61,15 @@ Consequently, in words of one or two syllables the stress is always prototonic:
 !!! important "Rule"
 	**Rule 2**: The **secondary** stress is placed on **alternate** syllables in either direction from the main stress.
 	
+	+ `Calaciryanen` --- *ˌ****ca****-la-'****cir****-ya-ˌ****nen***
+	
 	**Rule 3**: Initial syllable received secondary stress:
 	
 	+ `ómaryo` --- *ˌ****o****-o-'****mar****-yo*
 	
 	**Rule 4**: Secondary stress that precedes the main stress and is separated from it by one or more syllables and is on either a) initial or b) long syllable is **strong**.
+	
+	+ `oromardi` --- *'****o****-ro-'****mar****-di*
 	
 !!! important "Exceptions"
 	**Exception 5**: The long syllable or initial syllable attracted secondary stress if they were separated from the main stress:
@@ -91,34 +95,44 @@ After historic stress shift (@@), the Quenya accent got fixed. As a result, in s
 + *'máriˌe --- 'mári'éno* (not \**ˌmá'rieˌno*)
 + *'tuluˌva --- 'tulu'váse* (not \**tu'luvaˌse*)
 
-Sometimes, for example in weak nouns of first or second declension, it happened even when the syllable of secondary stress would receive the main stress by the general rule. Colloquially, those were shortened:
-
-+ *'ilduˌma --- 'ildu'máron* or *'ildu'maron*
-
 The only notabe exception to this is genitive of paroxytone words in partitive plural (@@). By *Exception 1*, the main accent shifts forward from *li*:
 
-+ *'mali'norne --- 'mali'norneˌli --- 'malinor'nélion* or *'malinor'nelion* (not \**'maliˌnorne'líon*)
++ *'mali'norne --- 'mali'norneˌli --- 'malinor'néliˌon* or *'malinor'neliˌon* (not \**'maliˌnorne'líon*)
+
+In that case, the lengthened vowel would be stressed even by the general rule. Colloquially, it shortened:
+
++ *'vaniˌma --- 'vani'máliˌon* or *'vani'maliˌon*
 
 ----
-TY, KW, HY, HW syllabic weight: ***long*** --- PE19/60 (also ft. 152), ***short*** --- PE19/65 (ft. 166), PE19/88
+**TY, KW, HY, HW syllabic weight**: ***long*** --- PE19/60 (also ft. 152), ***short*** --- PE19/65 (ft. 166), PE19/88
+{: .src }
 
-Tone: RGEO/60 and PE19/61 contradict each other on the exception
+**Tone**: RGEO/60 and PE19/61 contradict each other on the exception
+{: .src }
 
-Exception 1: PE12/26-27
+**Exception 1**: PE12/26-27
+{: .src }
 
-Exception 2: PE21/41
+**Exception 2**: PE21/41
+{: .src }
 
-Exception 3: PE19/64 (ft.)
+**Exception 3**: PE19/64 (ft.)
+{: .src }
 
-Rule 2: PE19/57
+**Rule 2**: PE19/57
+{: .src }
 
-Rule 3: RGEO/60-61
+**Rule 3**: RGEO/60-61
+{: .src }
 
-Rule 4: PE19/65 (ft.)
+**Rule 4**: PE19/65 (ft.)
+{: .src }
 
-Exception 5: PE19/58
+**Exception 5**: PE19/58
+{: .src }
 
-Exception 6: RGEO/60-61
+**Exception 6**: RGEO/60-61
+{: .src }
 
 *[CE]: Common Eldarin
 *[PQ]: Classical Quenya
