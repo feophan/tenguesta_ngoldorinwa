@@ -126,7 +126,7 @@ Formative verbs with `-s-` largely merged with formative (a) conjugation, but ha
 
 ### Augmented Preterite
 
-A special group of formative verbs of <span style="font-variant:small-caps;">&Sqrt;tā</span> shape might form preterite from inverted root with an augment: `is-t-` > `i-si-t-ne` > `isinte`, `or-y-` > `o-ro-t-ne` > `oronte`. The resulting form is superficially the same as from short-grade ablaut: `isi-t-ne` > `isinte`, `orot-ne` > `oronte`. However, the augment is not a part of the stem, and can be freely omitted, especially if following a vowel (elision, @@): `sinte`, `ronte`. The vowel of a short-grade ablaut stem can't be elided.  
+A special group of formative verbs of <span style="font-variant:small-caps;">&Sqrt;tā</span> shape might form preterite from inverted root with an augment: `is-t-` > `i-si-t-ne` > `isinte`, `or-t-` > `o-ro-t-ne` > `oronte`. The resulting form is superficially the same as from short-grade ablaut: `isi-t-ne` > `isinte`, `orot-ne` > `oronte`. However, the augment is not a part of the stem, and can be freely omitted, especially if following a vowel (elision, @@): `sinte`, `ronte`. The vowel of a short-grade ablaut stem can't be elided.  
 
 ### Long Preterite
 
@@ -149,12 +149,12 @@ Basic verbs ending in `-b` or `-w` show an irregular future form depending on it
 	
 ### Verbs in -ea
 
-A small and rare group of verbs which show `-ea` in aorist tenses comprises basic verbs with stems in `-ay` and a-verbs ending in `-e(ng)a`:
+A small and rare group of verbs which show `-ea` in aorist tenses comprises basic verbs with stems in `-ay` and a-verbs ending in `-e(g)a`:
 
 |		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
 |	---	|	---	|	---	|	---	|	---	|
 |	basic	|	ray-	|	ray-ë > rea	|	ray-ne > raine	|	ray-uva	|
-|	vocalic a	|	te(ng)a-	|	te-*a*-ø	|	te(ng)-ne > tenge	|	te-uva	|
+|	vocalic a	|	te(g)a-	|	te-*a*-ø	|	te(g)-ne > tenge	|	te-uva	|
 
 !!! note
 	Since basic verbs in `-y` became spurious, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
@@ -174,4 +174,6 @@ Verbs with addition of `-s` were **spurious** (see above): they had formative (a
 |	---	|	---	|	---	|	---	|	---	|
 |	formative (a)	|	tenca-s-	|	tenca-s-y-*a*-ø	|	tenca-s-ø-ne	|	tenca-s-y-uva	|
 |	formative (b)	|	tenca-t-	|	tenca-t-*a*-ø	|	tenca-t-ne	|	tenca-t-uva	|
-|	derivative	|	tenca-ta-	|	tenca-t-*a*-ø	|	tenca-t-*a*-ne	|	tenca-t-*a*-uva	|
+|	derivative	|	tenca-ta-	|	tenca-t-*a*-ø	|	tenca-t-*á*-ne	|	tenca-t-*a*-uva	|
+
+For the rhythmic lengthening `tencatáne`, &rarr; @@.

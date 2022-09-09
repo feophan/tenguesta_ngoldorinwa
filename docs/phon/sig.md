@@ -327,34 +327,34 @@ For their own writings Noldor developped a fully alphabetical system, where each
 	</tr>
 	<tr>
 		<th>short</th>
-		<td><span class="tengwar">a</span></td>
+		<td><span class="tengwar">F</span></td>
 		<td><span class="tengwar">j</span></td>
 		<td><span class="tengwar">h</span></td>
-		<td><span class="tengwar">F</span></td>
+		<td><span class="tengwar">a</span></td>
 		<td><span class="tengwar">'</span></td>
 	</tr>
 	<tr>
 		<th>long</th>
-		<td><span class="tengwar">ae</span></td>
+		<td><span class="tengwar">Fe</span></td>
 		<td><span class="tengwar">je</span></td>
 		<td><span class="tengwar">he</span></td>
-		<td><span class="tengwar">Fe</span></td>
+		<td><span class="tengwar">ae</span></td>
 		<td><span class="tengwar">'e</span></td>
 	</tr>
 	<tr>
 		<th>diphthong</th>
-		<td><span class="tengwar">aI</span>, <span class="tengwar">aW</span></td>
+		<td><span class="tengwar">FI</span>, <span class="tengwar">FW</span></td>
 		<td><span class="tengwar">jW</span></td>
 		<td><span class="tengwar">hW</span></td>
-		<td><span class="tengwar">FI</span></td>
+		<td><span class="tengwar">aI</span></td>
 		<td><span class="tengwar">'I</span></td>	
 	</tr>
 	<tr>
 		<th>nasal</th>
-		<td><span class="tengwar">a|</span></td>
+		<td><span class="tengwar">F|</span></td>
 		<td><span class="tengwar">j|</span></td>
 		<td><span class="tengwar">h|</span></td>
-		<td><span class="tengwar">F|</span></td>
+		<td><span class="tengwar">a|</span></td>
 		<td><span class="tengwar">'|</span></td>
 	</tr>
 </table>
@@ -503,7 +503,7 @@ Conceptually there are three different approaches to Quenya transcription:
 </table>
 
 !!! notes
-	+ Most text don't distinguish <s\> and <þ>, <n\> and <ñ>.
+	+ Most texts don't distinguish <s\> and <þ>, <n\> and <ñ>.
 	+ <span class="tengwar">F</span> has no Latin equivalent, but following *yá-tehta* is transcribed as <y\>: <span class="tengwar">FY</span> <y\>; <span class="tengwar">tY</span> <ty\>; <span class="tengwar">lY</span> <ly\>; <span class="tengwar">nY</span> <ny\> etc.
 	+ Nasal vowels are not commonly distinguished from long vowels. Sometimes appearing <ą́>, <ę́>, etc. are ambiguous.
 	

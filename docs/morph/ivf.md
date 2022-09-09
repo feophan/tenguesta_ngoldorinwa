@@ -110,7 +110,7 @@ Every verb form also has an **ending**, which provides the information required 
 {: .ref #12}
 
 !!! note
-	Most often such an ending is referred to as a **suffix**, but here this term is reserved for a derivative block of a new lexeme. By this defnition, the derivational morphology of verbal adjectives, participles and gerunds like `-itë` is a *suffix*, but preterite `-ne` is a *primary ending*. However, for simplicity (particularly due to cases like future participle, where derivational suffix follows its primary ending), they are all discussed under the title of verbal eindings.
+	Most often such an ending is referred to as a **suffix**, but here this term is reserved for a derivative block of a new lexeme. By this definition, the derivational morphology of verbal adjectives, participles and gerunds like `-itë` is a *suffix*, but preterite `-ne` is a *primary ending*. However, for simplicity (particularly due to cases like future participle, where derivational suffix follows its primary ending), they are all discussed under the title of verbal endings.
 	
 Some verbal forms can express additional information in their **secondary ending**:
 {: .ref #12}
@@ -147,10 +147,10 @@ Quenya verbal stems split into seven major groups or **conjugations**:
 
 1. **basic verbs**: most numerous group of bare primitive <span style="font-variant:small-caps;">&Sqrt;tal</span> shape: `cen-` (<span style="font-variant:small-caps;">&Sqrt;ken</span>) *see*, `tul-` (<span style="font-variant:small-caps;">&Sqrt;tul</span>) *come*, `mat-` (<span style="font-variant:small-caps;">&Sqrt;mat</span>) *eat*;
 2. **long verbs**: triconsonantal verbs of <span style="font-variant:small-caps;">&Sqrt;talat</span> shape: `talat-` (<span style="font-variant:small-caps;">&Sqrt;talat</span>) *fall*, `carap-` (<span style="font-variant:small-caps;">&Sqrt;karap</span>) *speak*, `sulup-` (<span style="font-variant:small-caps;">&Sqrt;sulup</span>) *drink*;
-3. **vocalic-progressive** or **a-verbs**: verbs with an inherently continuative sense of <span style="font-variant:small-caps;">&Sqrt;tal-ā</span> shape: `gala-` (<span style="font-variant:small-caps;">&Sqrt;gal-ā</span>) *grow*, `fara-` (<span style="font-variant:small-caps;">&Sqrt;spar-ā</span>) *hunt*, `hora-` (<span style="font-variant:small-caps;">&Sqrt;skor-ā</span>) *wait*;
+3. **vocalic-progressive** or **a-verbs**: verbs with an inherently continuative sense of <span style="font-variant:small-caps;">&Sqrt;tal-ā</span> shape: `'ala-` (<span style="font-variant:small-caps;">&Sqrt;gal-ā</span>) *grow*, `fara-` (<span style="font-variant:small-caps;">&Sqrt;spar-ā</span>) *hunt*, `hora-` (<span style="font-variant:small-caps;">&Sqrt;skor-ā</span>) *wait*;
 4. **vocalic-inceptive** or **u-verbs**: verbs often with an inherently inchoactive sense of <span style="font-variant:small-caps;">&Sqrt;tal-ū</span> shape (with or without a consonantal element): `haru-` (<span style="font-variant:small-caps;">&Sqrt;khad-ū</span>) *sit down*, `liru-` (<span style="font-variant:small-caps;">&Sqrt;lir-ū</span>) *sing*, `cainu-` (<span style="font-variant:small-caps;">&Sqrt;kaj-nū</span>) *lie down*;
 5. **formative verbs**: verbs that add an additional consonant to the stem, usually of inchoactive or anticausative meaning, of <span style="font-variant:small-caps;">&Sqrt;tal-t</span>, <span style="font-variant:small-caps;">&Sqrt;tal-j</span> or <span style="font-variant:small-caps;">&Sqrt;tal-s</span> shape: `cait-` (<span style="font-variant:small-caps;">&Sqrt;kaj-t</span>) *lie*, `siry-` (<span style="font-variant:small-caps;">&Sqrt;sir-j</span>) *flow*, `cals-` (<span style="font-variant:small-caps;">&Sqrt;kal-s</span>) *shine*;
-6. **causative verbs**: verbs with an inherently causative meaning that add an additional syllable to the stem of <span style="font-variant:small-caps;">&Sqrt;tal-ta</span> or <span style="font-variant:small-caps;">&Sqrt;tal-ja</span> shape: `caita-` (<span style="font-variant:small-caps;">&Sqrt;caj-ta</span>) *lay*, `tulta-` (<span style="font-variant:small-caps;">&Sqrt;tul-ta</span>) *send*, `tulya-` (<span style="font-variant:small-caps;">&Sqrt;tul-ja</span>) *lead*;
+6. **causative verbs**: verbs with an inherently causative meaning that add an additional syllable to the stem of <span style="font-variant:small-caps;">&Sqrt;tal-ta</span> or <span style="font-variant:small-caps;">&Sqrt;tal-ja</span> shape: `caita-` (<span style="font-variant:small-caps;">&Sqrt;kaj-ta</span>) *lay*, `tulta-` (<span style="font-variant:small-caps;">&Sqrt;tul-ta</span>) *send*, `tulya-` (<span style="font-variant:small-caps;">&Sqrt;tul-ja</span>) *lead*;
 7. **derivative verbs**: verbs formed from nouns or adjectives, with or without addition of derivative elements: `tengua-` *read* (from `tengua` *letter*), `remba-` *trap* (from `rembe` *net*), `telconta-` *stride* (from `telco` *leg*).
 
 Together conjugations 2-7 are known as **secondary verbs**.
@@ -168,7 +168,7 @@ Quenya verb forms are either thematic or athematic. Thematic forms include a the
 |	IV	|	A	|	A	|	A	|	A	|	A	|
 |	V	|	T	|	A	|	A	|	A	|	A	|
 |	VI	|	T	|	T	|	T	|	T	|	T	|
-|	VI	|	T	|	T	|	A	|	T	|	T	|
+|	VII	|	T	|	T	|	A	|	T	|	T	|
 	
 Some examples with a III conjugation verb with a stem `far-` *hunt*:
 

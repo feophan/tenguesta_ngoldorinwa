@@ -53,7 +53,7 @@ if word_next != word_prev: print("rule 007 applied")
 #008 [hs] became [ss]
 word_prev = word_next
 word_next = re.sub('hs','ss',word_prev)
-if word_next != word_prev: print("rule 007 applied")
+if word_next != word_prev: print("rule 008 applied")
 
 
 

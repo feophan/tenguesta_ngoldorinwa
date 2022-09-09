@@ -21,7 +21,7 @@ Accentuation is determined strongly by the length of the penult syllable of a wo
 
 For vowel quantity (long/short), &rarr; @@.
 
-!!! important "Rule"
+!!! important "Penultimate Law"
 	**Rule 1**: The regular main stress falls on a **second mora** from the end, not counting the last syllable:
 	
 If the antepenult is long, it takes two morae:
@@ -95,7 +95,7 @@ After historic stress shift (@@), the Quenya accent got fixed. As a result, in s
 + *'máriˌe --- 'mári'éno* (not \**ˌmá'rieˌno*)
 + *'tuluˌva --- 'tulu'váse* (not \**tu'luvaˌse*)
 
-The only notabe exception to this is genitive of paroxytone words in partitive plural (@@). By *Exception 1*, the main accent shifts forward from *li*:
+The only notable exception to this is genitive of paroxytone words in partitive plural (@@). By *Exception 1*, the main accent shifts forward from *li*:
 
 + *'mali'norne --- 'mali'norneˌli --- 'malinor'néliˌon* or *'malinor'neliˌon* (not \**'maliˌnorne'líon*)
 
