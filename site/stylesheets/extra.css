@@ -26,6 +26,11 @@ ol > li.pm {
 	margin-bottom: 0px !important;
 }
 
+details ul {
+	margin-top: 12px !important;
+	margin-bottom: 0px !important;
+}
+
 .admonition ul > li > ul {
 	margin-bottom: 12px !important;
 }
@@ -60,6 +65,7 @@ h1 {
 
 .tengwar {
 	font-family: 'tengwar';
+	font-style: normal !important;
 	border-bottom: none !important;
 }
 
@@ -118,4 +124,8 @@ h1 {
 	
 .ncn {
 	color: blue !important;
+}
+
+.red{
+	color: red !important;
 }

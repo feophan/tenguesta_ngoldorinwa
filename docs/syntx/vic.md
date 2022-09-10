@@ -19,7 +19,7 @@ Some proper impersonal verbs do not have a subject, but do take other obligatory
 
 ### Verbs
 
-The following common quasi-impersonal verbs take an (accusative-and-) infinitive construction as their subject (&rarr;@@), and frequently also a complementin the dative:
+The following common quasi-impersonal verbs take an (accusative-and-) infinitive construction as their subject (&rarr;@@), and frequently also a complement in the dative:
 
 + `ecë nin care sa` [VT49/20] *I can do that*
 + `orë nin caritas` [VT41/13] *I feel an urge to do it*
@@ -61,7 +61,7 @@ Frequently what is translated into English with a passive voice is expressed in 
 + `masse akime aldar?` [PE22/125] *where are the trees (to be found)?*
 + `vahaia nóre ëa i a-esta Valinor` [PE22/124] *far away there is a land called Valinor*
 
-This construction is formed by simply omitting the subject of the active clause. The marker `a·` which signals that the subject was omitted (so not to confuse with the infinitive) is usualy optional.
+Impersonal passives are made by omitting the subject from the active sentence: the apersonal form of the verb is used with or without a marker `a` (used to avoid confusion with the infinitive use of apersonal form), which was usually optional in PQ but became more grammaticalized in TQ.
 
 When the impersonal passive[^fn2] is used as an object of infinitive, this `a·` is however obligatory: 
 

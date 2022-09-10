@@ -2,112 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/app/art/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/app/taa/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/aap/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/adv/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/art/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/ivf/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/nou/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/vfa/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/vfi/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/vfp/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/morph/vov/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/phon/acc/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://feophan.github.io/tenguesta_ngoldorinwa/phon/hid/</loc>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/phon/sig/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/phon/sou/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/agr/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/art/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/cas/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/cmp/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/pro/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/sen/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/taa/</loc>
-         <lastmod>2022-06-23</lastmod>
+         <lastmod>2022-09-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/tvv/</loc>
+         <lastmod>2022-09-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://feophan.github.io/tenguesta_ngoldorinwa/syntx/vic/</loc>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
