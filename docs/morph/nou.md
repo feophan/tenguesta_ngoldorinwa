@@ -447,6 +447,9 @@ The first group includes **monosyllabic** nouns that have a **stem ending in a v
 
 The second group includes nouns that **end in a consonant** in common case, but decline as **vocalic** nouns.
 
+!!! error
+	*nóre* declines as *tál* per PE17/106
+
 | 			| nór[^d62]  	| *land*    	|
 |---------	|----------	|-----------	|
 |         	| *sg*     	| *pl*      	|

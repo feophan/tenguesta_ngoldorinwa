@@ -1,12 +1,15 @@
 # The Signs
 
-The native writing systems for Quenya were devised by elves in Aman. The **script of Rúmil** went out of use before the classical period. On the other hand, the **script of Feanor** was brought by Noldor after the Exile with them to the Middle-Earth, and there it was applied to a variety of languages. 
+The native writing systems for Quenya were devised by elves in Aman. The **script of Rúmil** went out of use before the classical period. On the other hand, the **script of Feanor** was brought by Noldor after the Exile with them to the Middle-Earth, and there it was applied to a variety of languages.
+{: .ref #{{ch.p.sig}}}
 
 Other scripts include the runic script of **Angerthas Daeron** used by the elves in Eregion, and Latin, first used to transcribe elvish languages by the Anglo-Saxon traveler *Ælfwine*. With that, Latin now is the most common script to write in Quenya.
+{: .ref #{{ch.p.sig}}}
 
 ## Tengwar Script
 
 We will discuss three main systems of *tengwar* as used in Quenya:
+{: .ref #{{ch.p.sig}}}
 
 + as an **abugida**: each symbol is a consonant or a combination of consonants, followed by /a/;
 + as an **alphasyllabary**: each symbol is a consonant or a combination of consonants;
@@ -15,6 +18,7 @@ We will discuss three main systems of *tengwar* as used in Quenya:
 ### Letters and Signs of Tengwar
 
 The tengwar is commonly represented by a table, consisting of twenty-eight *regular* shapes divided into four *series* and seven *grades* and additional twelve *irregular* shapes:
+{: .ref #{{ch.p.sig}}}
 
 <table>
 	<tr>
@@ -104,12 +108,15 @@ The values of these letters vary depending on the language, the time period and 
 #### Tengwar as Abugida
 
 In the most common use each letter represents a consonant (or a cluster of them) followed by a sound /a/. Other vowels are marked as diacritics.
+{: .ref #{{ch.p.sig}}}
 
 ##### Consonants
 
 The four series denote the place of articulation: I dentals, II labials, III velars, IV labialized velars. The grades in Parmaquesta period denoted the manner of articulation: 1 voiceless stops, 2 nasalized voiced stops, 3 voiceless fricatives, 4 nasalized voiceless stops, 5 nasals, 6 approximants. In Tarquesta some symbols changed their values or went out of use, so this system doesn't strictly hold true.
+{: .ref #{{ch.p.sig}}}
 
 The letters in Goldorin then read:
+{: .ref #{{ch.p.sig}}}
 
 <table>
 	<tr>
@@ -200,6 +207,7 @@ The letters in Goldorin then read:
 ##### Vowels
 
 The vowels other than /a/ are marked by a diacritic sign over the letter:
+{: .ref #{{ch.p.sig}}}
 
 <table>
 	<tr>
@@ -288,10 +296,12 @@ The vowels other than /a/ are marked by a diacritic sign over the letter:
 ##### Recommendations for Print
 
 There is a great variation in orthography, as tengwar was never standartized. Here are a few guidelines for its use in a print medium:
+{: .ref #{{ch.p.sig}}}
 
 Use of letters with the same values:
+{: .ref #{{ch.p.sig}}}
 
-1. <span class="tengwar">\`</span> is still used to denote old voiceless liquids which disappeared in Goldorin. <span class="tengwar">x</span> is used initially and <span class="tengwar">X</span> medially: <span class="tengwar">\`ry</span> /raj/, <span class="tengwar">xn>o</span> /hanːo/, <span class="tengwar">hX</span> /aha/.
+1. <span class="tengwar">\`</span> is still used to denote old voiceless liquids which disappeared in Noldorin. <span class="tengwar">x</span> is used initially and <span class="tengwar">X</span> medially: <span class="tengwar">\`ry</span> /raj/, <span class="tengwar">xn>o</span> /hanːo/, <span class="tengwar">hX</span> /aha/.
 1. <span class="tengwar">a</span> is used before a consonant, and <span class="tengwar">r</span> before a vowel: <span class="tengwar">rjm</span> /raːma/, <span class="tengwar">keat</span> /kerta/, <span class="tengwar">aoto</span> /orto/.
 1. <span class="tengwar">y</span> is used before a consonant, and <span class="tengwar">FY</span> before a vowel: <span class="tengwar">FYvn></span> /javanːa/, <span class="tengwar">yunen/</span> /ujnen/, <span class="tengwar">yFY</span> /ajːa/.
 1. <span class="tengwar">'</span> is used before a consonant, and <span class="tengwar">w</span> after: <span class="tengwar">'re</span> /awre/, <span class="tengwar">vil/w</span> /vilwa/, <span class="tengwar">n'we</span> /nawːe/.
@@ -303,6 +313,7 @@ Use of letters with the same values:
 	Eventually the etymological spelling was abandoned, and <span class="tengwar">\</span>, <span class="tengwar">X</span> became used for /st/, /χt/, while the long-stemmed <span class="tengwar">T</span>, <span class="tengwar">P</span>, <span class="tengwar">K</span> were discarded.
 
 Use of marks:
+{: .ref #{{ch.p.sig}}}
 
 1. The swashes (or *rince*) for the final /n/, /s/, and /r/ are not used.
 2. The *anda-tehta* and *yá-tehta* should be placed below the letter.
@@ -311,10 +322,12 @@ Use of marks:
 #### Tengwar as Alphasyllabary
 
 The only difference with the previous mode is that /a/ is not assumed after every letter. Instead, a special diacritic <span class="tengwar">tA</span> is employed, while <span class="tengwar">t/</span> has no use. This mode was used in ornamental and decorated writing.
+{: .ref #{{ch.p.sig}}}
 
 #### Tengwar as Alphabet
 
 For their own writings Noldor developped a fully alphabetical system, where each vowel had their own symbol:
+{: .ref #{{ch.p.sig}}}
 
 <table>
 	<tr>
@@ -360,6 +373,7 @@ For their own writings Noldor developped a fully alphabetical system, where each
 </table>
 
 Most notes from (@@) apply, except:
+{: .ref #{{ch.p.sig}}}
 
 + <span class="tengwar">y</span> is used for /j/ consistently;
 + *wá-tehta* is permitted;
@@ -368,6 +382,7 @@ Most notes from (@@) apply, except:
 ## Latin Script
 
 Conceptually there are three different approaches to Quenya transcription:
+{: .ref #{{ch.p.sig}}}
 
 + Ælfwine's transcription, closely following Latin orthography;
 + phonetic transcription;
@@ -513,6 +528,7 @@ Conceptually there are three different approaches to Quenya transcription:
 ### Traditional Transcription
 
 This method is mostly identical with phonetical transcription, but borrows a few conventions from classical spelling (TBD):
+{: .ref #{{ch.p.sig}}}
 
 + <k\> is spelled <c\>;
 + <kw\> is spelled <qu\>;
@@ -524,6 +540,7 @@ This method is mostly identical with phonetical transcription, but borrows a few
 #### Modified Traditional Transcription
 
 While the phonetical transcription is well-suited to bridge the gab between tengwar spelling and use of Latin characters, the aesthetics of Latin spelling took an important place in devising the spelling for Quenya. Here we list some modifications to LotR spelling which ensure the Latin feel, but also provide a direct correspondence to the tengwar spelling:
+{: .ref #{{ch.p.sig}}}
 
 <table>
 	<tr>

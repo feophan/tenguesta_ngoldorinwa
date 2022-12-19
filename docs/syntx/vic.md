@@ -28,7 +28,7 @@ The following common quasi-impersonal verbs take an (accusative-and-) infinitive
 
 The **singular** of many **adjectives** is used with a third-person singular form of `ná` *be* in quasi-impersonal constructions, taking an (accusative-and-)infinitive construction or `i`-clause. For example:
 
-+ `ninya ná care·s` *I need to do this*[^fn1]
++ `ninya ná carita·s` *I need to do this*[^fn1]
 + `alasaila ná lá carë tai mo nave mára` *it is unwise not to do what one judges good*
 
 Some **nouns** are similarly used in quasi-impersonal constructions. For example:

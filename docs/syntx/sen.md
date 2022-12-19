@@ -1,19 +1,25 @@
+{% set chap = 28 %}
+{% set chap_agr = chap + 1 %}
+{% set chap_qdwe = chap + 12 %}
+{% set chap_ics = chap + 13 %}
+{% set chap_case = chap + 4 %}
+
 # Introduction to Simple Sentences
 
-Below, the basic syntactic principles and concepts that will be relevant in chapters [27](agr.md) to 38 are discussed. Most of the examples are taken from the Late Quenya corpus, but if the example was adapted from earlier materials, the reference has an additional remark.
-{: .ref #26}
+Below, the basic syntactic principles and concepts that will be relevant in chapters [{{chap_agr}}](agr.md) to {{chap_qdwe}} are discussed. Most of the examples are taken from the Late Quenya corpus, but if the example was adapted from earlier materials, the reference has an additional remark.
+{: .ref #{{chap}}}
 
-Chapters 40 to 52 deal with the various types of subordinate constructions found in complex sentences (subordinate clauses, participles, and infinitives): these will be separately introduced in chapter 39.
-{: .ref #26}
+Chapters {{chap_ics + 1}} to {{chap_ics + 13}} deal with the various types of subordinate constructions found in complex sentences (subordinate clauses, participles, and infinitives): these will be separately introduced in chapter {{chap_ics}}.
+{: .ref #{{chap}}}
 
 ## The Sentence Core
 
 ### Predicate, Subject, Object, Complement ### {: #psoc }
 
-Most sentences (for the exceptions, &rarr;[26.12](#olv)) contain at least a **predicate** (nearly always a finite verb) and one or more **obligatory constituents** that belong to that predicate; together these make up the **sentence core**.
-{: .ref #26}
+Most sentences (for the exceptions, &rarr;[{{chap}}.12](#olv)) contain at least a **predicate** (nearly always a finite verb) and one or more **obligatory constituents** that belong to that predicate; together these make up the **sentence core**.
+{: .ref #{{chap}}}
  
-+ Nearly all verbs take at least one obligatory constituent, a **subject**. Subjects are marked by the *common case* (&rarr;@@), and predicates agree with it in number (&rarr;[27.1](agr.md#sfv)). Some verbs take only a subject:
++ Nearly all verbs take at least one obligatory constituent, a **subject**. Subjects are marked by the *common case* (&rarr;[{{chap_case}}.2](cas.md#common)), and predicates agree with it in number (&rarr;[{{chap_agr}}.1](agr.md#sfv)). Some verbs take only a subject:
 
 	+ `tintilar`<span style="font-variant:small-caps;"><sub>predicate</sub></span> `i·eleni`<span style="font-variant:small-caps;"><sub>subject</sub></span> [RGEO/58]. *The stars twinkle*.
 	{: .exp}
@@ -35,7 +41,7 @@ Most sentences (for the exceptions, &rarr;[26.12](#olv)) contain at least a **pr
 	+ `ortírielyanna`<span style="font-variant:small-caps;"><sub>complement</sub></span> `rucimme`<span style="font-variant:small-caps;"><sub>predicate</sub></span> [VT44/5]. *We fly to thy patronage*.
 	{: .exp}
 
-	+ `i·jarma`<span style="font-variant:small-caps;"><sub>subject</sub></span> `tentane`<span style="font-variant:small-caps;"><sub>predicate</sub></span> `Melcorello`<span style="font-variant:small-caps;"><sub>object</sub></span> [VT49/7]. *The left hand pointed away from Melkor*.
+	+ `i·hyarma`<span style="font-variant:small-caps;"><sub>subject</sub></span> `tentane`<span style="font-variant:small-caps;"><sub>predicate</sub></span> `Melcorello`<span style="font-variant:small-caps;"><sub>object</sub></span> [VT49/7]. *The left hand pointed away from Melkor*.
 	{: .exp}	
 
 + Some verbs take more than two obligatory constituents: a subject, an object, and one (or more) further complements. Often the third obligatory constituent is the **indirect object**, which is marked by the dative case (&rarr;@@); other verbs take a second complement in the common case:
@@ -47,7 +53,7 @@ Most sentences (for the exceptions, &rarr;[26.12](#olv)) contain at least a **pr
 	{: .exp}
 
 In the examples above, with one exception, the obligatory constituents are expressed by a noun phrase or a pronoun (these are treated more fully below, &rarr;[26.15-20](#nps)).
-{: .ref #26}
+{: .ref #{{chap}}}
 
 Such obligatory constituents may also take other forms, however. The most important of these are:
 
@@ -89,12 +95,12 @@ When a constituent is expressed in the form of a subordinate clause or a constru
 	It is sometimes difficult to assess whether a constituent should be considered 'obligatory' in the sense given above (i.e. whether they are required with a predicate to form a grammatically correct core sentence). This is true particularly of adverbial complements such as `tanna` in [(11)](#exp.11), and with verbs which may have different valencies. In reality, syntactic 'obligatoriness' is better seen as a scale, with constituents being *more* or *less* obligatory depending on the verb and construction used.
 
 There are a few verbs which do not have a subject ('impersonal' verbs, &rarr;@@), and very few of these take no other obligatory constituents (i.e. have a valency of zero). The sentence core then consists of nothing but the verb: e.g. `úla` *it is raining*.
-{: .ref #26}
+{: .ref #{{chap}}}
 
 ### 'Omission' of the Subject and Other Constituents
 
 That a verb takes a certain number of obligatory constituents does not mean that all those constituents are necessarily expressed every single time that verb is used. A constituent may be omitted if it is sufficiently **clear from the context** who or what is meant:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `roccor i·Erulingaron máre nár? Nár` [PE22/166]. *The horses of Rohirrim are good, are they not? They are*. The second sentence has no explicit subject — 'horses' has been the subject of the previous sentence and need not be mentioned explicitly again. Note that these constituents have to be supplied in translation ('they').
 {: .exp}
@@ -109,7 +115,7 @@ That a verb takes a certain number of obligatory constituents does not mean that
 {: .exp}
 
 The lack of an explicit, separately expressed **subject** is particularly frequent in Quenya, and constitutes a regular feature of the language. Information about the subject of a verb is then *usually* expressed by the **personal ending** of that verb:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + <code><b>merin</b> sa <b>h·aryalye</b> galasse nó <b>vanyalye</b> Ambarello</code> [MS/1]. *I hope that you have happiness before you pass from the world*. The subjects ('I', 'you') are expressed by the first- and second-person singular endings.
 {: .exp}
@@ -127,7 +133,7 @@ In the first and second person, explicitly expressed subjects (in the form of th
 ### Linking Verb, Predicative Complement ### {: #lvpc }
 
 A **linking verb** (or **copulative**/**copular verb**, **copula**) 'links' a subject to a nominal constituent, the so-called **predicative complement**, which identifies the subject or assigns a property to it. The predicative complement is usually an **adjective** which agrees in case and number with the subject, or a **noun** which agrees with the subject in case (&rarr;[27.7](agr.md#hmr), @@).
-{: .ref #26}
+{: .ref #{{chap}}}
 
 Examples of verbs that can function as linking verbs are `na` *be*, `olë` *become*, `larë` *remain, stay*, `nemë` *seem, appear to be, prove to be*, etc.
 
@@ -141,19 +147,19 @@ Examples of verbs that can function as linking verbs are `na` *be*, `olë` *beco
 	Predicative nouns or adjectives are sometimes called 'predicate nouns/adjectives'. Predicative complements agreeing with a subject are also sometimes called 'subject(ive) complements'.
 	
 Linking verbs also occur with an adverbial expression of place or circumstance as their complement: e.g. `ná` *be (somewhere), find oneself (somewhere)*. But normally special verbs of position are used instead: `tulë` *get somewhere*, `harë` *stay somewhere*. In many grammatical treatments, such complements are also seen as predicative complements:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `ní`<span style="font-variant:small-caps;"><sub>subject</sub></span> [`nauva`<span style="font-variant:small-caps;"><sub>linking verb</sub></span> `tanome`<span style="font-variant:small-caps;"><sub>complement</sub></span>]<span style="font-variant:small-caps;"><sub>predicate</sub></span> [VT49/19]. *I will be there*.
 {: .exp}
 
 The verb `ná`, unlike its English counterpart, doesn’t occur in the meaning *exist*. An expression like `tasse ná` *'there is'* can have only contrastive meaning 'but not here'. In the '**existential**' use, the verb `ea` with only a subject is used instead. The verb `tule` also has an existential use, and then means *happen*:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `vahaia` `nóre`<span style="font-variant:small-caps;"><sub>subject</sub></span> `ea`<span style="font-variant:small-caps;"><sub>predicate</sub></span> `i ga·esta Valinor` [MQ: PE22/124]. *Far a way there is a land called Valinor*.
 {: .exp}
 
 Some other verbs link an object to a predicative complement that agrees with that object (both are in the common). Examples of such verbs are *consider X (to be) Y, make X Y, appoint X as Y* (for more details, &rarr;@@):
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `alasaila ná lá care` `tai`<span style="font-variant:small-caps;"><sub>object</sub></span> `mo`<span style="font-variant:small-caps;"><sub>subject</sub></span> [`nave`<span style="font-variant:small-caps;"><sub>verb</sub></span> `mára`<span style="font-variant:small-caps;"><sub>predicative adjective</sub></span>]<span style="font-variant:small-caps;"><sub>predicate</sub></span> [PE22/154]. *It is unwise not to do what one judges good*.
 {: .exp}
@@ -164,7 +170,7 @@ Some other verbs link an object to a predicative complement that agrees with tha
 ### Omission of a Linking Verb: Nominal Sentences ### {: #olv}
 
 Frequently, a linking verb such as `na` is lacking in a sentence, whose core then contains only nominal elements. This occurs especially in the following cases:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + when predicative adjective follows the subject:
 	
@@ -229,7 +235,7 @@ Only the present indicative of `na` *be* is regularly omitted as linking verb in
 ### Adverbial Modifiers and Other Optional Constituents
 
 Many core sentences are elaborated by one or more **optional** (**non-obligatory**) constituents, which can be left out without making the sentence ungrammatical, and which supplement the sentence core in various ways. Most often such constituents are **adverbial modifiers**.
-{: .ref #26}
+{: .ref #{{chap}}}
 
 Such optional constituents can be expressed by:
 
@@ -264,7 +270,7 @@ And in the case of complex sentences, by:
 	{: .exp}
 	
 Adverbial modifiers operate on different 'levels' of the sentence:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + The adverbial modifiers in examples ([39](#exp.39))-([44](#exp.44)) express such semantic categories as the place where, the time when, the circumstance(s) under which, the manner in which, the reasons because of which, etc., the action expressed by a predicate takes place. Adverbial modifiers functioning at this level (i.e. those which have scope over (the verb in) the core sentence) are often called **adjuncts**.
 
@@ -295,7 +301,7 @@ attributive modifiers, other adverbial modifiers, etc. (such adverbial modifiers
 ### Elements of the Noun Phrase
 
 In most of the examples above, constituents take the form of a noun phrase. A **noun phrase** consists of (at least) a **head**, and (possibly) various kinds of **modifiers** which are added to the head.
-{: .ref #26}
+{: .ref #{{chap}}}
 
 For example, in each of the examples below, a noun phrase serves as object to a predicate:
 
@@ -316,7 +322,7 @@ Sometimes noun phrase can become quite long and nested:
 ### Types of Modifier ### {: #tom }
 
 The following types of modifier agree with the head in number (for the agreement in case, &rarr;[27.7](agr.md#hmr)):
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + **numerals**: ordinal numerals such as `minya` *first*, `attea` *second* (for details, &rarr;@@); among the ordinals may also be reckoned adjectives such as `jana` *other* and `ecsa` *other*, `enta` *another*, and several others;
 
@@ -358,7 +364,7 @@ The following types of modifier agree with the head in number (for the agreement
 	Most of these pronouns and adjectives/participles may also have a predicative relationship with a noun, either as predicative complement (&rarr;[26.8](#lvpc) above) or as predicative modifier (&rarr;[26.22](#pms) below).
 	
 The following types of modifier do not agree with the head:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + the **definite article** (for a full treatment, &rarr;@@);
 + numerals: **cardinal numbers** such as `min` *one*, `atta` *two* (for details, &rarr;@@);
@@ -393,7 +399,7 @@ The following types of modifier do not agree with the head:
 ### Types of Head
 
 The head of a noun phrase is typically a noun, such as `yulma`; proper names also belong to this class:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `a aina María, arca atarme` [VT44/12]. *Holy Mary, pray for us*.
 {: .exp}
@@ -402,7 +408,7 @@ The head of a noun phrase is typically a noun, such as `yulma`; proper names als
 {: .exp}
 
 Most of the kinds of modifiers listed above (&rarr;[26.16-17](#tom)) may also serve as head, however, particularly when they are modified by the article (&rarr;@@):
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + **adjectives** and **participles**; sometimes with the article, sometimes with other modifiers as well:
 
@@ -433,7 +439,7 @@ Most of the kinds of modifiers listed above (&rarr;[26.16-17](#tom)) may also se
 #### Pronominal and Adnominal Use of Pronouns, Quantifiers and Cardinal Numerals
 
 In addition to the types of head treated above, various **pronouns** and **quantifiers** and (occasionally) **cardinal numerals** can serve as head. For these forms, a distinction is made between:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + the **pronominal use**, when the pronoun/quantifier serves as head;
 + the **adnominal use**, when the pronoun/quantifier serves as modifier.
@@ -453,7 +459,7 @@ In the pronominal use, such forms typically cannot be modified by the article or
 ### Apposition ### {: #app }
 
 Apposition is the placement of two words or word groups parallel to each other without any coordinating particle (`ta` or `ar`, @@), with one, the 'appositive' defining or modifying the other. In this way, two noun phrases (each with their own head), may together serve as a single constituent:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `aistana` [`i` `yáve`<span style="font-variant:small-caps;"><sub>head</sub></span> `mónalyo`] [`Yésus`]<span style="font-variant:small-caps;"><sub>head</sub></span> [VT43/31]. *Blessed is the fruit of thy womb Jesus*. The combined phrase `i yáve mónalyo Yésus` is a subject.
 {: .exp}
@@ -466,7 +472,7 @@ For agreement in apposition, &rarr;[27.15-16](agr.md#app).
 ## Predicative Modifiers ## {: #pms }
 
 Some constituents simultaneously serve as adverbial modifier and to modify the head of a noun phrase. Such constituents are called **predicative modifiers**: they occur in the form of adjectives and especially participles, which agree with their noun in case. For example:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + `ampanaina i·már ga·tatallane·s` [MQ: PE22/108]. *While it was being built people marveled at the house*. The participle `ampanaina` agrees with the subject `i·már`: it describes the house. At the same time, it serves as an adverbial modifier, describing the circumstances/time of occurence.
 {: .exp}
@@ -485,7 +491,7 @@ Some constituents simultaneously serve as adverbial modifier and to modify the h
 ### Parentheses
 
 Sentences may be interrupted by other sentences &mdash; **parentheses**. These are often relatively short, and frequently contain some form of comment, as in:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + <code>lá caritas, <b>navin</b>, alasaila ná</code> [PE22/154]. *Not doing this would be, I think, unwise*.
 {: .exp}
@@ -496,7 +502,7 @@ Sentences may be interrupted by other sentences &mdash; **parentheses**. These a
 ### Elements 'Outside' the Syntax of a Sentence
 
 Some elements stand 'outside' the sentence, i.e. they are not part of the syntactic structure of predicates, complements and modifiers. The most important of these are:
-{: .ref #26}
+{: .ref #{{chap}}}
 
 + **forms of address** (&rarr;@@):
 

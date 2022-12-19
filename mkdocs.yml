@@ -4,32 +4,33 @@ site_url: https://feophan.github.io/tenguesta_ngoldorinwa/
 nav:
     - 'Phonology':
         - '1. The Sounds': phon/sou.md
-        - '1a. Accentuation': phon/acc.md
-        - '1b. Historical Development': phon/hid.md
-        - '2. The Signs': phon/sig.md
+        - '2. Accentuation': phon/acc.md
+        - '3. Historical Development': phon/hid.md
+        - '4. The Signs': phon/sig.md
     - 'Morphology':
-        - '3. The Article': morph/art.md
-        - '4. Nouns': morph/nou.md
-        - '5. Adjectives and Participles': morph/aap.md
-        - '6. Adverbs': morph/adv.md
-        - '12. Introduction to Verb Forms': morph/ivf.md
-        - '13. The Aorist': morph/vfa.md
-        - '14. The Present': morph/vfi.md
-        - '15. The Perfect': morph/vfp.md
-        - '16. Principal Parts': morph/vov.md
+        - '5. The Article': morph/art.md
+        - '6. Nouns': morph/nou.md
+        - '7. Adjectives and Participles': morph/aap.md
+        - '8. Adverbs': morph/adv.md
+        - '14. Introduction to Verb Forms': morph/ivf.md
+        - '15. The Aorist': morph/vfa.md
+        - '16. The Present': morph/vfi.md
+        - '17. The Perfect': morph/vfp.md
+        - '18. Principal Parts': morph/vov.md
     - 'Syntax':
-        - '26. Simple Sentences': syntx/sen.md
-        - '27. Agreement': syntx/agr.md
-        - '28. The Article': syntx/art.md
-        - '29. Pronouns and Quantifiers': syntx/pro.md
-        - '30. Cases': syntx/cas.md
-        - '32. Comparison': syntx/cmp.md
-        - '33. The Verb: Tense and Aspect': syntx/taa.md
-        - '35. The Verb: Voice': syntx/tvv.md
-        - '36. Impersonal Constructions': syntx/vic.md
+        - '28. Simple Sentences': syntx/sen.md
+        - '29. Agreement': syntx/agr.md
+        - '30. The Article': syntx/art.md
+        - '31. Pronouns and Quantifiers': syntx/pro.md
+        - '32. Cases': syntx/cas.md
+        - '34. Comparison': syntx/cmp.md
+        - '35. The Verb: Tense and Aspect': syntx/taa.md
+        - '37. The Verb: Voice': syntx/tvv.md
+        - '38. Impersonal Constructions': syntx/vic.md
     - 'Appendix':
         - 'Definite Article': app/art.md
         - 'Aspect': app/taa.md
+        - 'Index': app/ind.md
             
 theme:
     name: readthedocs
@@ -43,6 +44,11 @@ markdown_extensions:
   - mdx_emdash
   - attr_list
   - pymdownx.details
+  - pymdownx.snippets
+
+plugins:
+    - search
+    - macros
 
 extra_javascript:
   - js/extra.js
@@ -50,3 +56,31 @@ extra_javascript:
 extra_css:
   - stylesheets/extra.css
   - https://use.fontawesome.com/releases/v5.12.0/css/all.css
+
+extra:
+    ch:
+        p:
+            sou: 1
+            acc: 2
+            hid: 3
+            sig: 4
+        m:
+            art: 5
+            nou: 6
+            aap: 7
+            adv: 8
+            ivg: 14
+            vfa: 15
+            vfi: 16
+            vfp: 17
+            vov: 18
+        s:
+            sen: 28
+            agr: 29
+            art: 30
+            pro: 31
+            cas: 32
+            cmp: 34
+            taa: 35
+            tvv: 37
+            vic: 38

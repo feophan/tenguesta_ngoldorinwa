@@ -120,7 +120,19 @@ h1 {
 .admonition.error>.admonition-title:before {
 	font-family: 'Font Awesome\ 5 Free';
 	content: "\f017";
-	font-weight: 900;}
+	font-weight: 900;}	
+.admonition.quote>.admonition-title:before {
+	font-family: 'Font Awesome\ 5 Free';
+	content: "\f10d";
+	font-weight: 600;}
+	
+.admonition.quote {
+    background-color: hsla(0,0%,62%,.1);
+}
+
+.admonition.quote>.admonition-title {
+    background-color: #9e9e9e !important;
+}
 	
 .ncn {
 	color: blue !important;

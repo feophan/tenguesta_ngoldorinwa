@@ -1,10 +1,16 @@
 # Historical Developments
 
-The remaining sections of this chapter treat certain historical developments in Quenya before the classical period. Particularly these sections are designed to elucidate many of the 'irregularities' of Quenya morphology. Contrast, for instance, the following pairs of nominatives and genitives of some third-declension nouns:
+The remaining sections of this chapter treat certain historical developments in Quenya before the classical period. Particularly these sections are designed to elucidate many of the 'irregularities' of Quenya morphology. Contrast, for instance, the following pairs of nominatives and genitives of some fifth-declension nouns:
+{: .ref #{{ch.p.hid}}}
 
-EXAMPLES
+|	nom. sg.	|	gen. sg.	|
+|	----		|	----		|
+|	`aran` *king*	|	`arano`	|
+|	`vilwarin` *butterfly*		|	`vilwarindo`	|
+|	`oron` *mountain*			|	`oronto`		|
 
 Such changes are found to have occurred consistently in certain environments at certain periods, and are therefore sometimes referred to as **sound change 'laws'**: for instance, the disappearance of [g] between vowels is such a law of Quenya historical grammar. Most of the apparent irregularities of Quenya morphology can be explained with reference to such laws, and it is therefore useful to have some familiarity with them. Reference to the sections below will be made throughout the morphology.
+{: .ref #{{ch.p.hid}}}
 
 ## Consonants
 

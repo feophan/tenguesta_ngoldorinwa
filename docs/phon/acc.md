@@ -1,17 +1,20 @@
 # Accentuation
 
 Quenya accent is pitch-dynamic: the stressed syllable is pronounced louder and with higher pitch. It is limited (can only occur in specific positions) and is not lexical: the accent doesn't differentiate words like it does in English or Spanish.
+{: .ref #{{ch.p.acc}}}
 
 ## General Rule of Accentuation
 
 ### Possible Positions of the Accent; 'Long' and 'Short' Syllables
 
 The main accent can only normally fall on one of the two syllables of a word:
+{: .ref #{{ch.p.acc}}}
 
 + the **penult**: the second-to-last syllable of a word (*x*-***x***-*x*);
 + the **antepenult**: the third-to-last syllable of a word (***x***-*x*-*x*).
 
 Accentuation is determined strongly by the length of the penult syllable of a word. For the purposes of accentuation:
+{: .ref #{{ch.p.acc}}}
 
 + a syllable is long if it is closed, or contains a long vowel or a diphthong;
 + a syllable is short if it is open and contains a short vowel.
@@ -19,40 +22,53 @@ Accentuation is determined strongly by the length of the penult syllable of a wo
 !!! note
 	Such pairs as *ty, qu, hy, hw* can be considered as a single or a double consonant for this purpose.
 
-For vowel quantity (long/short), &rarr; @@.
+For vowel quantity (long/short), &rarr; [{{ch.p.sou}}.7](sou.md#1.7).
+{: .ref #{{ch.p.acc}}}
 
-!!! important "Penultimate Law"
+### Penultimate Law
+
+!!! important "Rule"
 	**Rule 1**: The regular main stress falls on a **second mora** from the end, not counting the last syllable:
 	
 If the antepenult is long, it takes two morae:
+{: .ref #{{ch.p.acc}}}
 
 + closed syllable: `lótesse` --- *lo-[t*-***e****<sub>2</sub>-s<sub>1</sub>]-se*
 + long vowel: `untúpa` --- *un-[t*-***u****<sub>2</sub>-u<sub>1</sub>]-pa*
 + diphthong: `alasaila` --- *ala-[s*-***a****<sub>2</sub>-i<sub>1</sub>]-la*
 
 If the antepenult is short, it takes one mora:
+{: .ref #{{ch.p.acc}}}
 
 + `termaruva` --- *ter-[****ma****<sub>2</sub>-ru<sub>1</sub>]-va*
 
 Consequently, in words of one or two syllables the stress is always prototonic:
+{: .ref #{{ch.p.acc}}}
 
 + *[****e****<sub>1</sub>]-len*, *[****va****<sub>1</sub>]-la*, *[****o****<sub>2</sub>-o<sub>1</sub>]-re*
 
-!!! important "Exceptions"
-	**Exception 1**: If by Rule 1 the stress should fall on a **first vowel of hiatus**, the stress shifts forward:
+#### Exceptions
+
+!!! warning "Exceptions"
+	**Exception 1**: A word was stressed on the last syllable if it was:
+	
+	+ a verb in imperative (@@): `quetá` --- *kwe-'****ta***
+	+ a functor on `-ai`: `cenai` --- *ke-'****naj***
+	
+	**Exception 2**: If by Rule 1 the stress should fall on a **first vowel of hiatus**, the stress shifts forward:
 	
 	+ `Lómeanor` --- *'lo-****o****<sub>3</sub>-[me<sub>2</sub>-a<sub>1</sub>]-'nor*
 	+ But naturally it didn't happen if the syllable was already initial: `tie` --- *'****ti****<sub>1</sub>-e*
 	
-	**Exception 2**: Weak nouns of second declension keep their stress pattern despite the lack of rhythmic lengthening (@@):
+	**Exception 3**: Weak nouns of second declension keep their stress pattern despite the lack of rhythmic lengthening (@@):
 	
 	+ `Orome` --- *['****o****<sub>2</sub>-ro<sub>1</sub>]-ˌme*; `Oromèo` --- *'o-[ro<sub>2</sub>-'****me****<sub>1</sub>]-o*
 	
-	**Exception 3**: Certain **prefixes** don't take on stress:
+	**Exception 4**: Certain **prefixes** don't take on stress:
 	
 	+ `ovèa` --- *o-['****ve****<sub>1</sub>]-a*
 	
-	**Exception 4**: Recognized compounds kept independent stress position:
+	**Exception 5**: Recognized compounds kept independent stress position:
 	
 	+ `losselie` --- *los-se-['****li****<sub>1</sub>]-e* (not *los-['****se****<sub>2</sub>-li<sub>1</sub>]-e*)
 
@@ -71,12 +87,12 @@ Consequently, in words of one or two syllables the stress is always prototonic:
 	
 	+ `oromardi` --- *'****o****-ro-'****mar****-di*
 	
-!!! important "Exceptions"
-	**Exception 5**: The long syllable or initial syllable attracted secondary stress if they were separated from the main stress:
+!!! warning "Exceptions"
+	**Exception 6**: The long syllable or initial syllable attracted secondary stress if they were separated from the main stress:
 	
 	+ `andafalasse` --- *'****an****-da-fa-['****la****<sub>2</sub>-s<sub>1</sub>]-se* (**not** *an-****da****-fa-****las****-se* as per Rule 2)
 	
-	**Exception 6**: If the initial syllable was light and immediately preceded the main stress, it lost its accent:
+	**Exception 7**: If the initial syllable was light and immediately preceded the main stress, it lost its accent:
 	
 	+ `namárie` --- *na-['ma-****a****<sub>2</sub>-ri<sub>1</sub>]-e*
 
@@ -110,13 +126,13 @@ In that case, the lengthened vowel would be stressed even by the general rule. C
 **Tone**: RGEO/60 and PE19/61 contradict each other on the exception
 {: .src }
 
-**Exception 1**: PE12/26-27
+**Exception 2**: PE12/26-27
 {: .src }
 
-**Exception 2**: PE21/41
+**Exception 3**: PE21/41
 {: .src }
 
-**Exception 3**: PE19/64 (ft.)
+**Exception 4**: PE19/64 (ft.)
 {: .src }
 
 **Rule 2**: PE19/57
@@ -128,10 +144,10 @@ In that case, the lengthened vowel would be stressed even by the general rule. C
 **Rule 4**: PE19/65 (ft.)
 {: .src }
 
-**Exception 5**: PE19/58
+**Exception 6**: PE19/58
 {: .src }
 
-**Exception 6**: RGEO/60-61
+**Exception 7**: RGEO/60-61
 {: .src }
 
 *[CE]: Common Eldarin

@@ -1,0 +1,69 @@
+# Aspiration
+
+The aspiration has appeared repeatedly both in OP1 and OP2:
+
+!!! quote "OP2: PE19/83 (vii)"
+	Before *s* the aspiration was lost, and *ph-s, th-s, kh-s > ps, ts, ks*. In other cases the two varieties coalesced in stops with a weak aspiration (insufficient to cause opening and spirantalization). Thus: *s-t, s-th > st* or more precisely *stʰ*; *pp* and *pph > pp (ppʰ)*; *ph-t, p-th > pth > ꝑt; kht, kth > kth > hth > ht* (sc. *htʰ*).
+	
+!!! quote "OP2: PE19/84"
+	Where retained [...] they were *spʰ, skʰ*.
+
+!!! quote "OP2: PE19/87 (ii.a)"
+	the voiceless stops became lightly aspirated (as in English), especially initially and when lengthened. CE *pph* &c. and *pp* &c. thus coalesced in the lightly aspirated *pp, tt, kk*.
+	
+!!! quote "OP1: PE19/40 (vii)"	
+	Before \[s\] the aspiration appears to have been lost, and *phs, ths, khs > ps, ts, ks*. In other cases {after \[s\] or in combination with a stop} the two groups coalesced in stops with a weak aspiration
+	
+In short, the aspiration of stops is marked when: (a) initial, (b) after /s/, (c) after another stop.
+	
+The lack of aspiration after /s/ is mentioned once, but it is possible that brackets indicate deletion:
+
+!!! quote "OP2: PE19/86 (h)"
+	After other consonants *p, t, k* were generally maintained though in fact (probably in C. Eldarin) after consonants other than \[s\] *p, t, k* were strengthened and lightly aspirated.
+
+Additionally light aspiration is marked after liquids and nasals in a deleted paragaraph, but the reason for deletion might be a discarded *lph > lf* change without concern for aspiration.
+
+!!! quote "OP2: PE19/89 (ft.101)"
+	the aspirates and voiceless stops (which were lightly aspirated in Quenya initially and after *r, l, m, n, ñ*) coalesced.
+
+This altogether would simplify to light aspiration (a) initially, (b) after a consonant.
+
+## Question of Gorgia
+
+Even though these quotes appear numerous, they are not without a major issue: on recordings Tolkien himself never aspirated the stops, and that feature must have been deliberate and not a part of his 'English accent'. It does not help that aspiration appears only in one document (which however underwent amendations all the way into '70s, none of which explicitly rejected aspiration).
+
+![waveform of *tintilar*](../../img/tintilar_gram.png)
+
+*Fig. 1: Tolkien's pronunciation of* ***tintilar****. Duration of /t/ is in both cases 20-25 ms. Compare to Spanish unaspirated of 10-20 ms and English aspirated of 50-70 ms. The increased tenseness of pre-tonic stop is clearly visible.*
+
+One way to accomodate this contradiction is to regard the described aspiration as the development preceeding the PQ period. The only quote which unambiguosly refers to Quenya proper is PE19/84. Perhaps the aspirated stops in OP2 are a legacy of the original layer where they appear to explain *pt > ps* and *rp > rf*, --- changes both later removed.
+
+As if to support that, the re-written *rp > rf* section (PE19/89 ft.101) discarded any mention of aspiration, and re-written *stops before nasals* section dropped the aspiration sign by the final development stage:
+
+!!! quote "PE19/85"
+	*pʰň > pʰt > ꝑt, tʰň > tt, kʰň > ht; pʰm̌ > pƕ > pp, tʰm̌ > tƕ > tw, kʰm̌> kƕ > kw*
+
+!!! quote "PE19/87"
+	Both varieties then proceeded to \[*ꝑtʰ*, *χt<sup>χ</sup>*\]. The ultimate results were:--- *ꝑt* and *ht* (PE19/87)
+	
+!!! quote "PE19/89"
+	*arp(h)ō* 'seizer, thief' > *arpo* (PE19/89)
+
+## Question of Rafforzamento
+
+A different view altogether is presented in QS from late '30s:
+
+!!! quote "PE22/65 (1)"	
+	The voiceless stops are explosive (as in modern English), but not aspirated; their force is slightly greater immediately before a stressed vowel.
+
+which indeed corresponds to Tolkien's pronunciation, but pre-dates OP documents. Such feature would provide e.g. *atan* <span class="ipa">\['ä.t̺än\]</span> vs *atartil* <span class="ipa">\[ä.'t̺͈är̺̊.t̺ɪlʲ\]</span> instead of aspirated <span class="ipa">\[ä.'t̺är̺̊.t̺ʰɪlʲ\]</span> from the previous section.
+
+There are then several ways to reconstruct the pronunciation:
+
++ *gorgia* only: <span class="ipa">\[ä.'t̺är̺̊.t̺ʰɪlʲ\], \[pʰɛk.kʰɔ\]</span>
++ *rafforzamento* only: <span class="ipa">\[ä.'t̺͈är̺̊.t̺ɪlʲ\], \['p͈ɛk.kɔ\]</span>
++ *gorgia* with *rafforzamento*: <span class="ipa">\[ä.'t̺͈ʰär̺̊t̺ʰɪlʲ\], \['p͈ʰɛk.kʰɔ\]</span>
+
+Similarly to the quesion of Calabrian and Piedmontese systems, here the preference goes to the older description which better matches Tolkien's pronunciation, one without *Quenya Gorgia*. Note that some degree of aspiration is most acceptable even in clear *rafforzamento*, as typical to Italian dialects.
+
+--8<-- "includes/abbreviations.md"

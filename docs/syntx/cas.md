@@ -1,9 +1,11 @@
+{% set chap = 32 %}
+
 # Cases
 
 ## Functions, Meanings and Labels
 
 The eight main cases of Quenya (common, genitive-partitive, genitive-adjective, dative, instrumental, locative, ablative and allative) are used in different syntactic functions:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + to mark **obligatory constituents** with verbs and adjectives (subject, object, complement; here belong also certain uses in constructions like the common-and-infinitive, common-and-participle, etc.);
 + to complement **prepositions**;
@@ -16,29 +18,29 @@ In the overview below, the most important uses of each of the cases are listed, 
 ## Common
 
 The common case combines functions of historically separate nominative and accusative cases.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### As Nominative for Obligatory Constituent with Verbs
 
 The nominative is the case used for the **subject** of a finite verb (and any modifiers that agree with it, &rarr;27.7).
-{: .ref #30}
+{: .ref #{{chap}}}
 
 **Predicative complements** with **linking verbs** (&rarr;26.8) agree with their subject (&rarr;27.7), and thus also stand in the nominative.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### Other Uses of Nominative
 
 The nominative is used with some most common **prepositions** as there default choice (&rarr;31).
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The nominative is also used in bare **lists** (&rarr;26.29), including entries in dictionaries.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 For the nominative used in **apposition to a sentence**, &rarr;27.14.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The nominative is also used as a **vocative**: in calls or summonses to attract the attention of a person nearby, or of a god; in addresses, to acknowledge or maintain contact with some person nearby.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 !!! note
 	When vocative stands in apposition to a noun, the case of that noun is applied, however.
@@ -46,24 +48,24 @@ The nominative is also used as a **vocative**: in calls or summonses to attract 
 ### As Accusative for Obligatory Constituent (to Complement Verbs)
 
 The accusative is the standard case for the **direct object** with verbs which take an object (&rarr;26.3).
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The following verbs (&rarr;26.12) take a direct object and a predicative complement that agrees with that object (and thus also stands in the accusative; this is often called a 'double accusative').
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The accusative is also used in the **accusative-and-infinitive** (&rarr;51), the **accusative absolute** (&rarr;52) and **accusative-and-participle** constructions (&rarr;52).
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### As an Optional Constituent (Adverbial Modifier)
 
 Time **when**, or **within which**, is expressed by either locative or accusative:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `umbe nin i hríve nauva urra si loa` [PE22/168]. *I have a feeling that winter will be bad this year.*
 {: .exp}
 
 Accusative can also denote the spatial measure (*how long? how broad?*), especially with numerals:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `talion lempe halda ná i·ando` [translated; TAI/150]. *Five foot high is the door*.
 {: .exp}
@@ -71,14 +73,14 @@ Accusative can also denote the spatial measure (*how long? how broad?*), especia
 ## Genitive
 
 The main function of the genitive is at the level of the noun phrase, to mark attributive modifiers (i.e. expressing various relations between (pro)nouns/noun phrases). It is also used to mark some required constituents (complements) with adjectives, and functions in a few adverbial expressions.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 Quenya distinguishes two genitival cases: genitive I or **partitive** and genitive II or **adjective**[^gen1].
 
 ### As Modifier in a Noun Phrase: the Attributive Genitive
 
 The genitive is used particularly within noun phrases, to mark a noun phrase or pronoun as modifier of a head (&rarr;26.18). Traditionally, many different categories within this attributive genitive use are distinguished; the most important of these are given below:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + The **genitive of possession** denotes ownership, belonging, etc.;
 + The **genitive of origin** denotes the origin, offspring, source, etc. of the head;
@@ -86,7 +88,7 @@ The genitive is used particularly within noun phrases, to mark a noun phrase or 
 + Other relations between nouns: material/contents, price/value, elaboration, etc.
 
 **Genitive of possession** distinguishes **alienable** (which can be given away or lost) and **inalienable** (perpetual and inherent to the head) possession. Concepts comprising inalienable possession include:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + body parts: `rámar aldaron`, `hon maro`;
 + part-whole relations: `tyulma ciryo`, `aicasse Taniquetildo`;
@@ -98,7 +100,7 @@ The genitive is used particularly within noun phrases, to mark a noun phrase or 
 Generally these categories are expressed with genitive **partitive**, while the rest — alienable relations — with genitive **adjective**: `Vardava tellumar`, `róma Oroméva`.
 
 **Genitive of origin** marks the location where the modifier originated from, or its creator (who might not be in its possession), or its author:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + location: `Calaciryo míri`, `Eldar Malariando`;
 + creator: `róma Oromèo`, `i·coimas Eldaron`.
@@ -106,7 +108,7 @@ Generally these categories are expressed with genitive **partitive**, while the 
 Genitive of origin is expressed with genitive **partitive**, but its locational function is complementary to **ablative**, particularly if the noun phrase already has a modifier in genitive of another function: `menelluin Írildeo Ondolindello`.
 
 **Genitive of composition** describes the relation between two nouns as a part to its whole:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + material or substance: `yuldar miruvóreo`;
 + content: `parma mittarion`, `aure veryanwesto`;
@@ -114,26 +116,26 @@ Genitive of origin is expressed with genitive **partitive**, but its locational 
 + source: `astali hruo`.
 
 **Genitive of subject**, marked by genitive I, denotes the subject of a verbal noun: `Túro matie masta`, `nero carie cirya`. Note that the action can sometimes be implicit: `Ráno tie` *path of the Moon* ('path *taken* by the Moon').
-{: .ref #30}
+{: .ref #{{chap}}}
 
 **Genitive of object** (genitive II) describes the affected patient of the action: `Nurtale Valinóreva`, `ciryava carie`. Note that **gerund** can take a direct **specific** object in accusative like a verb. In that case, the object **must follow**[^gen2] it: `carie cirya` *making of a (specific) ship*.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 #### Determiner Genitive and Descriptive Genitive
 
 While the functions listed above are useful, in practice they don't cover a multitude of border cases which we label here as **descriptive**. Most grammars treat it as a homogenous category with only vaguely defined function, but we can distinguish a few categories within it, responsible for **naming**, **comparing** and **describing**:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 **Classifying genitives** are used to name certain objects, where the dependent clearly restricts the denotation of the head noun: `Nand' Gondoluncava`, `hwesta zindarinwa`, `Eruva lisse`.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 Such genitive is semantically most closely related to adjectives and loose compounds: `farea nasto`, `meneldea Eru`, `Ambarmetta`, `Elennanóre`. Therefore it typically employs genitive II[^gen4].
 
 **Metaphorical Genitive** is used to describe an object, experience, state etc. in terms of another one: `yéni únótimë ve rámar aldaron`. Structurally these genitives behave like **determiner genitives** from before, but the dependent is very clearly not specific. They do not have the function of a typical determiner (i.e. the referential anchoring of a referent), but rather, they evoke a certain **typical property**.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 In contrast to metaphorical genitives, **generic genitives** are not used to compare a referent in terms of another referent (or the referent’s properties) but to describe a specific referent by setting it in relation to **its kind**: `lambe Eldaron`.
-{: .ref #30} 
+{: .ref #{{chap}}} 
 
 #### Genitive II and Loose Compound
 
@@ -148,10 +150,10 @@ In contrast to metaphorical genitives, **generic genitives** are not used to com
 #### Genitive Gradience
 
 Gradience in grammar is usually characterized as the phenomenon of blurred boundaries between two categories. When it comes to genitive and the use of genitive I over genitive II, we distinguish two sources for gradience: gradience of the semantic features and gradience as a mismatch in the meaning–form mapping.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 Gradience of the semantic features arises from natural ambiguity of some interpretations:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `Eldar Malariando` *the elves of (from) Beleriand* [genitive of origin] and `Eldar Malariandéva` *the Beleriand elves* [classifying genitive] are for all purposes the same.
 {: .exp}
@@ -174,10 +176,10 @@ Mismatch mapping is a very late phenomenon when Quenya stopped being a colloquia
 ##### *With Adjectives*
 
 The following adjectives (often related in meaning to the verbs regularly taking adverbial modifiers, especially with partitive sense) are complemented by a genitive: 'filled with', 'released from', 'free from', etc.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **genitive of comparison** is used to complement comparatives:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `arimelda na ilyaron ` [PE17/57]. *She is dearest of all*.
 {: .exp}
@@ -187,22 +189,22 @@ For more details on comparatives and their constructions, &rarr;[32](cmp.md).
 ##### *With Numerals*
 
 From `nelde` *three* onwards, a preceding noun or noun phrase stand in genitive I plural: `elenion nelde` *three stars*. Note that in the late use it was substituted with accusative: `eleni nelde` *three stars*. For details on agreement of numerals, &rarr;26.TBD.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ##### *As Predicative Complement or Prepositional Complement*
 
 Many of the **attributive uses** of the genitive (&rarr;30.above) also occur **as predicative complement** with linking verbs.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **genitive of quality**, used to express a certain characteristic or manner of being,
 occurs exclusively in this way:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `neri ú nati nostalèo mare` [translated; PE15/32][^gen8]. *Men are not beings good by nature*.
 {: .exp}
 
 Similarly, attributive uses of the genitive may occur after certain prepositions (&rarr;31.8):
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `Aina Wende mi Wenderon` [VT44/12]. *Holy Virgin of virgins*.
 {: .exp}
@@ -210,7 +212,7 @@ Similarly, attributive uses of the genitive may occur after certain prepositions
 ### As an Optional Constituent (Adverbial Modifier)
 
 Sometimes verbs take genitive I in its partitive function to underline **separation**:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + verbs meaning 'remove from', 'rob of', 'free from' etc.: `Varda ortane máryat Oiolosseo`, `lunces macilya vaileo`[^gen6];
 + many verbs expressing sensorial or mental processes, to denote **a source** of stimulus: `hlassenye·s Vardo`[^gen5].
@@ -219,7 +221,7 @@ Sometimes verbs take genitive I in its partitive function to underline **separat
 	To describe the **direction**, genitive is substituted with **ablative**: `tentane Melcorello`.
 
 Some verbs permit the **genitive of cause** to express the origin or reason for that action: `síla Ráno`[^gen7].
-{: .ref #30}
+{: .ref #{{chap}}}
 
 [^gen1]: more commonly labeled in other sources as **possessive** or **possessive-adjective**.
 [^gen2]: The system is described in [PE22/120].
@@ -232,7 +234,7 @@ Some verbs permit the **genitive of cause** to express the origin or reason for 
 ## Dative
 
 The main function of the dative is to mark non-obligatory (adverbial) modifiers. It is also used to mark some required complements with verbs.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ![Implication map](../img/dative.png)
 
@@ -251,7 +253,7 @@ The main function of the dative is to mark non-obligatory (adverbial) modifiers.
 #### As Indirect Object
 
 The dative is used to express the indirect object or the **recipient** (Y) with the following types of verbs (X indicates a direct object in the common-accusative, where present):
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + verbs meaning *give*, *entrust*, etc.;
 + verbs meaning *say*, *tell*, *report*, etc. (usually with direct or indirect statement, &rarr;41.3);
@@ -259,7 +261,7 @@ The dative is used to express the indirect object or the **recipient** (Y) with 
 + most verbs meaning *seem*, *appear*, etc.
 
 The dative as indirect object, or **experiencer**, complements the following **impersonal verbs** (&rarr;36.4-5), usually together with an infinitive (&rarr;51.8) (Y marks the dative):
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `ece` it is possible for Y (to do something);
 + `ola` Y dreams (of something);
@@ -270,20 +272,20 @@ The dative as indirect object, or **experiencer**, complements the following **i
 #### Dative of the Possessor
 
 The **dative of the possessor** is used to complement 'existential' `ná` and `ea` (*there is*, &rarr;26.10), denoting possession, belonging, or interest. On the difference between this dative and verbs of possession (`same`, `harya`, etc.), &rarr; TBD.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### As an Optional Constituent (Adverbial Modifier)
 
 #### *Referring to Things or Abstract Entities*
 
 The dative is very frequently used to express optional adverbial modifiers (&rarr;26.14). It marks nouns referring to things or abstract entities in various kinds of adverbial modifiers.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **dative of cause** expresses reason or cause.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The bare **dative of place** may be used to express the direction whereto action takes place, as a short form of allative:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 > `lendes pallan i sír` [PE17/65]. *He came to a point far beyond the river*.
 
@@ -292,13 +294,13 @@ The bare **dative of place** may be used to express the direction whereto action
 The **dative of advantage** and **dative of disadvantage** are used to indicate the
 beneficiary (or opposite) of an action; they express in or against whose interest an
 action is performed:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `Ilu Ilúvatar en cáre eldain a fírimoin` [MQ: LR/63]. *The Father made the World for Elves and Mortals*.
 {: .exp}
 
 The dative also marks the person **from whose perspective or vantage point** the action is perceived:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `tulil márie nin` [PE22/158]. *You come happily for me*.
 {: .exp}
@@ -308,7 +310,7 @@ The dative also marks the person **from whose perspective or vantage point** the
 ## Instrumental
 
 The main function of the instrumental is to mark non-obligatory (adverbial) modifiers.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ![Implication map](../img/instrumental.png)
 
@@ -324,22 +326,22 @@ The main function of the instrumental is to mark non-obligatory (adverbial) modi
 ### As an Optional Constituent (Adverbial Modifier)
 
 Instrumental case, as the name implies, most commonly marks the **instrument or means** by which an action is carried out: *built with a hammer*, *painted with a brush*, *fought with fists*.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **instrumental of material** is closely adjacent to it, and is used to complement transitive verbs and related adjectives to describe the material used in action: *built with stone*, *rich with spoils*, *fraught with sorrows*. Note the difference: *filled with water* (instrumental of material), but *full of water* (genitive of material).
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **instrumental of manner** describes the manner in which an action was carried out, particularly with abstract nouns: *carry with weariness*, *shine with golden light*, *give in measure*[^ins2].
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **instrumental of agent** is used in passive constructions to denote the agent of the action: *executed by the king*, *heard by the audience*, *blamed by the wicked*.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 While the instrumental of agent is usually employed for voluntary actions of animate nouns, similar **instrumental of cause** describes the circumstances in which an action happened, sometimes tangentially, and generally can be substituted in gloss with *because of*: *disabled by a wound*, *bent with the sails*[^ins3].
-{: .ref #30}
+{: .ref #{{chap}}}
 
 The **instrumental of location** describes location or other intrinsic relations linked to the manner or source of an action, typically of intransitive verbs, and is generally translated with *in, on*: *fall in the wind*, *cloack in veils*, *fluttering on the wings*.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 [^ins1]: ["A diachronic dimension in maps of case functions" by Heiko Narrog](https://www.eva.mpg.de/lingua/conference/07-SemanticMaps/pdf/narrog.pdf).
 [^ins2]: also, `tanen` *in this way* [VT49/11].
@@ -348,18 +350,18 @@ The **instrumental of location** describes location or other intrinsic relations
 ## Locative
 
 The main function of the locative is to mark non-obligatory (adverbial) modifiers describing the scene of the action, generally pointing out *where* or *when* the action is happening.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### Spatial Locative
 
 The locative describes a **general** spatial relation. We can postulate the basing meaning as[^loc1]:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 !!! important "Rule"
 	**Rule**: The **figure** is located close to the **ground**.
 
 The exact position therefore is either not relevant, or easily accessible through context. The use of specific spatial adpositions, like `mi` *in* or `to` *on* (&rarr; TBD), emphasizes the particulars of the relation and can highlight any deviations from the default assumption, thus serving to cancel unwarranted implicatures:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 !!! important "Rules"
 	**Implication**:
@@ -371,7 +373,7 @@ The exact position therefore is either not relevant, or easily accessible throug
 The canonicity of the relation is determined pragmatically: *a plate* is **on** *a table* rather than **under** it, while *an apple* is **in** *a bowl* rather than **at** it.
 
 To provide some examples:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 1. the locative conveys the notion of being within a containment:
 
@@ -396,14 +398,14 @@ To provide some examples:
 ### Locative of Circumstance
 
 As the extenstion of this meaning, the locative often denotes the **circumstances**, under which the action comes to pass.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 This kind of locative encompasses the **locative of time** as well as the **absolute locative** (TBD). 
 
 #### Locative of Time
 
 The locative of time refers to a specific moment or period:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + **at** which the event happens;
 + **by** which the event should happen.
@@ -414,7 +416,7 @@ The locative of time refers to a specific moment or period:
 #### Locative of Respect
 
 The locative of respect may denote the **particular point of view** from which a statement is made. This occurs chiefly with adjectives but also with intransitive verbs, and in gloss can be substituted with *with regard to*:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `i jarma ú ten ulca símaryassen` [VT49/6]. *the left hand was not to them evil in their imaginations*.
 {: .exp}
@@ -426,12 +428,12 @@ Such locative can be used for:
 + sphere in general: *terrible in battle, good in matters in which he is skilled*.
 
 The instrumental of manner and genitive of quality are often nearly equivalent to the locative of respect: *men are good in nature; men are good by nature; men are of good nature*[^loc2].
-{: .ref #30}
+{: .ref #{{chap}}}
 
 #### Locative of Manner
 
 With abstract nouns locative of manner can be used periphrasically to describe the state:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `hara máriesse` [PE17/162]. *Stay in happiness* (or: *stay happily*)
 {: .exp}
@@ -442,7 +444,7 @@ With abstract nouns locative of manner can be used periphrasically to describe t
 ### As Obligatory Complement
 
 Some verbs take what might be a direct object in other languages as a complement in locative case:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `Heru órava omesse` [VT44/12]. *Lord, have mercy on us*.
 {: .exp}
@@ -453,7 +455,7 @@ Some verbs take what might be a direct object in other languages as a complement
 ## Allative
 
 The main function of the allative is to mark non-obligatory (adverbial) modifiers describing the goal of the motion, generally pointing out *whither*.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ![Implication map](../img/allative.png)
 
@@ -462,7 +464,7 @@ The main function of the allative is to mark non-obligatory (adverbial) modifier
 ### As a Direction of Movement
 
 The allative describes a **general** directional goal of the movement.
-{: .ref #30} 
+{: .ref #{{chap}}} 
 
 The exact position therefore is either not relevant, or easily accessible through context. The use **with** a specific spatial **static** adposition, like `nu` *under* (&rarr; TBD), emphasizes the particulars:
 
@@ -473,7 +475,7 @@ The exact position therefore is either not relevant, or easily accessible throug
 {: .exp}
 	
 The canonicity of the relation is determined pragmatically, and a series of **directional** adpositions are used instead when the context is not complicit:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `unlunke naiqe yu vaile·na ar elle ha men ambostuva` [EQ: PE16/146]. *He pulled his sword from the sheath and drove it into the breast*.
 {: .exp}
@@ -515,7 +517,7 @@ contact with:
 ### Allative of Time
 
 In the domain of time, the use of the allative is restricted to those expressions where both the starting point and the endpoint are mentioned. For instance, if we want to say 'from Monday to Friday', we will use the allative as in `izilyallo valanyanna`, but if we just want to mention the endpoint, the use of the allative is not allowed; instead, the adposition `tenna` *until* is used. Therefore, *until tomorrow* is translated as `tenna enar`[^all3].
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### Allative of Purpose
 
@@ -524,7 +526,7 @@ In the domain of time, the use of the allative is restricted to those expression
 	{: .ref .hide #30}
 	
 For the use of allative of purpose in periphrasic future construction &rarr; TBD.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 #### Allative as Translative
 
@@ -535,7 +537,7 @@ For the use of allative of purpose in periphrasic future construction &rarr; TBD
 ### Allative of Extent
 
 Similar to instrumental, allative can describe *how* an action was carried out, answering a question **to what extent? to what degree?**
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `a laita tárienna` [LotR/953]. *Praise (them) to the height*.
 {: .exp}
@@ -545,7 +547,7 @@ Similar to instrumental, allative can describe *how* an action was carried out, 
 #### As Direct Object
 
 Some verbs take what might be a direct object in other languages as a complement in allative case:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `verya senna` [VT49/45]. *I married her*.
 {: .exp}
@@ -556,7 +558,7 @@ Some verbs take what might be a direct object in other languages as a complement
 #### As Indirect Object
 
 Generally, dative denoting a recipient can be freely substituted for allative:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `antane ninna` [PE17/147]. *He gave it to me*.
 {: .exp}
@@ -571,12 +573,12 @@ Generally, dative denoting a recipient can be freely substituted for allative:
 ## Ablative
 
 The main function of the ablative is to mark non-obligatory (adverbial) modifiers describing the source of the motion, generally pointing out *whence*, and is therefore the very **opposite of allative**.
-{: .ref #30}
+{: .ref #{{chap}}}
 
 ### As a Direction of Movement
 
 The ablative, then, is wanted to express **from what place** there is a starting and moving:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + in its proper sense, movement **away from**: 
 	
@@ -613,7 +615,7 @@ The ablative, then, is wanted to express **from what place** there is a starting
 ### Ablative of Source, Origin and Cause
 
 In a more abstract sense with verbs of:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + *taking, receiving from*: `yello camnelyes` *from whom you received him* [VT47/21];
 + *protecting, guarding, securing from*: `áme etelehta ulcullo` *deliver us from evil* [VT43/12];
@@ -632,7 +634,7 @@ In a more abstract sense with verbs of:
 ### Ablative of Time
 
 When denoting time, the ablative carries the meaning of **from, since, after**. Commonly it is attended by prepositions, as `et`: `et sillumello ter yénion yéni tenn' ambarmetta` *from this hour, through years of years until the ending of the world* [VT44/33], but it is possible to go with single ablative[^abl1].
-{: .ref #30}
+{: .ref #{{chap}}}
 
 #### Ablative as Exessive
 
@@ -646,7 +648,7 @@ When denoting time, the ablative carries the meaning of **from, since, after**. 
 #### As Indirect Object
 
 A few special verbs take second (indirect) object in ablative:
-{: .ref #30}
+{: .ref #{{chap}}}
 
 + `ávatyara mello roctammar` [VT43/11]. *Forgive us our trespasses*.
 {: .exp}

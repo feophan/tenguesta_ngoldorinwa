@@ -130,20 +130,20 @@ where the cut-off position for the article use varies from language to language:
 
 ### Data
 
-| sentence	|	gloss	| type		|
-|	----	|	----	|	----	|
-|	lassi lantar **súrinen**	| the leaves fall in **the wind**	|	IN	|
-|	utúlie**'n aure** 	| **the day** has come	|	SN &rarr; IC (IU)	|
-|	a laita **tárienna** 	| praise to **the height**	|	FN &rarr; IC (DR)	|
-|	**alcar** Oromeo 	| **the splendour** of Oromë	|	FN	|
-|	**anar** caluva	| **the sun** shall shine	|	IN	|
-|	**Andúne** pella	| beyond **the West**	|	IN	|
-|	**i yáve** mónalyo Yésus	| **the fruit** of thy womb Jesus	|	RN &rarr; FN (CA)	|
-|	**súle** Manweo etsurinye	| **the spirit** of Manwe went out	|	FN	|
-|	á sac' **i fende**	| close **the door**	|	RN &rarr; IC (IU)	|
-|	auta **i lóme**	| **the night** is passing	|	SN &rarr; IC (IU)	|
-|	caitas lá **i sír**	| it is beyond **the river**	|	SN &rarr; IC (IU)	|
-|	**cále** fifírula	| **the light** fading	|	IN	|
+| sentence	|	gloss	| type		|	prediction	|
+|	----	|	----	|	----	|	----	|
+|	lassi lantar **súrinen**	| the leaves fall in **the wind**	|	IN	|	&check;	|
+|	utúlie**'n aure** 	| **the day** has come	|	SN &rarr; IC (IU)	|	&check;	|
+|	a laita **tárienna** 	| praise to **the height**	|	FN &rarr; IC (DR)	|	&check;	|
+|	**alcar** Oromeo 	| **the splendour** of Oromë	|	FN	|	&check;	|
+|	**anar** caluva	| **the sun** shall shine	|	IN	|	&check;	|
+|	**Andúne** pella	| beyond **the West**	|	IN	|	&check;	|
+|	**i yáve** mónalyo Yésus	| **the fruit** of thy womb Jesus	|	RN &rarr; FN (CA)	|	&check;	|
+|	**súle** Manweo etsurinye	| **the spirit** of Manwe went out	|	FN	|	&check;	|
+|	á sac' **i fende**	| close **the door**	|	RN &rarr; IC (IU)	|	&check;	|
+|	auta **i lóme**	| **the night** is passing	|	SN &rarr; IC (IU)	|	&check;	|
+|	caitas lá **i sír**	| it is beyond **the river**	|	SN &rarr; IC (IU)	|	&check;	|
+|	**cále** fifírula	| **the light** fading	|	IN	|	&check;	|
 |	TBD	|	TBD	|	TBD	|
 
 [^1]: Journal of Semantics 4: 279–326, 1985
