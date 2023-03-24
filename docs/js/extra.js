@@ -1,17 +1,23 @@
 // js/extra.js
 
-
 document.addEventListener("DOMContentLoaded", function() {
   document.querySelectorAll("table").forEach(function(table) {
     table.classList.add("docutils");
   });
 });
 
-document.querySelectorAll(".ref").forEach(function(item, i) {
-	$(item).attr('id', $(item).attr('id') + "." + parseInt(i + 1));
+
+
+document.querySelector('.section').querySelectorAll(':scope > p').forEach(function(item, i) {
+	$(item).attr('id', mkdocs_page_name.match(/^[0-9]+/)[0] + "." + parseInt(i + 1));
+	$(item).attr('class', 'ref');
 });
 
-document.querySelectorAll(".exp").forEach(function(item, i) {
-	item.closest("li").style.listStyleType = "none";
-	$(item).attr('id', "exp." + parseInt(i + 1));
+var z = 1;
+document.querySelector('.section').querySelectorAll(':scope > ol').forEach(function(item, i) {
+	item.querySelectorAll(':scope > li').forEach(function(itemLi, j) {
+		itemLi.style.listStyleType = "none";
+		$(itemLi).attr('id', z);
+		z = z + 1;
+	});
 });

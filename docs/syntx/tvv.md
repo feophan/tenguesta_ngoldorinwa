@@ -1,4 +1,4 @@
-!!! attention "Under Construction"
+>[!ATTENTION] Under Construction
 
 # The Verb: Voice
 
@@ -14,14 +14,14 @@ The category of voice pertains to different ways in which the subject of a verb 
 
 	`virta` *he changes (something)*;<br>
 	`virya` *he changes (the subject performs the action on himself: autocausative)*;
-	
+
 + The so-called passive voice, which expresses that the subject is affected by the action by someone else:
-	
+
 	`a-ferya` *he is made ready, he is being prepared*;
 	`a-cúna` *it bends (no agent: decausative)*;
 
-!!! note
-	That the active voice is 'neutral' means that the subject of an active verb can be affected by the action: in fact, some active verbs express actions in which the subject is very clearly affected, e.g. `qualë` *he dies*, `gwalë` *he suffers torment*. The difference between causative, autocausative and decausative meanings is usually expressed lexically.
+>[!NOTE]
+>That the active voice is 'neutral' means that the subject of an active verb can be affected by the action: in fact, some active verbs express actions in which the subject is very clearly affected, e.g. `qualë` *he dies*, `gwalë` *he suffers torment*. The difference between causative, autocausative and decausative meanings is usually expressed lexically.
 	
 #### Active and Passive Forms
 
@@ -36,13 +36,15 @@ Impersonal constructions are made of apersonal form of the verb with or without 
 + `a-esta i·nóre Valinor` *the land is called Valinor*;
 + `masse a-cimë aldar?` *where are the trees to be found?*
 
-!!! note
-	Such construction is purely impersonal, and no introduction of agent is allowed.
-	
+>[!NOTE]
+>Such construction is purely impersonal, and no introduction of agent is allowed.
+
 Periphrasic construction is formed with passive participle. This construction allows for agent to be optionally expressed in instrumental case (if inanimate) or introduced with preposition *ló* (if animate[^for1]):
 
 + `i·nóre estaina Valinor` *the land called Valinor*;
 + `Túrin turúna ambartanen` *Túrin mastered by doom*;
 + `nahtana ló Túrin` *slain by Túrin*.
 
-[^for1]: [VT49/24]: "*ló* as independent word was used only with person; [...] and usually in sense *by agent*. 
+[^for1]: [VT49/24]: "*ló* as independent word was used only with person; \[...\] and usually in sense *by agent*. 
+
+--8<-- "includes/abbreviations.md"

@@ -37,3 +37,11 @@ LVS13-14: fall 1969
 *[PQ]: Classical Quenya
 *[NTQ]: Noldorin Quenya
 *[VTQ]: Vanyarin Quenya
+*[PD]: Plotz Declension
+*[AQ]: Ancient Quenya
+*[LQ]: Late Quenya
+*[DN4]: Declension of Nouns v.4
+*[DN5]: Declension of Nouns v.5
+*[DN6]: Declension of Nouns v.6
+*[GN]: Gnomish
+*[MQ]: Middle Quenya

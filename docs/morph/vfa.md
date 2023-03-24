@@ -1,6 +1,6 @@
-!!! attention "To-Do"
-	Add *farinye*-type preterite
-	
+>[!TODO]
+>+ [ ] Add *farinye*-type preterite
+
 # The Aorist Stem
 
 ### Ablaut in Aorist Stems
@@ -10,12 +10,10 @@ Aorist stem is formed from a verb stem with either a short- or zero-grade ablaut
 + **zero-grade**: formative and long verbs in aorist and future, other conjugations in all tenses;
 + **short-grade**: formative and long verbs in preterite.
 
-!!! note "Reminder"
-	Derivative and causative conjugations have **only zero-grade** stem (&rarr;@@).
-	
-	The u-verbs don't have a short-grade ablaut.
-	
-	Basic and a-verbs use short-grade ablaut only in **derivational morphology**, but not as a part of tense conjugation.
+>[!NOTE] 
+>+ Derivative and causative conjugations have **only zero-grade** stem (→@@).
+>+ The u-verbs don't have a short-grade ablaut.
+>+ Basic and a-verbs use short-grade ablaut only in **derivational morphology**, but not as a part of tense conjugation.
 
 ### Thematic and Athematic Aorists
 
@@ -24,8 +22,8 @@ Forms built on the aorist stem follow either a thematic or an athematic conjugat
 + **thematic** conjugation: all causative tense forms, aorist and preterite tense forms of derivative and a-verbs, aorist tense form of long and formative verbs.
 + **athematic** conjugation: all basic and u-verbs tense forms, preterite and future tense forms of long and formative verbs, future tense forms of derivative and a-verbs.
 
-!!! important "Late Tarquesta"
-	In preterite a-verbs became **athematic**: `far-a-` > `far-ne`.
+>[!IMPORTANT] Late Tarquesta
+>In preterite a-verbs became **athematic**: `far-a-` > `far-ne`.
 
 ### Tense Endings
 
@@ -35,9 +33,9 @@ Tense endings are added after a theme vowel in thematic conjugations, or directl
 + preterite tense ending: `-(n)e`.
 + future tense ending: `-uva`.
 
-!!! warning "Exception"
-	The u-verbs might receive the aorist tense-ending when unmarked for number or person, but drop it before secondary ending: `haru-` > `haru(ë)` > `harun`.
-	
+>[!WARNING] Exception
+>The u-verbs might receive the aorist tense-ending when unmarked for number or person, but drop it before secondary ending: `haru-` > `haru(ë)` > `harun`.
+
 ### Sound Changes in Tense Stems
 
 Several sound changes become apparent in aorist stems. The most important is **metathesis** (@@), discussed below. For **rhotacism** and other, more obscure changes, @@.
@@ -52,11 +50,11 @@ Verbs which experience metathesis:
 + ending in `-l`: `tul-ne > tulle`;
 + ending in `-s`: `hlas-ne > hlasse`.
 
-!!! note
-	Ending in `-l` commonly had an alternative form without metathesis: `tul-ne > tulde`.
-	
-!!! important "Late Tarquesta"
-	The combination `-mne` was pronounced /nne/, but it was not reflected in spelling: `nemne` /nenne/.
+>[!NOTE]
+>Ending in `-l` commonly had an alternative form without metathesis: `tul-ne > tulde`.
+
+>[!IMPORTANT] Late Tarquesta
+>The combination `-mne` was pronounced /nne/, but it was not reflected in spelling: `nemne` /nenne/.
 
 ### Overview of Regular Forms
 
@@ -110,9 +108,9 @@ The basic verbs ending in a semivowel largely blended with the formative verbs f
 
 The spurious verbs with `y`-extension were rare, but basic preterite for `t`-extension was regular.
 
-!!! important "Late Tarquesta"
-	Eventually formative verbs were brought into line and became regular. Basic forms which persisted commonly transferred to **long peterite** (see below).
-	
+>[!IMPORTANT] Late Tarquesta
+>Eventually formative verbs were brought into line and became regular. Basic forms which persisted commonly transferred to **long peterite** (see below).
+
 #### Spurious s-Verbs
 
 Formative verbs with `-s-` largely merged with formative (a) conjugation, but have long conjugation in preterite:
@@ -121,8 +119,8 @@ Formative verbs with `-s-` largely merged with formative (a) conjugation, but ha
 |	---	|	---	|	---	|	---	|
 |	cal-s-	|	**cala**-s-y-*a*-ø > calarya	|	**cala**-s-ø-ne > calasse |	**cala**-s-y-uva > calaryuva	|
 
-!!! warning
-	Spurious s-vebs have **only short-grade ablaut** form.
+>[!WARNING] 
+>Spurious s-vebs have **only short-grade ablaut** form.
 
 ### Augmented Preterite
 
@@ -136,17 +134,17 @@ Some basic and formative verbs show a lengthened-grade ablaut in preterite:
 + verbs ending in `-d` beside regular `-nde` sometimes reformed either after regular `-r` verbs to no-metathesis `-rne`: `nid-` > `nirne`; or, more commonly, to long preterite: `yod-` > `yóre`;
 + verbs in `-y` beside regular `-ine` could have a long preterite form (see below): `ray-` > `ráie`;
 
-!!! important "Late Tarquesta"
-	+ later verbs in `-l` also formed a long preterite: `tul-` > `túle`;
-	+ eventually such forms started to spread and become more common: `car-` > `cáre`.
-	
+>[!IMPORTANT] Late Tarquesta
+>+ later verbs in `-l` also formed a long preterite: `tul-` > `túle`;
+>+ eventually such forms started to spread and become more common: `car-` > `cáre`.
+
 ### Long Future and Contract Future
 
 Basic verbs ending in `-b` or `-w` show an irregular future form depending on its root vowel:
 
 + if root vowel is `-o-` or `-u-`, the future ending is `-ua`: `tub-` > `tuvua`;
 + with any other root vowel, the final consonant is dropped: `lab-` > `la-ø-uva` > `lauva`.  
-	
+
 ### Verbs in -ea
 
 A small and rare group of verbs which show `-ea` in aorist tenses comprises basic verbs with stems in `-ay` and a-verbs ending in `-e(g)a`:
@@ -156,10 +154,10 @@ A small and rare group of verbs which show `-ea` in aorist tenses comprises basi
 |	basic	|	ray-	|	ray-ë > rea	|	ray-ne > raine	|	ray-uva	|
 |	vocalic a	|	te(g)a-	|	te-*a*-ø	|	te(g)-ne > tenge	|	te-uva	|
 
-!!! note
-	Since basic verbs in `-y` became spurious, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
-	
-	But verbs which *kept* basic conjugation, commonly employed long preterite: `ray-` > `ráie`, `cay-` > `cáie`.
+>[!NOTE]
+>Since basic verbs in `-y` became spurious, they typically show formative forms in aorist and future tense, but basic form in preterite: `ray-` > aorist `raita`, future `raituva`, but preterite `raine` (instead of regular formative `raya-t-ne` > `reante`).
+>
+>But verbs which *kept* basic conjugation, commonly employed long preterite: `ray-` > `ráie`, `cay-` > `cáie`.
 
 ### Formative-Derivative and Causative-Derivative
 
@@ -167,8 +165,8 @@ The derivative verbs which make use of additional suffixes like `-t`, `-s` or `-
 
 Verbs with addition of `-s` were **spurious** (see above): they had formative (a) forms in aorist and future tense, but joined long conjugation in preterite.
 
-!!! warning
-	Verbs with `-nta` suffix were derivative-proper: `telco-nta` > preterite `telcontane`, future `telcontuva` (not causative \*\*`telcontauva`).
+>[!WARNING]
+>Verbs with `-nta` suffix were derivative-proper: `telco-nta` > preterite `telcontane`, future `telcontuva` (not causative \*\*`telcontauva`).
 
 |		|	verb stem	| aorist tense stem	| preterite tense stem	| future tense stem	|
 |	---	|	---	|	---	|	---	|	---	|
@@ -176,4 +174,4 @@ Verbs with addition of `-s` were **spurious** (see above): they had formative (a
 |	formative (b)	|	tenca-t-	|	tenca-t-*a*-ø	|	tenca-t-ne	|	tenca-t-uva	|
 |	derivative	|	tenca-ta-	|	tenca-t-*a*-ø	|	tenca-t-*á*-ne	|	tenca-t-*a*-uva	|
 
-For the rhythmic lengthening `tencatáne`, &rarr; @@.
+For the rhythmic lengthening `tencatáne`, → [2](../phon/acc.md#rhl).

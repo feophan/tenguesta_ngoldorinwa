@@ -11,14 +11,14 @@
 	The Noldor **burned** Alqualonde. *past*<br>
 	The Noldor **are burning** Alqualonde. *present*<br>
 	The Noldor **will burn** Alqualonde. *future*
-	
+
 + **Relative tense** concerns the location of an action in time **relative to another temporal reference point given in the context**, either prior to that reference point (**anteriority**), at the same time as that reference point (**simultaneity**), or after it (**posteriority**):
 
 	We arrived when the Noldor **had burned** Alqualonde. *anterior* to a moment in the past<br>
 	We arrived when the Noldor **were burning** Alqualonde. *simultaneous* with a moment in the past<br>
 	By the time we arrive, the Noldor **will have burned** Alqualonde. *anterior* to a moment in the future<br>
 	The Noldor said that they **would burn** Alqualonde. *posterior* to a moment in the past
-	
+
 The **indicatives** of the Quenya verb, when used in main clauses, express absolute tense:
 
 + the **present indicative** and **perfect indicative** refer to the **present** (i.e. the moment of speaking);
@@ -49,13 +49,14 @@ The tense-aspect **stems** of the Quenya verb express three different aspectual 
 
 + The **perfect stem** presents an action as a **state** resulting from a preceding completed action, or it signifies that the **effects** of the completed action are somehow still **relevant**.
 
-As the above definitions indicate, the selection of a specific stem (grammatical aspect) depends not so much on any objective properties of the action itself (for such objective properties, &rarr;XX), but on a speaker's (subjective) needs and choices in presenting an action in a certain way. What matters most is whether a speaker is interested in drawing attention to any component parts (or conversely, the boundaries) of an action.
+As the above definitions indicate, the selection of a specific stem (grammatical aspect) depends not so much on any objective properties of the action itself (for such objective properties, &rarr;@@), but on a speaker's (subjective) needs and choices in presenting an action in a certain way. What matters most is whether a speaker is interested in drawing attention to any component parts (or conversely, the boundaries) of an action.
 
 #### Lexical Aspect
 
 **Lexical aspect** refers to the temporal structure of a specific action **inherent** in the verb's meaning: does it have duration, and is it directed towards an end-point? As opposed to grammatical aspect, lexical aspect thus has to do with the **objective** properties of an action, rather than with subjective ways of presenting that action.
 
-TBD
+>[!TLDR] To-Do
+>+ [ ] discussion on inchoactive, inceptive, autocausative
 
 ## Tense and Aspect Combined: The Indicative in Main Clauses
 
@@ -132,45 +133,35 @@ The use of indicatives in narrative is treated in detail in @@.@@-@@, including 
 
 The present continuous refers to actions that occur at the **moment of speaking**. By virtue of its intraterminal aspect (incomplete), it is used by default to refer to actions which are **ongoing** at the moment of speaking:
 
-+ `órenya quéta nin` [VT41/13]. *My heart is saying to me* 
-{: .exp}
-+ `Sinar Orome i·tauresse faralye` [MQ: PE22/116]. *Today Orome is hunting in the forest*.
-{: .exp}
+1. `órenya quéta nin` \[VT41/13\]. *My heart is saying to me*
+2. `Sinar Orome i·tauresse faralye` \[MQ: PE22/116\]. *Today Orome is hunting in the forest*.
 
-!!! Tip "Assumption based on Classical Greek and Turkish"
+>[!TIP] Assumption based on Classical Greek and Turkish
+>The ongoing action referred to by the present continuous may have begun long before the moment of speaking, and an expression of duration is sometimes added:
+>
+>`Elessar ando cúnia`{.ncn} *Elessar has been a king for a long time*
+>
+>*Observe that Engl. here prefers a present perfect (continuous)*.
 
-	The ongoing action referred to by the present continuous may have begun long before the moment of speaking, and an expression of duration is sometimes added:
-	
-	`Elessar ando cúnia`{.ncn} *Elessar has been a king for a long time*
-	
-	*Observe that Engl. here prefers a present perfect (continuous)*.
-	
 The present is also frequently used with **states** which are true at the moment of speaking:
 
-+ `hísie untúpa Calaciryo míri oiale` [LotR/377]. *Mist covers the jewels of Calacirya forever*
-{: .exp}
-+ `sinan Elessar Aran séra Arkimbelesse` [MQ: PE22/125]. *At present King Elessar is at Rivendell*
-{: .exp}
-+ `enyasse Manwe hára` [MQ: PE22/125]. *There far away dwells Manwe*
-{: .exp}
+1. `hísie untúpa Calaciryo míri oiale` \[LotR/377\]. *Mist covers the jewels of Calacirya forever*
+2. `sinan Elessar Aran séra Arkimbelesse` \[MQ: PE22/125\]. *At present King Elessar is at Rivendell*
+3. `enyasse Manwe hára` \[MQ: PE22/125\]. *There far away dwells Manwe*
 
-!!! Note
-	*Observe that Engl. here prefers a present simple*.
+>[!NOTE]
+>*Observe that Engl. here prefers a present simple*.
 
-!!! Tip "Assumption based on Turkish"
+>[!TIP] Assumption based on Turkish
+>In this sense the present often competes with the aorist in describing the **observation of habitual actions** and **generalizations based on experience**, particularly if they're temporally bounded:
+>
+>+ `Uqua víria sina nóresse`{.ncn} *Nothing changes in this land*
+>+ `Farandor rémar úmea farnar si loa`{.ncn} *Hunters are catching plenty of game this year*
 
-	In this sense the present often competes with the aorist in describing the **observation of habitual actions** and **generalizations based on experience**, particularly if they're temporally bounded:
-	
-	+ `Uqua víria sina nóresse`{.ncn} *Nothing changes in this land*
-	{.exp}
-	+ `Farandor rémar úmea farnar si loa`{.ncn} *Hunters are catching plenty of game this year*
-	{.exp}
-	
 The present can also be used to denote a **bouletic future** with the sense of **immediate urgency**:
 
-+ `vá ménanye` [PE22/162]. *I am* ***not*** *coming (I say)*
-{: .exp}
-	
+1. `vá ménanye` \[PE22/162\]. *I am* ***not*** *coming (I say)*
+
 #### Specific Interpretations
 
 With **telic** verbs such as ???, the present stem may refer to an (unsuccessful) attempt, because it indicates that the end-point of the action has so far not been reached. This is called the **conative** interpretation of the present:
@@ -187,40 +178,29 @@ For the 'modal' use of the aorist (in counterfactual statements, unrealizable wi
 
 The aorist is used to refer to **repeated** or **habitual** actions:
 
-+ `Orome tauresse fara` *Orome hunts in forests* [MQ: PE22/116]
-{: .exp}
+1. `Orome tauresse fara` *Orome hunts in forests* \[MQ: PE22/116\]
 
 The aorist is used to refer to **general** or **timeless** truths which are continuously in effect:
 
-+ `imbi Menel Cemenye mene Ráno tie` [VT47/11]. *Between Heaven and Earth goes the path of the Moon*
-{: .exp}
+1. `imbi Menel Cemenye mene Ráno tie` \[VT47/11\]. *Between Heaven and Earth goes the path of the Moon*
 
 The aorist is also used in:
 
 + proverbs:
-	
+
 	+ `csaráre psare zúle` *longing frets the spirit*
-	{: .exp}
 
 + vivid present as in telling stories or jokes:
-	
+
 	+ `auta i·lóme` *the night is passing*
-	{: .exp}
-	
 	+ `laurie lantar lassi` *like gold fall the leaves*
-	{: .exp}
-	
 	+ `antanen hatal sena` *I cast a spear at him*
-	{: .exp}
-	
 	+ `zindanóriello caita mornie` *out of a grey country darkness lies*
-	{: .exp}
-	
+
 + common expressions:
-	
+
 	+ `mecin` *please*
-	{: .exp}
-	
+
 Verbs of **state of mind**, e.g. *know*, *believe*, *think*, *love*, express state that involves no change, and both the present and the aorist effectively carry the same aspectual meaning, could be considered nearly synonymous, and thus, could be interchangeably used to entail certain meanings:
 
 + `istanye·s` *I know it*
@@ -228,22 +208,22 @@ Verbs of **state of mind**, e.g. *know*, *believe*, *think*, *love*, express sta
 
 An aorist form of these verbs is certainly more common, however, particularly with quasi-modal verbs:
 
-+ `polin quetë` *I can speak* [[PE17/181]](https://eldamo.org/content/words/word-584272923.html)
+1. `polin quetë` *I can speak* [\[PE17/181\]](https://eldamo.org/content/words/word-584272923.html)
 
-!!! Tip
-	Where the aorist and the present are interchangeable, the aorist has a connotation of *characterization*, while the present that of *observation*.
+>[!TIP]
+>Where the aorist and the present are interchangeable, the aorist has a connotation of *characterization*, while the present that of *observation*.
 
 #### Specific Interpretations
 
 The aorist indicative of `tulë` *come* and similar verbs normally refers to the future:
 
-+ `ni qete sa e·tule` *I say that he is coming* [PE22/119]
+1. `ni qete sa e·tule` *I say that he is coming* \[PE22/119\]
 
 Observe that this does not normally hold for forms other than the aorist.
 
 In certain contexts, speakers can refer to a single action *begun and completed* at (approximately) the moment of speaking — the **instantaneous aorist**. A frequent context for this use is that of **performatives**, first-person indicatives which describe the speech act of which they are part (and thus refer to actions that are completed as soon as the utterance is completed):
 
-+ `la navin caritalyas mára` *I do not advise you to do so* [[PE22/154]](https://eldamo.org/content/words/word-2955623237.html)
+1. `la navin caritalyas mára` *I do not advise you to do so* [\[PE22/154\]](https://eldamo.org/content/words/word-2955623237.html)
 
 The instantaneous aorist also occurs, rarely, in 'simultaneous narration', i.e. when a speaker narrates a sequence of actions as they occurin the present. This in fact also occurs when speakers present actions in the past as if they occur in the present — the 'historical aorist'. This use is treated separately in @@.@@ (cf. also the 'aorist for the future', @@.@@).
 
@@ -261,19 +241,22 @@ The **perfect indicative** signifies that an action has been **completed in the 
 
 The following perfect functions are the most common:
 
-+ **resultative perfect** expresses a more or less **permanent state in the present** which exists as the result of a completed action in the past: *Mary has already arrived*<br>
-	`yéni avánier ve lintë yuldar` *years have passed away like swift draughts* [RGEO/58]
-+ **experiential perfect**: *I have never been to Paris*<br>
-	&rarr; **not attested** &rarr; **past aorist**
-+ **continuative perfect**: *Mary has lived in London for five years*<br>
-	&rarr; **not attested** &rarr; **present**
-+ **recent past perfect**: *The Orioles have just won*<br>
-	`ni·utúlie nyariello ve atarella` *I have just come from talking with your father [PE22/119]
++ **resultative perfect** expresses a more or less **permanent state in the present** which exists as the result of a completed action in the past: *Mary has already arrived*
+	+ `yéni avánier ve lintë yuldar` *years have passed away like swift draughts* \[RGEO/58\]
 
-!!! important "Assumption from Greek"
-	Especially with telic verbs, **active forms** of the perfect are often used to emphasize the **responsibility** of the subject for the state that has resulted from a past action (they are particularly frequent in oratory):
-	
-	EXAMPLE
++ **experiential perfect**: *I have never been to Paris*
+	+ &rarr; **not attested** &rarr; **past aorist**
+
++ **continuative perfect**: *Mary has lived in London for five years*
+	+ &rarr; **not attested** &rarr; **present**
+
++ **recent past perfect**: *The Orioles have just won*
+	+ `ni·utúlie nyariello ve atarella` *I have just come from talking with your father \[PE22/119\]
+
+>[!IMPORTANT] Assumption from Greek
+>Especially with telic verbs, **active forms** of the perfect are often used to emphasize the **responsibility** of the subject for the state that has resulted from a past action (they are particularly frequent in oratory):
+>
+>EXAMPLE
 
 ### Past Aorist
 
@@ -283,22 +266,22 @@ The past aorist is used very often in narrative texts (for details on its use th
 
 The aorist indicative is used to present the occurrence of an action in the past, without reference to its duration or process, but presenting the action asa single, uninterruptable whole. As such, the aorist is the default tense **in narrative texts** to record **single**, **complete actions**:
 
-+ `sustanë Manwëo súlë ten i indo Sindicollo ar he lastanë ar carnes` *the spirit of Manwe blew unto the heart of Thingol and he listened and did it* [NM/239]
+1. `sustanë Manwëo súlë ten i indo Sindicollo ar he lastanë ar carnes` *the spirit of Manwe blew unto the heart of Thingol and he listened and did it* \[NM/239\]
 
 In **non-narrative text**, the past aorist is typically used to observe or conclude that an action has been completed by the moment of speaking. This is sometimes called the **constative aorist**:
 
-+ `manen lambë Quendion ahyanë` *How did the language of the Elves change?* [PM/395]
+1. `manen lambë Quendion ahyanë` *How did the language of the Elves change?* \[PM/395\]
 
-!!! note
-	Like in Old English, Quenya aorist easily combines with temporal adverbs, including `sí` *now*. In such cases aorist translates to English with *present perfect*. Seemingly intechangeable, such constructions focus on the **action** itself, while perfect --- on the resulting **state**:
-	
-	+ `sí Varda ortanë máryat Oiolossëo` *for now Varda has lifted up her hands from Mount Everwhite* [RGEO/59]
+>[!NOTE]
+>Like in Old English, Quenya aorist easily combines with temporal adverbs, including `sí` *now*. In such cases aorist translates to English with *present perfect*. Seemingly intechangeable, such constructions focus on the **action** itself, while perfect --- on the resulting **state**:
+>
+>+ `sí Varda ortanë máryat Oiolossëo` *for now Varda has lifted up her hands from Mount Everwhite* \[RGEO/59\]
 
 ### Future
 
 The **future indicative** presents the realization of some action in the future as (virtually) certain (more so than, for example, the 'potential' optative, @@.@@). Depending on the context, the future indicative can be used for various communicative purposes, such as predictions, statements of intention, announcements, promises, threats, suggestions, etc.:
 
-`Anar caluva tielyanna` *The sun shall shine upon your path* [UT/22]
+1. `Anar caluva tielyanna` *The sun shall shine upon your path* \[UT/22\]
 
 ***
 
@@ -308,3 +291,5 @@ The **future indicative** presents the realization of some action in the future 
 + ["Semantics of the Turkish Non-Past" by Ryan Caro](https://ling.yale.edu/sites/default/files/files/alumni%20senior%20essays/CaroSeniorEssay.pdf)
 + "A cross-linguistic perspective on the Greek perfect" by Konstantinos Askitidis
 + "Synchronic variation in the Old English Perfect" by Morgan Macleod
+
+--8<-- "includes/abbreviations.md"

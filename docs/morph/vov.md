@@ -95,4 +95,3 @@
 |	|	aorist	|	present	|	preterite	|	imperfect	|	perfect	|	future	|
 |	---	|	---	|	---	|	---	|	---	|	---	|	---	|
 |	or-t	|	orta	|	ortya	|	oronte	|	ortane	|	orórie	|	ortuva	|
-	

@@ -7,13 +7,13 @@ Perfect stem is formed from a verb stem with either a zero- or lengthened-grade 
 + **zero-grade**: causative and derivative verbs;
 + **lengthened-grade**: basic verbs, a-verbs, u-verbs, and formative verbs.
 
-!!! warning "Exception"
-	Long verbs make their perfect tense stem with **short-grade** ablaut, see below.
-	
-!!! note "Reminder"
-	Derivative and causative conjugations have **only zero-grade** stem (&rarr;@@).
-	
-	Long conjugations have **no lengthened-grade** stem.
+>[!WARNING] Exception
+>Long verbs make their perfect tense stem with **short-grade** ablaut, see below.
+
+>[!NOTE] Reminder
+>Derivative and causative conjugations have **only zero-grade** stem (→@@).
+>
+>Long conjugations have **no lengthened-grade** stem.
 
 ### Thematic and Athematic Perfects
 
@@ -33,6 +33,9 @@ Tense endings are added after a theme vowel in thematic conjugations, or directl
 
 Examples (lengthened-grade ablaut stems and thematic vowels are highlighted):
 
+>[!ERROR]
+>+ [ ] etenguanie >> etenguie
+
 |		|	verb stem	| perfect tense stem	|
 |	---	|	---	|	---	|
 |	basic	|	cen-	|	e-**cén**-ie	|
@@ -45,8 +48,9 @@ Examples (lengthened-grade ablaut stems and thematic vowels are highlighted):
 |	causative (a)	|	tul-ya-	|	u-tul-y-*a*-nie	|
 |	causative (b)	|	tul-ta-	|	u-tul-t-*a*-nie	|
 
-!!! important "Late Tarquesta"
-	Since in lengthened-grade stems formatives (a) and (b) have essentially the same form, the alternative **short-grade** forms developped to distinguish them: `is-t-` > `isi-t-nie` > `isintie`.
-	
-!!! attention "To-Do"
-	Perfect from the preterite forms like *engie*, *lambie*, *alahtie*.
+>[!IMPORTANT] Late Tarquesta
+>Since in lengthened-grade stems formatives (a) and (b) have essentially the same form, the alternative **short-grade** forms developped to distinguish them: `is-t-` > `isi-t-nie` > `isintie`.
+
+>[!TLDR] To-Do
+>+ [ ] Perfect from the preterite forms like *engie*, *lambie*, *alahtie*.
+

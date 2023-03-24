@@ -45,10 +45,13 @@ markdown_extensions:
   - attr_list
   - pymdownx.details
   - pymdownx.snippets
+  - pymdownx.tasklist
 
 plugins:
     - search
     - macros
+    - callouts:
+        aliases: false
 
 extra_javascript:
   - js/extra.js

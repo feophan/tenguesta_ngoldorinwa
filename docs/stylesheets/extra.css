@@ -35,21 +35,13 @@ details ul {
 	margin-bottom: 12px !important;
 }
 
-/* Add counter to examples */
-h1 {
-  /* Set "my-sec-counter" to 0 */
-  counter-reset: ex-counter par-counter;
-}
-
 .ref::before {
-	counter-increment: par-counter;
 	content: attr(id) " ";
 	color: #2980B9;
 }
 
-.exp::before {
-	counter-increment: ex-counter;
-	content: "(" counter(ex-counter) ") ";
+li[id]::before {
+	content: "(" attr(id) ") ";
 	color: #2980B9;
 }
 
@@ -60,7 +52,7 @@ h1 {
 /* Add support for tengwar */
 @font-face {
   font-family: "tengwar";
-  src:  url('./font/TengwarAnnatarParmaquesta.ttf') format('truetype');
+  src:  url('./font/TengwarAnnatarCSUR.otf') format('opentype');
 }
 
 .tengwar {
@@ -117,15 +109,40 @@ h1 {
 	font-family: 'Font Awesome\ 5 Free';
 	content: "\f5da";
 	font-weight: 900;}
+.admonition.rule>.admonition-title:before {
+	font-family: 'Font Awesome\ 5 Free';
+	content: "\f5da";
+	font-weight: 900;}
 .admonition.error>.admonition-title:before {
 	font-family: 'Font Awesome\ 5 Free';
 	content: "\f017";
+	font-weight: 900;}
+.admonition.tldr>.admonition-title:before {
+	font-family: 'Font Awesome\ 5 Free';
+	content: "\f03a";
 	font-weight: 900;}	
 .admonition.quote>.admonition-title:before {
 	font-family: 'Font Awesome\ 5 Free';
 	content: "\f10d";
 	font-weight: 600;}
-	
+
+/* RULE ADMONITION */
+
+.admonition.rule {
+    background-color: #dbfaf4;
+}
+
+.admonition.rule>.admonition-title {
+    background-color: #1abc9c !important;
+}
+
+.admonition.rule>.admonition-title:before {
+	font-family: 'Font Awesome\ 5 Free';
+	content: "\f5da";
+	font-weight: 900;}
+
+/* QUOTE ADMONITION */
+
 .admonition.quote {
     background-color: hsla(0,0%,62%,.1);
 }

@@ -1,6 +1,6 @@
 # Nouns
 
-## First-Declension Nouns ## {: #fdn }
+## First-Declension Nouns {: id=fdn }
 
 ### Stems and Types of First-Declension Nouns
 
@@ -12,7 +12,7 @@ The following types of noun belong to the first declension:
 + **weak**: nouns with a *light penult*;
 + nouns in `-oa`.
 
-### Nouns in -a ### {: #fdna }
+### Nouns in -a {: id=fdna }
 
 Overview of forms:
 
@@ -40,8 +40,8 @@ Overview of forms:
 
 A few nouns of the first declension, like `erma` *matter*, have historically ended in a short ă-sound. Those belong to the **strong** declension.
 
-!!! note 
-	Nouns having in the last syllable `-ra` use *i-plural* instead of *r-plural*: `aura` *posession* &mdash; `aure` *possessions*.[^d12]
+>[!NOTE]
+>Nouns having in the last syllable `-ra` use *i-plural* instead of *r-plural*: `aura` *posession* &mdash; `aure` *possessions*.[^d12]
 
 ### Nouns in -o
 
@@ -69,10 +69,10 @@ Overview of forms:
 | `abl.`   	| ontamollo	| ontamollon 	|
 | `all.`   	| ontamonna	| ontamonnar 	|
 
-Many male names and agental nouns with suffixes `-mo`, `-ro` belong to the **weak** declension[^d13]: `Ulmo` &mdash; `Ulmóva`.
+Many male names and agental nouns with suffixes `-mo`, `-ro` belong to the **weak** declension[^d13]: `Ulmo` — `Ulmóva`.
 
-!!! note 
-	Nouns having in the last syllable `-ro` (especially unstable agental suffix) use *i-plural* instead of *r-plural*: `nostaro` *parent* &mdash; `nostari` *parents*.[^d12]
+>[!NOTE]
+>Nouns having in the last syllable `-ro` (especially unstable agental suffix) use *i-plural* instead of *r-plural*: `nostaro` *parent* &mdash; `nostari` *parents*.[^d12]
 
 ### Nouns in -oa
 
@@ -91,11 +91,11 @@ Overview of forms:
 | `all.`   	| coanna 	| coannar	 	|
 
 [^d11]: With alternative euphonic variant `-llor`. This is applicable to ablative plural in general.
-[^d12]: To avoid unpreferrable `rVr` sequence. Plural on `-e` is not controversial, appearing in [DN4], [DN5b], [DN5c], and generally agreeing with a behaviour of the final `-ai` in OP1 and plural adjectives. The situation with `-oi` is more obscure: [DN5] suggested `-oi > -o`, while [OP1] &mdash; `-oi# > -ui#` [PE19/66]. However, [PE19/63] indicates that `-ui# > -ue, -uvi`. Alternative of `-oi# > -i#` from [PE19/66] is also possible, thus making unstable `-r(o)` regular. The last choice is used here. 
-[^d13]: Such explanation for `Ulmóva` is given in [PE21/8].
-[^d14]: Supposedly, `kawā-ō > kawō > köo > kuo`. Alternative form `có` from `kawā-ō > koa-ō > köo > kō` has been proposed before, and both could coexist [PE21/40].
+[^d12]: To avoid unpreferrable `rVr` sequence. Plural on `-e` is not controversial, appearing in \[DN4\], \[DN5b\], \[DN5c\], and generally agreeing with a behaviour of the final `-ai` in OP1 and plural adjectives. The situation with `-oi` is more obscure: \[DN5\] suggested `-oi > -o`, while \[OP1\] &mdash; `-oi# > -ui#` \[PE19/66\]. However, \[PE19/63\] indicates that `-ui# > -ue, -uvi`. Alternative of `-oi# > -i#` from \[PE19/66\] is also possible, thus making unstable `-r(o)` regular. The last choice is used here. 
+[^d13]: Such explanation for `Ulmóva` is given in \[PE21/8\].
+[^d14]: Supposedly, `kawā-ō > kawō > köo > kuo`. Alternative form `có` from `kawā-ō > koa-ō > köo > kō` has been proposed before, and both could coexist \[PE21/40\].
 
-## Second-Declension Nouns ## {: #sdn }
+## Second-Declension Nouns {: id=sdn }
 
 ### Stems and Types of Second-Declension Nouns
 
@@ -107,7 +107,7 @@ The following types of noun belong to the second declension:
 + **strong** nouns in `-ye`: *disyllabic* or with a *heavy penult*;
 + their **weak** variants with a *light penult*.
 
-### Nouns in -e ### {: #nie }
+### Nouns in -e {: id=nie }
 
 Overview of forms:
 
@@ -137,10 +137,10 @@ Some nouns which have a diphthong in the root are **weak**: `huine` *gloom* &mda
 
 In some texts forms like `nasser` *natures*, `wenderon` *of maidens*, `lasseron` *of leaves* can be found. Those are literary and largely out of use.
 
-!!! note 
-	Some nouns in `-e` irregularly decline like nouns in `-ye`, particularly those ending in `-le`, `-ve` and `-tse`: `fintaler` *tricks*, `tyáver` *tastes*, `lotser` *flowers*.
+>[!NOTE]
+>Some nouns in `-e` irregularly decline like nouns in `-ye`, particularly those ending in `-le`, `-ve` and `-tse`: `fintaler` *tricks*, `tyáver` *tastes*, `lotser` *flowers*.
 
-### Nouns in -ye and -ie ### {: #nye }
+### Nouns in -ye and -ie {: id=nye }
 
 Overview of forms:
 
@@ -166,16 +166,16 @@ Overview of forms:
 | `abl.`   	| tyaliello	| tyaliellon 	|
 | `all.`   	| tyalienna	| tyaliennar 	|
 
-Disyllabic nouns in `-ie` are **strong**: `tie` *path* &mdash; `tieva`, etc.
+Disyllabic nouns in `-ie` are **strong**: `tie` *path* — `tieva`, etc.
 
-!!! note 
-	Abstract nouns can have epenthetic `-n-` in **common**, **genitive-partitive** and **dative**: `márie` *happiness* &mdash; `máriéno`, `máriéna`.
+>[!NOTE]
+>Abstract nouns can have epenthetic `-n-` in **common**, **genitive-partitive** and **dative**: `márie` *happiness* — `máriéno`, `máriéna`.
 
-[^d21]: Classically, `lassessen`, etc, as per PD. The change is first suggested in [DN5b], but supported by such later examples as `lúmissen` *at times*.
-[^d22]: Alternatively, `undumo`. The position of the stress is debatable, but here I follow [PE21/41] and mark atypical stress with a grave accent. On `undumo`, cf [3].
-[^d23]: Considering AQ plural `lassio` (from a regular change `ei-o > io`), I assume in agreement with [PE21/7] a singular form `lasso`. It is expected that genitive-partitive `-o` was originally replacing final vowels of the first and second declensions (thus we don't see `-uo` in nouns on `-o`), similar to dual `-u`. From this perspective I find early forms of DN4 and DN5 on `-yo` and `-io` fitting LQ paradigm. 
+[^d21]: Classically, `lassessen`, etc, as per PD. The change is first suggested in \[DN5b\], but supported by such later examples as `lúmissen` *at times*.
+[^d22]: Alternatively, `undumo`. The position of the stress is debatable, but here I follow \[PE21/41\] and mark atypical stress with a grave accent. On `undumo`, cf \[3\].
+[^d23]: Considering AQ plural `lassio` (from a regular change `ei-o > io`), I assume in agreement with \[PE21/7\] a singular form `lasso`. It is expected that genitive-partitive `-o` was originally replacing final vowels of the first and second declensions (thus we don't see `-uo` in nouns on `-o`), similar to dual `-u`. From this perspective I find early forms of DN4 and DN5 on `-yo` and `-io` fitting LQ paradigm. 
 [^d24]: In DN6 we find plural dative on `-ino`. This form seems to be its suitable update, taking long dative into account.
-[^d25]: `tyalièo` is attested in [PE17/72]. However, whether it was a fixed idea is debatable (particularly in having three vowels in hiatus, cf. the Note below), as well as what is its stress patern, is unclear.
+[^d25]: `tyalièo` is attested in \[PE17/72\]. However, whether it was a fixed idea is debatable (particularly in having three vowels in hiatus, cf. the Note below), as well as what is its stress patern, is unclear.
 [^d26]: Despite these plural forms being distinct in DN4 and DN5, `iei > iai` change seems to be solidly discarded, and syncretism is unavoidable.
 
 ## Third-Declension Nouns
@@ -242,14 +242,14 @@ Overview of forms:
 | `abl.`   	| luppullo	| luppullon 	|
 | `all.`   	| lupunna	| luppunnar 	|
 
-!!! note 
-	Weak nouns might have plural forms of the **first** declension: `macsö` *mire* &mdash; `macsor`.
+>[!NOTE]
+>Weak nouns might have plural forms of the **first** declension: `macsö` *mire* &mdash; `macsor`.
 
-!!! warning 
-	Words of this declension originally tend to be reanalyzed as belonging to the **first** and **second** declension respectively[^d32]: `taurisse` \> `tauresse`, `languen` \> `langon`. Use them consistently!
+>[!WARNING]
+>Words of this declension originally tend to be reanalyzed as belonging to the **first** and **second** declension respectively[^d32]: `taurisse` \> `tauresse`, `languen` \> `langon`. Use them consistently!
 
-[^d31]: Alternatively, `súrin`, `ruscun`, etc. Perhaps one of the most contentious positions of all the charts. On more detailed reasoning for this choice, see [TBD].
-[^d32]: First discussed in DN4, this is strongly supported by Tolkien's, most probably unintentional, change of historical forms: compare [PE21/76] and [PE17/92] for one instance. Instead of discarding semivocalic forms, here such instances are treated as later analogies and reinterpretations.  
+[^d31]: Alternatively, `súrin`, `ruscun`, etc. Perhaps one of the most contentious positions of all the charts. On more detailed reasoning for this choice, see \[TBD\].
+[^d32]: First discussed in DN4, this is strongly supported by Tolkien's, most probably unintentional, change of historical forms: compare \[PE21/76\] and \[PE17/92\] for one instance. Instead of discarding semivocalic forms, here such instances are treated as later analogies and reinterpretations.  
 
 ## Fourth-Declension Nouns
 
@@ -286,13 +286,13 @@ Overview of forms:
 | `abl.`   	| tárillo	| tárillon 		|
 | `all.`   	| tárinna   | tárinnar 		|
 
-!!! note 
-	Nouns in `-ru` have *i-plural*: `veru` *husband* --- `veruvi`, `veruion`.
+>[!NOTE]
+>Nouns in `-ru` have *i-plural*: `veru` *husband* — `veruvi`, `veruion`.
 
-!!! note 
-	Some nouns in `-i` permit *r-plural* genitive: `quendi` *woman* --- `quendir`, `quendíron`.
+>[!NOTE]
+>Some nouns in `-i` permit *r-plural* genitive: `quendi` *woman* — `quendir`, `quendíron`.
 
-[^d41]: Alternatively, `tárína`, but the same form can be used in singular. A disambiguation with plural epenthetic `-n` (`tárínan`) seems possible [cf TBD].  
+[^d41]: Alternatively, `tárína`, but the same form can be used in singular. A disambiguation with plural epenthetic `-n` (`tárínan`) seems possible \[cf TBD\].  
 
 ## Fifth-Declension Nouns
 
@@ -347,9 +347,9 @@ It is often impossible to derive the stem of a fifth-declension noun (and thus t
 4. if *common singular* ends in `-r`, the base might be `-rd`, `-rt`;
 5. if *common singular* ends in `-l`, the base might be `-ld`.
 
-!!! note 
-	In Late Quenya[^d53] final `-t` became `-s`, and subtypes (2) and (3) merged into one large group.
-	
+>[!NOTE]
+>In Late Quenya[^d53] final `-t` became `-s`, and subtypes (2) and (3) merged into one large group.
+
 #### Assimilated and Other Special Forms
 
 Nouns with simple bases have some distinct endings in the singular:
@@ -414,14 +414,13 @@ Overview of forms:
 | `abl.`   	| talallo	| talillon		|
 | `all.`   	| talanna 	| talinnar		|
 
-!!! warning
-	Nouns that *appear* monosyllabic in *common singular* might have a base with a cluster: `nís` *woman* &mdash; `nissi`, `tol` *island* &mdash; `tolli`. They follow the polysyllabic declension.
+>[!WARNING]
+>Nouns that *appear* monosyllabic in *common singular* might have a base with a cluster: `nís` *woman* &mdash; `nissi`, `tol` *island* &mdash; `tolli`. They follow the polysyllabic declension.
 
-!!! note
-	Sometimes **adverbial** cases allow two forms: short assimilated (`talse` *on foot*) or long proper (`talasse` *on foot*). The former are crystalized adverbs, and the latter are typically used with a *specific* noun. The difference might be vague at times.  
+>[!NOTE]
+>Sometimes **adverbial** cases allow two forms: short assimilated (`talse` *on foot*) or long proper (`talasse` *on foot*). The former are crystalized adverbs, and the latter are typically used with a *specific* noun. The difference might be vague at times.  
 
-
-[^d53]: At least post-Exile, but perhaps even limited to Gondorian usage [cf TBD]. 
+[^d53]: At least post-Exile, but perhaps even limited to Gondorian usage \[cf TBD\]. 
 [^d51]: Or `molmen`.
 [^d52]: Originally `molossen`. However, it is possible that the same time `lassessen > lassissen` change happened, consonantal declension did so as well. Here done to bridge with DN4 forms. 
 
@@ -447,8 +446,8 @@ The first group includes **monosyllabic** nouns that have a **stem ending in a v
 
 The second group includes nouns that **end in a consonant** in common case, but decline as **vocalic** nouns.
 
-!!! error
-	*nóre* declines as *tál* per PE17/106
+>[!ERROR]
+>*nóre* declines as *tál* per PE17/106
 
 | 			| nór[^d62]  	| *land*    	|
 |---------	|----------	|-----------	|
@@ -465,9 +464,4 @@ The second group includes nouns that **end in a consonant** in common case, but 
 [^d61]: Beside regular `foa`. 
 [^d62]: Beside regular `nóre`.
 
-*[PD]: Plotz Declension
-*[AQ]: Ancient Quenya
-*[LQ]: Late Quenya
-*[DN4]: Declension of Nouns v.4
-*[DN5]: Declension of Nouns v.5
-*[DN6]: Declension of Nouns v.6
+--8<-- "includes/abbreviations.md"

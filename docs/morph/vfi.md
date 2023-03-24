@@ -7,13 +7,13 @@ Present stem is formed from a verb stem with either a zero- or lengthened-grade 
 + **zero-grade**: causative, derivative, formative (b) verbs;
 + **lengthened-grade**: basic verbs, a-verbs, u-verbs, and formative (a) verbs.
 
-!!! warning "Exception"
-	Long verbs make their present tense stem with **short-grade** ablaut, see below.
-	
-!!! note "Reminder"
-	Derivative and causative conjugations have **only zero-grade** stem (&rarr;@@).
-	
-	Long conjugations have **no lengthened-grade** stem.
+>[!WARNING] Exception
+>Long verbs make their present tense stem with **short-grade** ablaut, see below.
+
+>[!NOTE] Reminder
+>Derivative and causative conjugations have **only zero-grade** stem (→@@).
+>
+>Long conjugations have **no lengthened-grade** stem.
 
 ### Thematic and Athematic Presents
 
@@ -22,8 +22,8 @@ Forms built on the present stem follow either a thematic or an athematic conjuga
 + **thematic** conjugation: derivative and causative verbs.
 + **athematic** conjugation: all other verbs.
 
-!!! important "Late Tarquesta"
-	Thematic conjugation eventually spread into the rest of secondary verbs, except u-verbs: `fára` > `fárea`, `talata` > `taltea`, `síria` > `sírea`, `istya` > `istea`.
+>[!IMPORTANT] Late Tarquesta
+>Thematic conjugation eventually spread into the rest of secondary verbs, except u-verbs: `fára` > `fárea`, `talata` > `taltea`, `síria` > `sírea`, `istya` > `istea`.
 
 ### Tense Endings
 

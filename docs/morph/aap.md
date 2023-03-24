@@ -1,6 +1,6 @@
 # Adjectives and Participles
 
-The adjectives agree with their head noun in number only (for exceptions, &rarr; @@). 
+The adjectives agree with their head noun in number only (for exceptions, → @@). 
 
 Overview of forms:
 
@@ -14,11 +14,11 @@ Overview of forms:
 
 When substantivized, they decline as respective nouns instead:
 
-+ I & IV adjectives &rArr; I nouns: *linte &rarr; lintar, laurie &rarr; laurear*;
-+ II & III adjectives &rArr; III nouns: *lungui &rarr; lungui, ninqui &rarr; ninqui*;
-+ V adjectives &rArr; V nouns: *melindi &rarr; melindi*.
++ I & IV adjectives → I nouns: *linte → lintar, laurie → laurear*;
++ II & III adjectives → III nouns: *lungui → lungui, ninqui → ninqui*;
++ V adjectives → V nouns: *melindi → melindi*.
 
-All participles decline as adjectives of **first declension**: *lórala &rarr; lórale, rúcina &rarr; rúcine*. For formation of participles, &rarr; @@.
+All participles decline as adjectives of **first declension**: *lórala → lórale, rúcina → rúcine*. For formation of participles, → @@.
 
 ## Participles
 
@@ -27,7 +27,7 @@ All participles decline as adjectives of **first declension**: *lórala &rarr; l
 |				|	active	|	passive	|
 |	----		|	----	|	----	|
 |	aorist I	|	cen-ya	|	cen-na	|
-|	aorist II	|	cen-i-la	|	*cen-i-na	|
+|	aorist II	|	cen-i-la	|	\*cen-i-na	|
 |	present		|	céna-la	|	céna-i-na	|
 |	past		|	cénié-la	|	cénie-nwa	|
 |	future		|	cenuva-i-la	|	cenuva-i-na	|
