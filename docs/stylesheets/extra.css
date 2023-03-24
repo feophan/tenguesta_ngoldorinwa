@@ -40,7 +40,7 @@ details ul {
 	color: #2980B9;
 }
 
-li[id]::before {
+li[id]:not([id^="fn:"])::before {
 	content: "(" attr(id) ") ";
 	color: #2980B9;
 }
