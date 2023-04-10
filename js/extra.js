@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-document.querySelector('.section').querySelectorAll(':scope > p').forEach(function(item, i) {
+document.querySelector('.section').querySelectorAll(':scope > p:not(:has(img))').forEach(function(item, i) {
 	$(item).attr('id', mkdocs_page_name.match(/^[0-9]+/)[0] + "." + parseInt(i + 1));
 	$(item).attr('class', 'ref');
 });
