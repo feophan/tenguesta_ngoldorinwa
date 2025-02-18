@@ -56,7 +56,8 @@ export default defineConfig({
             './src/styles/custom.css'],
         components: {
             // Override the default `SocialIcons` component.
-            Header: './src/components/extHeader.astro'
+            Header: './src/components/extHeader.astro',
+            MobileMenuFooter: './src/components/extMobileMenuFooter.astro'
           }
         }), svelte(), icon(), myScriptInjection()]
 });
