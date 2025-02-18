@@ -1,0 +1,48 @@
+---
+import Icon from './svg.astro';
+
+const asideVariants = ['quote'] as const;
+
+interface Props {
+	type?: (typeof asideVariants)[number];
+	title?: string;
+}
+
+let { type = 'note', title } = Astro.props;
+
+---
+
+<aside aria-label={title} class={`starlight-aside starlight-aside--${type}`}>
+	<p class="starlight-aside__title" aria-hidden="true">
+		<Icon icon={`aside/${type}`} />{title}
+	</p>
+	<div class="starlight-aside__content">
+		<slot />
+	</div>
+</aside>
+
+<style>
+   .starlight-aside--quote {
+    --sl-color-asides-text-accent: var(--sl-color-gray-2);
+    --sl-color-asides-border: var(--sl-color-gray-3);
+    background-color: var(--sl-color-gray-5);
+   }
+
+   .starlight-aside--todo {
+    --sl-color-asides-text-accent: var(--sl-color-orange-high);
+    --sl-color-asides-border: var(--sl-color-orange);
+    background-color: var(--sl-color-orange-low);
+   }
+
+   .starlight-aside--rule {
+    --sl-color-asides-text-accent: var(--sl-color-green-high);
+    --sl-color-asides-border: var(--sl-color-green);
+    background-color: var(--sl-color-green-low);
+   }
+
+   .starlight-aside--flame {
+    --sl-color-asides-text-accent: var(--sl-color-red-high);
+    --sl-color-asides-border: var(--sl-color-red);
+    background-color: var(--sl-color-red-low);
+   }
+</style>

@@ -1,0 +1,379 @@
+---
+title: Pronouns and Quantifiers
+ID: S.PRO
+lastUpdated: 2025-02-12
+---
+import { CH } from "../../../../assets/constants";
+import Warning from '../../../../components/Warning.astro';
+import Num from '../../../../components/paraNum.astro';
+import Tengwar from '../../../../components/teng.astro';
+import Icon from '../../../../components/svg.astro';
+import Aside from '../../../../components/newAside.astro';
+
+export const chapter = CH.S.PRO;
+
+<Warning type="req">This information is expected to be overhauled with PE23.</Warning>
+
+## Personal Pronouns
+
+### Accented and Non-Accented Personal Pronouns
+
+<Num index={chapter}/> Personal pronouns are used only pronominally (&rarr;26.22-3). They are either accented (**stressed** and **emphatic**) or non-accented (for details, &rarr;7.1-2): to an extent, this distinction corresponds to a contrastive and a non-contrastive function. When describing the subject, and no (contrastive) emphasis is needed, the personal endings of the verb suffice. The unaccented pronouns are then only used in **oblique cases**.
+
+1. <Tengwar tengwar="  ⸱  " latin="cé tulis, tanome nauvan"/> \[VT49/19\]. *If he comes, I will be there*. No emphasis on the subject.
+2. <Tengwar tengwar="    " latin="nai lye hiruva airea Amanar"/> \[AUCT-LET/1963-12-18\]. *May thee find a blessed Yule*. Unaccented pronoun in oblique case.
+
+<Num index={chapter}/> Contrast signals to a listener that the utterance should be taken as one of several alternatives. Depending on their importance, contrast might be **exhaustive** or **uncertain**.
+
+<Num index={chapter}/> **Exhaustive** is contrast where all relevant alternatives are covered, either explicitly in several clauses, or implicitly with entity present in the context:
+
+3. <Tengwar tengwar="  ⸱   " latin="inye túle, apa isse úne"/> \[&mdash;\]. ***I*** *came, but* ***HE*** *didn’t*. All other alternatives (e.g. me not coming, or him coming) are explicitly dismissed.
+4. <Tengwar tengwar="  " latin="nai elye hiruva"/> \[LotR/378\]. *Maybe* ***THOU*** *shalt find it*. Galadriel implicitly contrasts herself to Frodo, expecting never to come back to Valimar herself.
+
+<Num index={chapter}/> Alternatives of exhaustive contrast are generally mutually exclusive.
+
+<Num index={chapter}/> With an **uncertain** contrast the speaker is only making a claim about the referent of the pronoun and leaves it open whether this claim should or should not apply to the other referents relevant in the discourse:
+
+5. <Tengwar tengwar="  ⸱   " latin="cé tulis, ní nauva tanome"/> \[VT49/19\]. *If he comes,* ***I*** *will be there*. Whether anyone else will be there is left on the table.
+
+<Num index={chapter}/> Unlike alternatives of exhaustive contrast, here they don’t need to be exclusive.
+
+<Num index={chapter}/> Another factor is **focality**. Some of the typical cases include clefts, answers to wh-questions, comparative constructions, focus constructions, etc:
+
+6. <Tengwar tengwar="    " latin="melinye sé apa lá hé"/> \[VT49/15\]. *I love **HIM**, but not **HIM***. The answer to a question: '**Whom** do you love?'
+
+<Num index={chapter}/> Main purpose of an accented pronoun in such position is to *identify* a referent as one of several alternatives, or to *exhaust* the set by dismissing all other alternatives:
+
+7. <Tengwar tengwar="   " latin="aistana elye imíca nísi"/> \[VT43/28\]. *Blessed art* ***THOU*** *amongst women*. Exhaustive pronoun implies that only Mary is considered.
+
+:::tip
+The difference between stressed and emphatic pronouns then comes to differentiate between these two classes of contrast. Exhaustive contrast is denoted by emphatic pronouns, often appended in translation to English with *only* or *even*. Stressed pronouns are used then for weak, identifying contrast. However, this distinction does not always hold.
+:::
+
+### First and Second Person
+
+<Num index={chapter}/> First-person pronoun refers to a speaker, and in addition to number and accent distinguishes clusivity: listener can be either involved (**inclusive** 'we') or specifically excepted (**exclusive** 'we') from the context.
+
+|           	| unaccented 	| stressed 	| emphatic 	|
+|-----------	|------------	|----------	|----------	|
+| sg.       	| <Tengwar tengwar="" latin="ni"/> | <Tengwar tengwar="" latin="ní"/> | <Tengwar tengwar="" latin="inye"/> |
+| pl. incl. 	| <Tengwar tengwar="" latin="we"/> | <Tengwar tengwar="" latin="wé"/> | <Tengwar tengwar="" latin="elwe"/> |
+| pl. excl. 	| <Tengwar tengwar="" latin="me"/> | <Tengwar tengwar="" latin="mé"/> | <Tengwar tengwar="" latin="elme"/> |
+| d. incl.  	| <Tengwar tengwar="" latin="wet"/> | <Tengwar tengwar="" latin="wét"/> | <Tengwar tengwar="" latin="inque"/> |
+| d. excl.  	| <Tengwar tengwar="" latin="met"/> | <Tengwar tengwar="" latin="mét"/> | <Tengwar tengwar="" latin="emme"/> |
+
+<Num index={chapter}/> Second-person pronoun refers to a listener, and has different levels of formality:
+ 
+|           	| unaccented 	| stressed 	| emphatic 	|
+|-----------	|------------	|----------	|----------	|
+| sg. familiar 	| <Tengwar tengwar="" latin="tye"/> | <Tengwar tengwar="" latin="tyé"/> | <Tengwar tengwar="" latin="itye"/> |
+| sg. formal 	| <Tengwar tengwar="" latin="lye"/> | <Tengwar tengwar="" latin="lyé"/> | <Tengwar tengwar="" latin="elye"/> |
+| pl.		 	| <Tengwar tengwar="" latin="le"/> | <Tengwar tengwar="" latin="lé"/> | <Tengwar tengwar="" latin="elde"/> |
+| d.		  	| <Tengwar tengwar="" latin="lyet"/> | <Tengwar tengwar="" latin="lyét"/> | <Tengwar tengwar="" latin="este"/> |
+
+:::note
+In colloquial speech, particularly of Men, *plural exclusive* form was sometimes used for first person plural in general. This was considered incorrect by Noldor[^ppro2].
+
+Later, except for colloquial speech, familiar <Tengwar tengwar="" latin="tye"/> was eventually displaced by <Tengwar tengwar="" latin="lye"/>. To denote respect <Tengwar tengwar="" latin="tar"/> *sir, madam* could be used instead[^ppro3].
+:::
+
+<Aside type="todo" title="To-Do">
++ [ ] Add <Tengwar tengwar="⸱" latin="-tar"/> inflection.
+</Aside>
+
+### Third and Fourth Person
+
+<Num index={chapter}/> Third- and fourth-person pronouns refer to an entity other than a speaker or a listener. To alleviate the ambiguity between several actors within the same phrase, first actor is marked as third-person, and the following as fourth:
+
+8. <Tengwar tengwar="   ⸱   " latin="sé ringane hé, ar hé runce"/> \[modified VT49/15\]. *He struck **him**, and **he** fled*. There is no ambiguity, as there would be in English.
+
+<Num index={chapter}/> Third and fourth person distinguish **animate** and **inanimate** gender. Distinction is semantic: animates are noun capable to act on their own volition (including trees and plants), and inanimates are the rest (including abstract concepts).
+
++ third-person pronouns:
+
+|             	| unaccented 	| stressed 	| emphatic 	|
+|-------------	|------------	|----------	|----------	|
+| sg. anim.   	| <Tengwar tengwar="" latin="se"/> | <Tengwar tengwar="" latin="sé"/> | <Tengwar tengwar="" latin="isse"/> |
+| pl. anim.   	| <Tengwar tengwar="" latin="te"/> | <Tengwar tengwar="" latin="té"/> | <Tengwar tengwar="" latin="inte"/> |
+| sg. inanim. 	| <Tengwar tengwar="" latin="sa"/>  | <Tengwar tengwar="" latin="sá"/>  | <Tengwar tengwar="" latin="issa"/>  |
+| pl. inanim. 	| <Tengwar tengwar="" latin="ta"/>  | <Tengwar tengwar="" latin="tá"/>  | <Tengwar tengwar="" latin="inta"/>  |
+| d.          	| <Tengwar tengwar="" latin="tu"/> | <Tengwar tengwar="" latin="tú"/> | <Tengwar tengwar="" latin="itte"/>|
+
++ fourth-person pronouns (only singular):
+
+|             	| unaccented 	| stressed 	| emphatic 	|
+|-------------	|------------	|----------	|----------	|
+| sg. anim.   	| <Tengwar tengwar="" latin="hye"/> | <Tengwar tengwar="" latin="hé"/> | <Tengwar tengwar="" latin="ecse"/> |
+| sg. inanim. 	| <Tengwar tengwar="" latin="hya"/>  | <Tengwar tengwar="" latin="há"/>  | <Tengwar tengwar="" latin="ecsa"/>  |
+
+[^ppro2]: [PE17/130].
+[^ppro3]: [VT49/51].
+
+## Reflexive Pronouns and Other Reflexive Expressions
+
+### Introduction; Pronouns Used as Reflexives; Direct and Indirect Reflexives
+
+<Num index={chapter}/> **Reflexivity** is the phenomenon whereby a pronoun is used to 'reflect' (i.e. refer back or forwards to) another constituent of the sentence or clause, nearly always the subject:
+
+9. <Tengwar tengwar="     " latin="an cé mo querne immo númenna"/> \[draft VT49/6\]. *For if one turned oneself westward*.
+
+<Num index={chapter}/> A distinction is made between:
+
++ **direct reflexivity**: pronouns which refer back to an element within the same clause/construction;
++ **indirect reflexivity**: pronouns in a subordinate construction (subordinate clauses, infinitive or participle constructions), which refer back to an element in the main/matrix clause (for subordination, &rarr;39.2, 39.5):
+
+10. <Tengwar tengwar="  " latin="Elerondo quente insen"/> *Elrond said to himself*. Direct reflexive: <Tengwar tengwar="" latin="inse"/> is the indirect object of <Tengwar tengwar="" latin="quente"/>, and refers to its subject.
+11. <Tengwar tengwar="     " latin="Elerondo hlasse sa Elessar quente sen"/> *Elrond heard what Aragorn told him*. Indirect reflexive: <Tengwar tengwar="" latin="sen"/> refers back to the subject of <Tengwar tengwar="" latin="hlasse"/>, but syntactically is a part of the dependent clause.
+
+:::tip
+Like English, Quenya doesn't use reflexive pronouns with **introverted actions** unlike many other languages, preferring bare intransitive verbs. Typical extroverted verbs are transitive verbs like 'kill', 'hate', 'criticize', 'see', 'attack', and typical introverted verbs are verbs like 'wash', 'shave', 'dress', 'defend'.
+
+Some introverted actions might be expressed by the mediopassive voice, but only with certain verbs ('verbs of grooming', &rarr;35.11). Extroverted actions always require a pronoun.
+:::
+
+<Num index={chapter}/> The following pronouns are used in reflexive constructions:
+
++ the reflexive pronoun (<Tengwar tengwar="" latin="imne"/>, <Tengwar tengwar="" latin="imule"/>, <Tengwar tengwar="" latin="inse"/>, etc., &rarr;7.3);
++ (oblique cases of) the personal pronoun (<Tengwar tengwar="" latin="ni"/>, <Tengwar tengwar="" latin="lye"/>, <Tengwar tengwar="" latin="se"/>, etc., &rarr;7.2);
++ reflexive inflection.
+
+:::note
+A distinction should thus be maintained between 'reflexive pronouns' (a morphological category, referring to a specific type of pronoun, <Tengwar tengwar="" latin="inse"/>, etc.) and 'pronouns used in reflexive constructions' (a syntactic phenomenon). While reflexive pronouns always express reflexivity, reflexivity is not always necessarily marked by the use of a reflexive pronoun.
+:::
+
+<Aside type="todo" title="To-Do">
++ [ ] Go through PE22/94 in case there are some missed details.
+</Aside>
+
+### Pronouns Used as Direct and Indirect Reflexives
+
+#### Obviation
+
+<Num index={chapter}/> In many (or perhaps most) languages, nonsubject anaphoric personal pronouns are **obviative**, i.e. they cannot be coreferential with a coargument: 
+
+12. The dogs<sub>1</sub> bit them<sub>2/\*1</sub>.
+
+<Num index={chapter}/> Quenya, however, has three types of third person anaphoric pronouns: an obviative nonreflexive pronoun <Tengwar tengwar="" latin="hye"/>, a nonobviative nonreflexive pronun <Tengwar tengwar="" latin="se"/>, and a reflexive pronoun <Tengwar tengwar="" latin="inse"/>:[^refl2]
+
+13. <Tengwar tengwar="" latin="Zindacollo"/><sub>1</sub> <Tengwar tengwar="" latin="tatalla"/> <Tengwar tengwar="" latin="hye"/><sub>2</sub>/<Tengwar tengwar="" latin="se"/><sub>1/2</sub>/<Tengwar tengwar="" latin="inse"/><sub>1</sub>. *Thingol admires him*<sub>2</sub>/*him(self)*<sub>1/2</sub>/*himself*<sub>1</sub>.
+
+<Num index={chapter}/> Note how the use of <Tengwar tengwar="" latin="se"/> can be ambiguous.
+
+#### Direct Reflexivity
+
+<Num index={chapter}/> In the direct reflexive use, the **reflexive pronoun** is normally required, particularly for emphasis (&rarr;29.2-5) or to distinguish from reciprocal use of personal pronoun (&rarr;29.14).
+
+14. <Tengwar tengwar="   ⸱" latin="Arwen cenne inse i·cilintilasse"/> *Arwen saw herself in the mirror*. 
+
+<Num index={chapter}/> However, **personal pronouns** can be used as direct reflexives, especially in the first and second person, and in poetry much more freely than in prose.
+
+15. <Tengwar tengwar="⸱" latin="ni·cúven"/> *I hid myself*.
+
+<Num index={chapter}/> If the third person is **implicit**, verb receives a reflexive ending:
+
+16. <Tengwar tengwar="" latin="melisse"/> / <Tengwar tengwar="" latin="melitte"/> \[VT49/21\]. *He loves himself*/*they love themselves*.
+
+#### Indirect Reflexivity
+
+<Num index={chapter}/> In indirect reflexive context, the nonobviative nonrelexive pronouns are used (reflexive pronoun is **bound locally**):
+
+17. <Tengwar tengwar="         " latin="Arcimbelenna leltaniéla h·oraneltet roccor téna ta rimba ve cárima tulta"/> *They*<sub>1</sub> *sent to Rivendell and asked that they*<sub>2</sub> *send them*<sub>1/3</sub> *as many horses as possible*. <Tengwar tengwar="" latin="téna"/> refers back to the subject of <Tengwar tengwar="" latin="h·oraneltet"/> (1), though obviative interpretation (3) is possible. <Tengwar tengwar="" latin="inte"/> could only refer to the subject of infinitive clause (2).
+
+[^refl2]: The same system exists in Turkish.
+
+## Possessive Pronouns and Other Expressions of Possession
+
+<Num index={chapter}/> Quenya uses the following pronominal constructions to express possession, belonging,
+descent, origin, etc.:
+
++ possessive suffixes, &rarr;7.7;
++ possessive pronouns (<Tengwar tengwar="" latin="ninya"/>, <Tengwar tengwar="" latin="lelya"/>, <Tengwar tengwar="" latin="séva"/>, etc., &rarr;7.8).
+
+<Num index={chapter}/> Separate possessive pronouns may be used pronominally or adnominally. In the latter
+case, they are normally used for emphasis (&rarr;29.2-5), and in poetry much more freely than in prose:
+
+18. <Tengwar tengwar="   ⸱  ⸱ " latin="nan úye sére indo-ninya símen, ullume"/> \[LR/72\]. *But my heart resteth not here for ever*.
+19. <Tengwar tengwar="   " latin="ávatyara mello menye roctar"/> \[draft; VT43/11\]. *Forgive us our trespasses*.
+
+## Reciprocal Pronouns
+
+<Num index={chapter}/> The **reciprocal** construction expresses the idea that two or more persons are **simultaneously involved** in one and the same action, like English *each other*, *one another*.
+
+<Num index={chapter}/> Reciprocal actions can be expressed in Quenya by the preverb <Tengwar tengwar="⸱" latin="o·"/> *with* (e.g. <Tengwar tengwar="⸱" latin="o·mennente"/> *they met each other*), by the personal pronoun (<Tengwar tengwar=" " latin="te palpanente"/> *they hit each other*) and by the repetition of cognates:
+
+20. <Tengwar tengwar="  " latin="má sove má"/> *hands wash each other*.
+
+## Demonstrative Pronouns
+
+### Pointing Outside or Inside the Text
+
+<Num index={chapter}/> Demonstratives have a pointing or **deictic** function. They may either point to someone/thing in the world **outside the text**, or to a single word or larger segment of **the text itself**.
+
+21. <Tengwar tengwar="    " latin="Telperinquar Erciandello tence sine tenguar"/> \[translated; LotR/305\]. *Celebrimbor of Hollin drew these signs*. <Tengwar tengwar="" latin="sine"/> refers to the signs actually present on the door, &rarr; we might imagine Celebrimbor pointing at them.
+22. <Tengwar tengwar="   ⸱   " latin="lende tanna Nieliccelis, sana vende nieninquea"/> \[PE16/96\]. *Thither came little Niéle, that maiden like a snowdrop*. The pronoun refers to element in the text, anaphorically to Niéle.
+
+<Num index={chapter}/> When pointing outside of the text, demonstratives distinguish between proximal <Tengwar tengwar="" latin="sina"/> *this by me*, medial <Tengwar tengwar="" latin="tana"/> *that by you*, and distal <Tengwar tengwar="" latin="enta"/> *yonder*:
+
++ <Tengwar tengwar="" latin="sina"/> refers to something immediately near to the speaker (physically or mentally);
++ <Tengwar tengwar="" latin="tana"/> refers to something within the reach of the speaker and/or addressee (physically or mentally), but not specifically near to the speaker;
++ <Tengwar tengwar="" latin="enta"/> refers to something beyond the reach of the speaker and addressee (physically or mentally).
+
+<Num index={chapter}/> When a demonstrative refers to an element in the text itself it may refer backward to something introduced before (anaphoric use) or point forward in the text to something about to be introduced (cataphoric use):
+
++ <Tengwar tengwar="" latin="sina"/> or <Tengwar tengwar="" latin="enta"/> normally serve to announce something that will follow immediately, or refer to something prominent in the speaker's mind;
++ <Tengwar tengwar="" latin="sana"/> is used most often to refer to something mentioned previously;
++ to refer to something which has not been mentioned for a while (or to pick up something which was mentioned before a form of <Tengwar tengwar="" latin="sana"/> or <Tengwar tengwar="" latin="sina"/> 'intervened') a form of <Tengwar tengwar="" latin="yana"/> *former* must be used instead.
+
+### Further Particulars
+
+<Num index={chapter}/> Forms of demonstrative pronouns, adjectives or adverbs usually have short and long forms (&rarr;7.18). The long demonstrative nearly always carries heavier stress:
+
+23. <Tengwar tengwar="    ⸱ " latin="sinome maruvan ar hildinyar tenn' Ambarmetta"/> \[LotR/967\]. *In this place will I abide, and my heirs, unto the ending of the world*.
+24. <Tengwar tengwar="       " latin="umbe nin i hríve nauva urra si loa"/> \[PE22/168\]. *I have a feeling that winter will be bad this year*.
+
+## Sentential Pronouns
+
+<Warning type="req">Discarded, see [Argument](https://feophan.github.io/collectio-argumentorum/articles/sentential-pronoun/).</Warning>
+
+<Num index={chapter}/> While personal pronouns refer to specific words or noun phrases (or constructions operating as noun phrases), sometimes we might need to mention a larger segment of a conversation instead, a clause or a sequence of clauses. Alongside demonstrative pronouns, Quenya has two additional **sentential pronouns** for this case — subjective <Tengwar tengwar="" latin="ha"/> and objective <Tengwar tengwar="" latin="sa"/> (similar to <Tengwar tengwar="" latin="sana"/>, &rarr;29.14):
+
+25. <Tengwar tengwar="     ⸱  ⸱ " latin="yára Túro mante ilqua masta, ha mé·ne úmactale"/> \[PE22/119\]. *Old Turo ate all the bread, that was a nuisance to us*. Pronoun <Tengwar tengwar="" latin="ha"/> means 'the fact that old Turo ate all the bread'.
+26. <Tengwar tengwar="     : ⸱  " latin="yára Túro mante ilqua masta. Mé·láner fasta sa"/> \[modified; PE22/119\]. *Old Turo ate all the bread. We were not pleased with that*. Pronoun <Tengwar tengwar="" latin="sa"/> means 'the fact that old Turo ate all the bread'.
+
+## Indefinite Pronouns
+
+<Num index={chapter}/> The indefinite pronouns refer to someone or something that is not immediately identifiable. They can appear in the varying contexts, some of which include:
+
++ When **the speaker does not wish to reveal**, or pay attention to, the identity of a specific individual:
+
+	27. <Tengwar tengwar="  ⸱  " latin="námo tule, intya man"/> *Someone came, guess who*.
+
++ When referring to individuals whose specific identity is **unknown** or **irrelevant**:
+
+	28. <Tengwar tengwar="  ⸱    " latin="hlassen ma, mal ú istan manima"/> *I heard something, but I don't know of what sort*.
+
++ When referring to something **non-specific** or **non-existing**:
+
+	29. <Tengwar tengwar="   ⸱ " latin="neve ma h·ecsa, mecin"/> *Please, try something else*[^inf2].
+
++ In **comparison**, **condition** and **possibility**:
+
+	30. <Tengwar tengwar="   " latin="náse halda lá aiquen"/> *He is taller than anyone*;
+	31. <Tengwar tengwar="   ⸱  " latin="cé cenil aiquen, quetá nin"/> *Shall you see anyone, tell me*;
+	32. <Tengwar tengwar="  " latin="lertal mique aiquen"/> *You may kiss anyone*.
+
++ In **negation** and **polar question**:
+
+	33. <Tengwar tengwar="  " latin="ú cennen úquen"/> *I haven't seen anyone*;
+	34. <Tengwar tengwar="    " latin="ú novin i úquen tuluva"/> *I don't think anyone will come*;
+	35. <Tengwar tengwar="     ⸱ " latin="ma úquen quente lyen úqua pá·sa?"/> *Has anyone told you anything about that?*
+
+<Num index={chapter}/> The summary of these functions is shown on the chart:
+
+<Icon icon="figures/indef_pron" />
+
+*Figure {chapter}.1: Implication map: indefinite pronouns of Quenya*
+
+<Num index={chapter}/> There are also groups of indefinite adjectives and adverbs which form related series with indefinite pronouns (&rarr;7.14). Their functions are crudely summarized in the table:
+
+|          	| na-series 	| bare 	| m-series 	| ai/qui-series	| ú-series 	|
+|----------	|-----------	|------	|----------	|-----------	|----------	|
+| person   	| <Tengwar tengwar="" latin="námo"/>[^inf3]	| <Tengwar tengwar="" latin="quen"/> | <Tengwar tengwar="" latin="mo"/> | <Tengwar tengwar="" latin="aiquen"/>	 | <Tengwar tengwar="" latin="úquen"/> |
+| thing    	| <Tengwar tengwar="" latin="nat"/>       	| <Tengwar tengwar="" latin="qua"/>  	 | <Tengwar tengwar="" latin="ma"/>  | <Tengwar tengwar="" latin="aiqua"/>		| <Tengwar tengwar="" latin="úqua"/>   	|
+| location 	| <Tengwar tengwar="" latin="nanome"/>    	| <Tengwar tengwar="" latin="nome"/> | &mdash; 							  | <Tengwar tengwar="" latin="quinome"/> | <Tengwar tengwar="" latin="únome"/>	|
+| time     	| <Tengwar tengwar="" latin="nalume"/>    	| <Tengwar tengwar="" latin="lume"/> | &mdash; 							  | <Tengwar tengwar="" latin="quie"/>	    | <Tengwar tengwar="" latin="úlume"/>	|
+
+[^inf2]: <Tengwar tengwar="" latin="&apos;ecsa"/> *else* from `√HEK` > `hekra`, cf. EQ. `varya`, MQ `micsa`.
+[^inf3]: <Tengwar tengwar="" latin="eo"/> in the chart is archaic.
+
+## Generic Pronouns
+
+<Num index={chapter}/> The pronoun <Tengwar tengwar="" latin="mo"/> is used as a **generic pronoun** in:
+
++ generalized statements of speaker’s experiences and expectations:
+
+	36. <Tengwar tengwar="     " latin="matie telumbi sine cé nace mo"/> *One can die from eating these mushrooms*.
+
++ advises and instructions which should affect the listener's practical reasoning:
+
+	37. <Tengwar tengwar="       " latin="alasaila ná lá care tai mo nave mára"/> \[PE22/154\]. *It is unwise not to do what one judges good*.
+
++ putting a speaker into the other person's situation in conditional statement:
+
+	38. <Tengwar tengwar="     ⸱ ⸱  " latin="cé mo querne cendele númenna, i·hyarma tentane Melcorello"/> \[VT49/8\]. *If one turned the face westward, the left hand pointed away from Melkor*.
+
++ in sayings and aphorisms:
+
+	39. <Tengwar tengwar="    " latin="mo ú coita rie massenen"/> *You cannot live on bread alone*.
+
+:::note
+On impersonal constructions of exclusive generic statement (cf. E. *they*), &rarr;36.14. In colloquial speech <Tengwar tengwar="" latin="mo"/> can generally be replaced with inclusive 'we'.
+:::
+
+:::caution[Assumption]
+The generic pronoun <Tengwar tengwar="" latin="ma"/> *one, thing* can be used as a generic *they* when referring to classes of things:
+
+40. <Tengwar tengwar="       " latin="moa nin cirma; masse hepilye ma?"/> *I need a knife. Where do you keep them?*
+:::
+
+## Interrogative Pronouns
+
+<Num index={chapter}/> For the use of interrogative pronouns <Tengwar tengwar="" latin="man"/> *who?*, <Tengwar tengwar="" latin="mana"/> *what?* in direct and indirect questions, &rarr;38.11-14 and 42.5-6.
+
+## Relative Pronouns
+
+<Num index={chapter}/> For the use of relative pronouns, &rarr;50.8-16.
+
+## Quantifiers
+
+#### ilya
+
+<Num index={chapter}/> The quantifier <Tengwar tengwar="" latin="ilya"/> in the singular means *each, every*. In the plural, it means *all*:
+
+41. <Tengwar tengwar=" " latin="ilya osto"/> *each/every city* (sometimes: *an entire city*)
+42. <Tengwar tengwar=" " latin="ilye ostor"/> *all the cities*
+
+The corresponding **universal pronouns** are <Tengwar tengwar="" latin="ilquen"/> *everyone* and <Tengwar tengwar="" latin="illi"/> *all*. 
+
+#### quana
+
+<Num index={chapter}/> The quantifier <Tengwar tengwar="" latin="quana"/>[^qua1] means *whole, entire*:
+
+43. <Tengwar tengwar="  " latin="tirá quana tama"/> *Look at the entire matter*.
+
+#### er
+
+<Num index={chapter}/> <Tengwar tengwar="" latin="er"/> means *by itself, alone, the only*:
+
+44. <Tengwar tengwar="    ⸱" latin="er hinyan na anta i·ríe"/> *To my only child shall be given a crown*.
+
+#### enta and hyana
+
+<Num index={chapter}/> The basic meaning of <Tengwar tengwar="" latin="enta"/> is *other (out of many)*, stressing **similarity**. The basic meaning of <Tengwar tengwar="" latin="hyana"/> is *other (than something else)*, stressing **difference**:
+
+45. <Tengwar tengwar="   " latin="ólamar ar ente lámar"/> *consonants and other sounds*;
+46. <Tengwar tengwar="    " latin="ólamar hyane lámar lá ómar"/> *consonants are different sounds than vowels*.
+
+### Indefinite Marker as Quantifier
+
+<Num index={chapter}/> In many cases the indefinite marker (&rarr;4.7) can be translated to English with quantifier *some*. When it stands with the article it means *many*:
+
+47. <Tengwar tengwar="⸱  " latin="i·falmalinnar imbe met"/> \[LotR/377\]. *Upon the many foaming waves between us two*.
+
+When modified by a quantifier <Tengwar tengwar="" latin="nótima"/> it means *(a) few*:
+
+48. <Tengwar tengwar="  " latin="cennen nótime eldali"/> \[PE22/155\]. *I saw a few Elves*.
+
+[^qua1]: NQ from `√KWA` 'complete, all, whole'.
+
+---
+
+## Sources
+
++ ["Contrastive Pronouns in Null Subject Romance Languages" by Laia Mayol](https://repositori.upf.edu/bitstream/handle/10230/33941/mayol_lingua_contrastive.pdf?sequence=1&isAllowed=y).
++ ["Comparing reflexive constructions in the world's languages" by Martin Haspelmath](https://zenodo.org/record/3354081).
++ ["A Frequentist Explanation of Some Universals of Reflexive Marking" by Martin Haspelmath](https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/article/331?htmlAlways=yes)
++ ["Local and long-distance reflexives in Turkish" by Jaklin Kornfilt](https://www.researchgate.net/publication/235265930_Local_and_long-distance_reflexives_in_Turkish).
++ "Indefinite Pronouns" by Martin Haspelmath.
+
+---

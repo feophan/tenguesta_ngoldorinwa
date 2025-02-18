@@ -1,0 +1,15 @@
+---
+export interface Props {
+  index: string;
+}
+
+const { index } = Astro.props as Props;
+---
+
+<a class="paragraph" style={`--chapter-number: ${index};`}/>
+
+<style>
+  a {
+      color: #2980B9;
+  }
+</style>

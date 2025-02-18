@@ -1,0 +1,155 @@
+---
+title: Accentuation
+ID: P.ACC
+lastUpdated: 2025-02-09
+---
+import { CH } from "../../../../assets/constants";
+import Tengwar from '../../../../components/teng.astro';
+import Icon from '../../../../components/svg.astro';
+import Num from '../../../../components/paraNum.astro';
+import Aside from '../../../../components/newAside.astro';
+
+export const chapter = CH.P.ACC;
+
+<Num index={chapter}/> Quenya accent is pitch-dynamic: the stressed syllable is pronounced louder and with higher pitch. It is limited (can only occur in specific positions) and is not lexical: the accent doesn't differentiate words like it does in English or Spanish.
+
+## General Rule of Accentuation
+
+### Possible Positions of the Accent; 'Long' and 'Short' Syllables
+
+<Num index={chapter}/> The main accent can only normally fall on one of the two syllables of a word:
+
++ the **penult**: the second-to-last syllable of a word (*x-**x**-x*);
++ the **antepenult**: the third-to-last syllable of a word (***x**-x-x*).
+
+<Num index={chapter}/> Accentuation is determined strongly by the length of the penult syllable of a word. For the purposes of accentuation:
+
++ a syllable is long if it is closed, or contains a long vowel or a diphthong;
++ a syllable is short if it is open and contains a short vowel.
+
+:::note
+Such pairs as *ty, qu, hy, hw* can be considered as a single or a double consonant for this purpose (&rarr; [PE19/60](../../reference/digraph-weight/)).
+:::
+
+<Num index={chapter}/> For vowel quantity (long/short), &rarr; [{CH.P.SOU}.7](../the-sounds/#phonetic-details).
+
+### Penultimate Law
+
+<Aside type="rule" title="Rule 1">
+The regular main stress falls on a **second mora** from the end, not counting the last syllable.
+</Aside>
+
+<Num index={chapter}/> If the antepenult is long, it takes two morae:
+
++ closed syllable: <Tengwar tengwar="" latin="lótesse"/> — *lo-o-\[t-**e**<sub>2</sub>-s<sub>1</sub>\]-se*
++ long vowel: <Tengwar tengwar="" latin="untúpa"/> — *un-\[t-**u**<sub>2</sub>-u<sub>1</sub>\]-pa*
++ diphthong: <Tengwar tengwar="" latin="alasaila"/> — *a-la-\[s-**a**<sub>2</sub>-i<sub>1</sub>\]-la*
+
+<Num index={chapter}/> If the antepenult is short, it takes one mora:
+
++ <Tengwar tengwar="" latin="termaruva"/> — *ter-\[**ma**<sub>2</sub>-ru<sub>1</sub>\]-va*
+
+<Num index={chapter}/> Consequently, in words of one or two syllables the stress is always prototonic:
+
++ <Tengwar tengwar="" latin="elen"/> — *\[**e**<sub>1</sub>\]-len*, <Tengwar tengwar="" latin="vala"/> — *\[**va**<sub>1</sub>\]-la*, <Tengwar tengwar="" latin="óre"/> — *\[**o**<sub>2</sub>-o<sub>1</sub>\]-re*
+
+#### Exceptions
+
+:::caution[Exception 1]
+A word was stressed on the last syllable if it was:
++ a verb in imperative (&rarr; [PE22/139](../../reference/stress-rules/#exception-1)): <Tengwar tengwar="" latin="quetá"/> — *kwe-'**ta***
++ a functor on <Tengwar tengwar="⸱" latin="-ai"/>: <Tengwar tengwar="" latin="cenai"/> — *ke-'**naj***
+:::
+
+:::caution[Exception 2]
+If by Rule 1 the stress should fall on a **first vowel of hiatus**, the stress shifts forward (&rarr; [PE12/26](../../reference/stress-rules/#exception-2)):
++ <Tengwar tengwar="" latin="Lómeanor"/> — *'lo-**o**<sub>3</sub>-\[me<sub>2</sub>-a<sub>1</sub>\]-'nor*
++ But naturally it didn't happen if the syllable was already initial: <Tengwar tengwar="" latin="tie"/> — *'**ti**<sub>1</sub>-e*
+:::
+
+:::caution[Exception 3]
+Weak nouns of second declension keep their stress pattern despite the lack of [rhythmic lengthening](#rhythmic-lengthening) (&rarr; [PE21/41](../../reference/stress-rules/#exception-3)):
++ <Tengwar tengwar="" latin="Orome"/> — *\['**o**<sub>2</sub>-ro<sub>1</sub>\]-ˌme*; <Tengwar tengwar="" latin="Oromèo"/> — *'o-\[ro<sub>2</sub>-'**me**<sub>1</sub>\]-o*
+:::
+
+:::caution[Exception 4]
+Certain **prefixes** don't take on stress (&rarr; [PE19/64](../../reference/stress-rules/#exception-4)):
++ <Tengwar tengwar="" latin="ovèa"/> — *o-\['**ve**<sub>1</sub>\]-a*
+:::
+
+:::caution[Exception 5]
+Recognized compounds kept independent stress position (&rarr; [XI/407](../../reference/stress-rules/#exception-5)):
++ <Tengwar tengwar="" latin="losselie"/> — *los-se-\['**li**<sub>1</sub>\]-e* (not *los-\['**se**<sub>2</sub>-li<sub>1</sub>\]-e*)
+:::
+
+### Secondary Stress
+
+<Aside type="rule" title="Rule 2">
+The **secondary** stress is placed on **alternate** syllables in either direction from the main stress (&rarr; [PE19/57](../../reference/stress-rules/#rule-2)).
+
++ <Tengwar tengwar="" latin="Calaciryanen"/> — *ˌ**ca**-la-'**cir**-ya-ˌ**nen***
+</Aside>
+
+<Aside type="rule" title="Rule 3">
+Initial syllable received secondary stress (&rarr; [RGEO/60](../../reference/stress-rules/#rule-3--exception-7)):
+
++ <Tengwar tengwar="" latin="ómaryo"/> — *ˌ**o**-o-'**mar**-yo*
+</Aside>
+
+<Aside type="rule" title="Rule 4">
+Secondary stress that precedes the main stress and is separated from it by one or more syllables and is on either a) initial or b) long syllable is **strong** (&rarr; [PE19/60](../../reference/stress-rules/#rule-4)).
+
++ <Tengwar tengwar="" latin="oromardi"/> — *'**o**-ro-'**mar**-di*
+</Aside>
+
+#### Exceptions 
+
+:::caution[Exception 6]
+The long syllable or initial syllable attracted secondary stress if they were separated from the main stress (&rarr; [PE19/58](../../reference/stress-rules/#exception-6)):
+
++ <Tengwar tengwar="" latin="andafalasse"/> — *'**an**-da-fa-\['**la**<sub>2</sub>-s<sub>1</sub>\]-se* (**not** *an-**da**-fa-**las**-se* as per **Rule 2**)
+:::
+
+:::caution[Exception 7]
+If the initial syllable was light and immediately preceded the main stress, it lost its accent (&rarr; [RGEO/60](../../reference/stress-rules/#rule-3--exception-7)):
+
++ <Tengwar tengwar="" latin="namárie"/> — *na-\['ma-**a**<sub>2</sub>-ri<sub>1</sub>\]-e*
+:::
+
+## Rhythmic Lengthening
+
+<Num index={chapter}/> After historic stress shift (@@), the Quenya accent got fixed. As a result, in some inflections to preserve the prosodic pattern, the vowel bearing the secondary accent lengthened and took the main accent instead:
+
++ *I'lúvaˌtar — I'lúva'táro* (not \**'Ilú'vataˌro*)
++ *'máriˌe — 'mári'éno* (not \**ˌmá'rieˌno*)
++ *'tuluˌva — 'tulu'váse* (not \**tu'luvaˌse*)
+
+<Num index={chapter}/> The only notable exception to this is genitive of paroxytone words in partitive plural (@@). By *Exception 2*, the main accent shifts forward from *li*:
+
++ *'mali'norne — 'mali'norneˌli — 'malinor'néliˌon* or *'malinor'neliˌon* (not \**'maliˌnorne'líon*)
+
+<Num index={chapter}/> In that case, the lengthened vowel would be stressed even by the general rule. Colloquially, it shortened:
+
++ *'vaniˌma — 'vani'máliˌon* or *'vani'maliˌon*
+
+## Pitch and Intonation
+
+<Num index={chapter}/> Pitch is used to distinguish forms at utterance level only, and not to distinguish lexical items. In utterances of the phonological word pitch may distinguish different functions. In isolation, the main stress is always marked with a high tone. The secondary stress was lower, when equally strong, and low otherwise (&rarr; [RGEO/60](../../reference/intonation/#tone)):
+
++ *fal˦-ma˧-lin˥-nar˧*
++ *an˩-\[du-u\]˥-ne˧*
+
+<Num index={chapter}/> A statement is uttered with a lowering in pitch on its final part (the last word or phrase in the case of long utterance), and a question with a rising pitch (&rarr; [PE22/160](../../reference/intonation/#intonation-in-questions)). In neutral statements the pitch rises until the main stress and then drops, with an overall ascending-falling movement (see Fig. {chapter}.1-2).
+
+<Icon icon="figures/pitch_neutral" />
+*Figure {chapter}.1: Pitch contour of a neutral phrase from the recording of Namárie*
+
+<Icon icon="figures/pitch_neutral_end" />
+*Figure {chapter}.2: Pitch contour of a neutral phrase from the recording of Namárie, showing L% boundary*
+
+<Num index={chapter}/> Emphasis on an element (a phonologicla word or phrase) is signalled by an ascending pitch on that element (see Fig. {chapter}.3, &rarr; [PE22/161](../../reference/intonation/#intonation-on-emphatic-elements))
+
+<Icon icon="figures/pitch_emphatic" />
+*Figure {chapter}.3: Pitch contour of emphatic phrase from the recording of Namárie*
+
+---

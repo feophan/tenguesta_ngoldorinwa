@@ -1,0 +1,10 @@
+---
+export interface Props {
+  href: string;
+}
+
+const { href } = Astro.props as Props;
+
+---
+
+{Object.keys(Astro.slots).length != 0 ? (<Fragment>&rarr;<a href={href}><slot/></a></Fragment>) : (<Fragment>&rarr;<a href={`#${href}`}>{href}</a></Fragment>)}

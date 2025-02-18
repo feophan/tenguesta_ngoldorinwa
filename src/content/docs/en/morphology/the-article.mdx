@@ -1,0 +1,40 @@
+---
+title: The Article
+ID: M.ART
+lastUpdated: 2025-02-09
+---
+
+import Tengwar from '../../../../components/teng.astro';
+import { CH } from "../../../../assets/constants";
+import Num from '../../../../components/paraNum.astro';
+import Aside from '../../../../components/newAside.astro';
+
+export const chapter = CH.M.ART;
+
+<Num index={chapter}/> For the meanings and uses of the article, →[{CH.S.ART}](../../syntax/the-article/). The article is invariant for case, number or gender, and only changes to suit the phonetic environment. The forms are as follows:
+
+|	|	comment	|
+|	----	|	----	|
+|	*i*	|	before a consonant	|
+|	*j*	|	before an open vowel	|
+|	*ij*	|	before *e*	|
+|	*in*	|	before *e*, *i*	|
+|	*'n*	|	after *-e*, *-i*, *-ie*	|
+
+<Num index={chapter}/> Examples:
+
++ <Tengwar tengwar=" ⸱" latin="Indis i·Ciryamo"/> — syllabic *i* between two consonants; 
++ <Tengwar tengwar=" ⸱" latin="auta i·lómë"/> — syllabic *i* after a vowel and before a consonant;
++ <Tengwar tengwar=" ⸱" latin="sac' i·fende"/> — syllabic *i* after *ë* and before a consonant;
++ <Tengwar tengwar="  ⸱ " latin="lírinen ómo j·aire táríva"/> — asyllabic *j* between two open vowels;
++ <Tengwar tengwar="  ⸱" latin="yassen tintilar ij·eleni"/> — epenthetic *j* before *e*;
++ <Tengwar tengwar=" ⸱" latin="coimas in Eldaron"/> — epenthetic *n* before *e*;
++ <Tengwar tengwar="  " latin="utúlie 'n·aure"/> — epenthetic *'n* after *ie*.
+
+:::note
+It is common not to spell epenthetic consonants, having *i* in every environment: <Tengwar tengwar="⸱" latin="i·indo"/>.
+:::
+
+<Num index={chapter}/> The forms of the article are prepositive (→ @@). For the purpose of accentuation they count as proclitics (→[{CH.P.ACC}](../../phonology/accentuation/#exceptions)).
+
+<Aside type="todo" title="To-Do">Add *ina* from PE23.</Aside>

@@ -1,0 +1,45 @@
+---
+export interface Props {
+  tengwar: string;
+  latin: string;
+  isRed?: boolean;
+  color?: string;
+}
+
+const { tengwar, latin, isRed = false, color} = Astro.props as Props;
+---
+
+<Fragment>
+  <span class:list={['tengwar', 'tengwar-ex', { 'red': isRed }, color && `color-${color}`]}>{tengwar}</span>
+  <span class:list={['latin-ex', { 'red': isRed }, color && `color-${color}`]}>{latin}</span>
+</Fragment>
+
+<style>
+.latin-ex {
+    font-style: italic;
+    color: var(--sl-color-text-accent);
+}
+
+.tengwar-ex {
+    color: var(--sl-color-text-accent);
+}
+
+body:not(.tengwar-active) .tengwar-ex {
+    display: none;
+}
+
+body.tengwar-active .latin-ex {
+    display: none;
+}
+.red {
+    color: var(--sl-color-red);
+}
+
+.color-red {
+    color: var(--sl-color-red);
+}
+
+.color-orange {
+    color: var(--sl-color-orange);
+}
+</style>

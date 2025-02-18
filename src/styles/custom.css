@@ -1,0 +1,27 @@
+@font-face {
+	font-family: "tengwar";
+	src:  url('/fonts/TengwarAnnatarCSUR.otf') format('opentype');
+}
+  
+.tengwar {
+	font-family: 'tengwar';
+	font-style: normal !important;
+	border-bottom: none !important;
+	line-height: 0px;
+}
+
+@media (prefers-color-scheme: dark) {
+	.light-mode-only {
+		display: none;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	.dark-mode-only {
+		display: none;
+	}
+}
+
+  .paragraph::before {
+	content: attr(id);
+  }

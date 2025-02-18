@@ -1,9 +1,0 @@
-# On Palatalization of L
-
->[!QUOTE] PE22/65 (2)
->**l** is normal between vowels and initially; but is slightly palatalized before *y*, and between *i* and a following consonant.
-
->[!QUOTE] LotR AppE
->It was, however, to some degree 'palatalized' between *e, i* and a consonant, or finally after *e, i*.
-
---8<-- "includes/abbreviations.md"

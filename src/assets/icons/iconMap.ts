@@ -1,0 +1,15 @@
+export const iconMap: Record<string, string> = {
+    "aside/todo": await import("./aside/todo.svg?raw").then((m) => m.default),
+    "aside/rule": await import("./aside/rule.svg?raw").then((m) => m.default),
+    "aside/quote": await import("./aside/quote.svg?raw").then((m) => m.default),
+    "aside/flame": await import("./aside/flame.svg?raw").then((m) => m.default),
+    "figures/allative": await import("./figures/allative.svg?raw").then((m) => m.default),
+    "figures/assumed_IPA": await import("./figures/assumed_IPA.svg?raw").then((m) => m.default),
+    "figures/dative": await import("./figures/dative.svg?raw").then((m) => m.default),
+    "figures/indef_pron": await import("./figures/indef_pron.svg?raw").then((m) => m.default),
+    "figures/instrumental": await import("./figures/instrumental.svg?raw").then((m) => m.default),
+    "figures/pitch_emphatic": await import("./figures/pitch_emphatic.svg?raw").then((m) => m.default),
+    "figures/pitch_neutral_end": await import("./figures/pitch_neutral_end.svg?raw").then((m) => m.default),
+    "figures/pitch_neutral": await import("./figures/pitch_neutral.svg?raw").then((m) => m.default),
+    "figures/tintilar_gram": await import("./figures/tintilar_gram.svg?raw").then((m) => m.default),
+  };

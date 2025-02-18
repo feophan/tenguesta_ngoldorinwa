@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="50%" height="50%" viewBox="0 0 1036 489" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;" fill="currentColor" stroke="none">
+    <g id="OQ" transform="matrix(1,0,0,1,-438.614,-1547.59)">
+        <g id="qui-series">
+        </g>
+        <g transform="matrix(1,0,0,1,113.728,924.839)" fill="none" stroke="currentColor" style="stroke-width:3.75px;">
+            <g id="noun-series">
+                <path d="M549.922,768.73C549.922,789.884 532.774,807.032 511.62,807.032C457.967,807.032 366.924,807.032 366.924,807.032C344.758,807.032 326.762,825.028 326.762,847.194L326.762,927.517C326.762,928.473 326.796,929.42 326.862,930.36L326.862,1038.39C326.862,1077.42 358.547,1109.1 397.574,1109.1L763.446,1109.1C802.729,1109.1 834.621,1077.21 834.621,1037.93L834.621,1017.35C834.621,989.915 856.858,967.679 884.288,967.679C1007.7,967.679 1318.42,967.679 1318.42,967.679C1340.58,967.679 1358.58,949.683 1358.58,927.517L1358.58,847.194C1358.58,825.028 1340.58,807.032 1318.42,807.032L876.482,807.032C853.363,807.032 834.621,788.291 834.621,765.171C834.621,733.633 834.621,695.798 834.621,695.798C834.621,656.516 802.729,624.624 763.446,624.624L621.097,624.624C581.815,624.624 549.922,656.516 549.922,695.798L549.922,768.73Z" />
+            </g>
+        </g>
+        <g id="ú-series">
+        </g>
+        <g id="Reduplication-series" serif:id="Reduplication series">
+        </g>
+        <g id="Labels" transform="matrix(1,0,0,1,0,991.265)">
+            <g transform="matrix(1,0,0,1,36.8968,240.504)">
+                <g transform="matrix(50,0,0,50,605.699,596)">
+                </g>
+                <text x="450.899px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">direction</text>
+            </g>
+            <g transform="matrix(1,0,0,1,261.852,240.504)">
+                <g transform="matrix(50,0,0,50,626.163,596)">
+                </g>
+                <text x="474.513px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">recipient</text>
+            </g>
+            <g transform="matrix(1,0,0,1,491.455,240.504)">
+                <g transform="matrix(50,0,0,50,671.33,596)">
+                </g>
+                <text x="478.83px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">benefactor</text>
+            </g>
+            <g transform="matrix(1,0,0,1,272.222,54.0413)">
+                <text x="443.193px" y="570.4px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">predicative</text>
+                <g transform="matrix(50,0,0,50,622.643,621.6)">
+                </g>
+                <text x="457.293px" y="621.6px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">possessor</text>
+            </g>
+            <g transform="matrix(1,0,0,1,243.015,392.352)">
+                <g transform="matrix(50,0,0,50,671.4,596)">
+                </g>
+                <text x="466.95px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">experiencer</text>
+            </g>
+            <g transform="matrix(1,0,0,1,485.086,392.352)">
+                <g transform="matrix(50,0,0,50,639.024,596)">
+                </g>
+                <text x="523.874px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">ethical</text>
+            </g>
+            <g transform="matrix(1,0,0,1,-16.2528,392.352)">
+                <g transform="matrix(50,0,0,50,651.224,596)">
+                </g>
+                <text x="511.674px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">purpose</text>
+            </g>
+            <g transform="matrix(1,0,0,1,525.925,54.0413)">
+                <text x="469.06px" y="570.4px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">external</text>
+                <g transform="matrix(50,0,0,50,623.285,621.6)">
+                </g>
+                <text x="457.935px" y="621.6px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">possessor</text>
+            </g>
+            <g transform="matrix(1,0,0,1,781.863,240.504)">
+                <g transform="matrix(50,0,0,50,658.555,596)">
+                </g>
+                <text x="491.605px" y="596px" style="font-family:'GFSNeohellenic-Regular', 'GFS Neohellenic';font-size:50px;">evaluator</text>
+            </g>
+        </g>
+    </g>
+</svg>

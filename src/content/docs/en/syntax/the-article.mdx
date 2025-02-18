@@ -1,0 +1,178 @@
+---
+title: The Article
+ID: S.ART
+lastUpdated: 2025-02-09
+---
+
+import { CH } from "../../../../assets/constants";
+import Tengwar from '../../../../components/teng.astro';
+import Num from '../../../../components/paraNum.astro';
+import Aside from '../../../../components/newAside.astro';
+
+export const chapter = CH.S.ART;
+
+<Aside type="todo" title="To-Do">
++ [ ] Technically, partitive plural can be analyzed as indefinite article. Ammend this chapter later.
+</Aside>
+
+## Meaning of the Definite Article
+
+### Basic Meaning
+
+<Num index={chapter}/> Quenya has a **definite article** <Tengwar tengwar="" latin="i"/>, but no indefinite article. The Quenya equivalent of an indefinite article is the lack of an article:
+
+1. <Tengwar tengwar="   " latin="nai elen siluva lyenna"/> \[VT49/40\]. *May a star shine upon you*.
+2. <Tengwar tengwar="    ⸱" latin="luini tellumar yassen tintilar i·eleni"/> \[RGEO/58\]. *Blue domes in which twinkle the stars*.
+
+<Num index={chapter}/> The article is 'definite' because it refers to someone/something that is **identifiable**: the article expresses that it is clear who/what is meant, and that it can be distinguished from other people/things.
+
+<Num index={chapter}/> The article is also 'pragmatic' because it modifies what is identifiable only **contrary** to common knowledge: when distinguished from a context alone, article is usually omitted.
+
+:::caution
+Quenya often doesn’t use the definite article where English would (see examples below).
+:::
+
+<Num index={chapter}/> The lack of an article in prose is normally significant, but in poetry the article is omitted much more freely:
+
+1. <Tengwar tengwar="⸱     " latin="i·oromardi tanna lende ar vingildi vilwarindie"/> *The wood-spirits and the foam-like butterflies came thither* \[PE16/96\]. The prose version would include definite <Tengwar tengwar="⸱" latin="i-vingildi"/> instead.
+### Reasons for Pragmatic (Marked) Identifiability of a Referent
+
+<Num index={chapter}/> The referent of a noun is usually identifiable when it has been **mentioned before**:
+
+2. <Tengwar tengwar="  ჻ ⸱  " latin="onortanen rocco. I·rocco nórima né"/> \[modified; PE17/168, VT49/29\]. *I rode a horse. The horse was strong at running*.
+
+<Num index={chapter}/> A referent is identifiable when it is made specific by the **immediate context**:
+
+3. <Tengwar tengwar=" ⸱ ⸱ ⸱ " latin="á zac' i·fende, mecin"/> \[PE22/166\]. *Close the door, please*. There’s only one open door in the room.
+4. <Tengwar tengwar=" ⸱" latin="auta i·lóme"/> \[MC/222\]. *The night is passing!* The night **right now**.
+5. <Tengwar tengwar=" ⸱  " latin="aistana i yáve mónalyo Yésus"/> \[VT43/27\]. *Blessed is the fruit of thy womb Jesus*. <Tengwar tengwar="⸱" latin="i yáve"/> becomes identifiable through the information added in the apposition.
+
+<Num index={chapter}/> The article is used if the noun is conceptualized and doesn’t refer to a specific referent:
+
+6. <Tengwar tengwar=" ⸱    " latin="epetai i·hyarma ú ten ulca símaryassen"/> \[VT49/8\]. *The left hand was not to them evil in their imaginations*. <Tengwar tengwar="⸱" latin="i·hyarma"/> doesn’t refer to a specific left hand, but to a concept of the left hand.
+
+### Reasons for Semantic (Unmarked) Identifiability of a Referent
+
+<Num index={chapter}/> A referent is identifiable when it is **obvious from the immediate context of its relation** to another noun (note that English uses the article in many such cases):
+
+7. <Tengwar tengwar="     " latin="an cé mo querne cendele númenna"/> \[VT49/8\]. *For if one turned the face westward*. <Tengwar tengwar="" latin="cendele"/> is defined uniquely as belonging to a subject of the sentence.
+
+<Num index={chapter}/> However if the relation alone doesn’t identify a referent uniquely, or the relation is missing, the article might be required:
+
+8. <Tengwar tengwar="⸱ " latin="i·equessi Rúmilo"/> \[WJ/398\]. *The Sayings of Rúmil*. The title refers to a specific composition rather than all utterances ever made by the author.
+9. <Tengwar tengwar="    ⸱" latin="ar mi cemen raine i·hínin"/> \[VT44/33\]. *And on earth peace, good will toward men*. <Tengwar tengwar="⸱" latin="i·hínin"/> stands for <Tengwar tengwar=" " latin="hínin Ilúvatáro"/>.
+
+:::note
+In a case if a noun refers to something whose possessor or origin is obvious (usually the subject), Quenya, like English, might use a possessive pronoun \[TBD\], as in:
+
++ <Tengwar tengwar="    " latin="sí Varda ortane máryat Oiolosseo"/> \[RGEO/59\]. *Now Varda lifted up her hands from Mount Everwhite*.
+:::
+
+<Num index={chapter}/> A referent is identifiable when it is considered **generally well-known** or **immediately unique** (note that English often uses the article in such cases):
+
+10. <Tengwar tengwar="     " latin="imbi Menel Cemenye mene Ráno tie"/> \[VT47/11\]. *Between Heaven and Earth goes the path of the Moon*. <Tengwar tengwar="" latin="Ráno"/> is not modified by the article, as *the Moon* is generally unique.
+11. <Tengwar tengwar="      " latin="man tiruva fána cirya cále fifírula?"/> \[MC/221\]. *Who shall heed a white ship while the light is fading?* <Tengwar tengwar="" latin="cále"/> is not modified by the article, as *the light* is a unique instance of a phenomenon for a given location.
+
+<Num index={chapter}/> A referent is identifiable when it is a **species** or **class in its entirety**:
+
+12. <Tengwar tengwar=" " latin="eldar ataformaiti"/> \[VT49/7\]. *The Elves were ambidextrous*. It is true for *all* elves, so the article is not needed.
+
+:::note
+If a modifier limits the scope of the referent, the article might be used:
+
+13. <Tengwar tengwar=" ⸱ " latin="zindar i·eldar Malariando"/> \[PE21/77\]. *Grey are the Elves of Beleriand*. It is not implied to be true for all the elves in general.
+:::
+
+<Num index={chapter}/> The article doesn’t precede **mass nouns** and noun **commonly** used in plural:
+
+14. <Tengwar tengwar="  ⸱" latin="linte yuldar lisse-miruvóreva"/> \[RGEO/58\]. *Swift draughts of the sweet mead*.
+15. <Tengwar tengwar="    " latin="man hlaruva ninqui carcar yarra"/> \[MC/221\]. *Who shall hear the white rocks snarling*.
+
+<Num index={chapter}/> A noun usually also doesn’t have the article when it refers to an **abstract concept**:
+
+16. <Tengwar tengwar=" " latin="alcar Oroméva"/> \[WJ/369\]. *The splendor of Orome*.
+
+<Num index={chapter}/> **Proper names** rarely have an article, unless composed out of a **single common noun**:
+
+17. <Tengwar tengwar="  ⸱ " latin="Arwen vanimelda, namárie"/> \[LotR/352\]. *Arwen beautiful and beloved, farewell*.
+18. <Tengwar tengwar="⸱ ⸱" latin="i·Héru aselye"/> \[VT43/28\]. *The Lord is with thee*.
+
+<Num index={chapter}/> The article is not used with nouns modified by **demonstrative** and **possessive pronouns**, **quantifiers**, or **determiner adjectives** such as <Tengwar tengwar="" latin="métima"/> *the last*:
+
+<Aside type="flame" title="Source inconsistency">
+Is the article used before superlatives? PE17/91 says 'no', but PE21/78 says 'yes'.
+</Aside>
+
+19. <Tengwar tengwar="   ⸱  " latin="vanda sina termaruva Elenna-nóreo alcar enyalien"/> \[UT/305\]. *This oath shall stand in memory of the glory of the Land of the Star*.
+20. <Tengwar tengwar="    " latin="nai amanya onnalya ter coivierya"/> \[VT49/41\]. *May your child be blessed throughout his life*.
+21. <Tengwar tengwar="  ⸱  " latin="man cenuva métim' andúne?"/> \[MC/222\]. *Who shall see the last evening?*
+
+<Num index={chapter}/> A **predicative complement** (→[{CH.S.SEN}.8-11](../simple-sentences/#linking-verb-predicative-complement)) normally does not have the article, as it generally introduces new information. However, it has the article when it is identifiable for one of the reasons given above:
+
+22. <Tengwar tengwar="  " latin="nése nórima rocco"/> \[VT49/29\]. *He was a horse strong at running*.
+23. <Tengwar tengwar=" ⸱  " latin="mana i·coimas eldaron?"/> \[VT49/41\]. *What is the 'coimas' of the Eldar?* <Tengwar tengwar="" latin="coimas"/> is conceptualized.
+
+## Relative Position of Article, Head and Modifiers in a Noun Phrase
+
+:::note
+In poetry the distinction is not strict, and head-modifier order can be attributive:
+
++ <Tengwar tengwar="⸱   " latin="i·fairi néce ringa súmaryasse"/> \[MC/221\]. *The pale phantoms in her cold bosom*.
+:::
+
+:::tip
+The general difference between attributive and predicative position may be described in the following way:
+
++ a modifier in **attributive position** typically serves to **identify** the referent of the head noun (cf. e.g. En. *the good man*, as opposed to any other man);
++ a modifier in **predicative position** is not used to identify the referent. Rather, adjectives and participles in predicative position say something about the **condition** the referent is in (cf. En. *I drink my coffee* ***black***, *They found the premises* ***deserted***).
+:::
+
+<Num index={chapter}/> The predicative position is always used for predicative complements with linking verbs →[{CH.S.SEN}.8-9](../simple-sentences/#linking-verb-predicative-complement).
+
+<Num index={chapter}/> However, there are various kinds of modifiers for which the distinction between the positions outlined above does not hold. These are treated below, →[28.17-19](#agg).
+
+### Attributive Genitives I and II
+
+<Num index={chapter}/> Most **attributive genitives** @@ can occur in both positions:
+
+24. <Tengwar tengwar=" " latin="valaron arcanwar"/>, <Tengwar tengwar=" " latin="arcanwar valaron"/> *the trones of the Valar*.
+
+:::note
+The difference between the two constructions appears to be that in attributive position, the genitive I is presented as (more) vital for the identification of the head noun (for example, when the Valar are contrasted with another people, the attributive position will be used). But often the distinction is slight.
+:::
+
+<Num index={chapter}/> In attributive position whether the head is definite of indefinite is undetermined, and the article modifies only the genitive:
+
+25. <Tengwar tengwar="⸱ ⸱" latin="i·túrin i·cormaron"/>, <Tengwar tengwar="⸱ " latin="i·cormaron túrin"/> *the Lord of the Rings*
+
+<Num index={chapter}/> The rules of attributive genitive I above apply to attributive genitive II as well. However, it also can be treated as a quasi-adjective (for details, @@), not modified by the article, which then stands for the whole noun phrase:
+
+26. <Tengwar tengwar="⸱ " latin="i·tyulma ciryava"/> \[PE21/80\]. *The mast of the ship*.
+27. <Tengwar tengwar="    " latin="lírinen ómo i aire táríva"/> \[PE17/76\]. *By the song of the voice of the holy queen*.
+
+:::note
+In each of these uses, modifiers in 'predicative' position actually do not have predicative function (for predicative function, →[{CH.S.SEN}.8-11](../simple-sentences/#linking-verb-predicative-complement), [{chapter}.14](#apposition)). The terminology is therefore somewhat misleading, and should be taken to refer merely to word order.
+:::
+
+## Pronominal Uses of the Article
+
+<Num index={chapter}/> In a few highly specific uses the article has a pronominal function (i.e. serves as a noun phrase by itself, →[{CH.S.SEN}.14](../simple-sentences/#noun-phrases)).
+
++ The article can be used as a *3rd person object* instead of <Tengwar tengwar="" latin="se"/>, <Tengwar tengwar="" latin="sa"/> (compare with English *it* and *that*):
+
+	28. <Tengwar tengwar="  " latin="vá caris i"/> \[PE22/162\]. *He is not to do* ***this***.
+
++ The article might be used as a relative pronoun in a *common case*:
+
+	29. <Tengwar tengwar="⸱      " latin="i·Eru i or ilye mahalmar ea tennoio"/> \[UT/305\] *The One* ***who*** *is above all thrones for ever*.
+	30. <Tengwar tengwar="    " latin="Átaremma i ea han Ea"/> \[VT43/12\] *Our Father* ***who*** *art in Heaven*.
+
++ Or as a head of autonomous relative clause (for details, @@):
+
+	31. <Tengwar tengwar="      " latin="lá carita i hamil mára alasaila ná"/> \[PE22/154\]. *Not to do* ***what you judge good*** *would be unwise*.
+
+:::note
+The article in these functions can sometimes be confused with conjunction or plural animate relative pronoun <Tengwar tengwar="" latin="i"/>.
+:::
+
+---

@@ -1,0 +1,12 @@
+---
+import { iconMap } from "../assets/icons/iconMap";
+
+export interface Props {
+  icon: string;
+}
+
+const { icon } = Astro.props as Props;
+const innerHTML = iconMap[icon] || "";
+---
+
+<Fragment set:html={innerHTML} />

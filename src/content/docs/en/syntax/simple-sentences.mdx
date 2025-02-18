@@ -1,0 +1,390 @@
+---
+title: Simple Sentences
+ID: S.SEN
+lastUpdated: 2025-02-09
+---
+import { CH } from "../../../../assets/constants";
+import Tengwar from '../../../../components/teng.astro';
+import Comment from '../../../../components/scComment.astro';
+import Num from '../../../../components/paraNum.astro';
+
+export const chapter = CH.S.SEN;
+
+# Introduction to Simple Sentences
+
+<Num index={chapter}/> Below, the basic syntactic principles and concepts that will be relevant in chapters [{CH.S.AGR}](../agreement/) to {CH.S.QDW} are discussed. Most of the examples are taken from the Late Quenya corpus, but if the example was adapted from earlier materials, the reference has an additional remark.
+
+<Num index={chapter}/> Chapters {CH.S.ICS + 1} to {CH.S.ICS + 13} deal with the various types of subordinate constructions found in complex sentences (subordinate clauses, participles, and infinitives): these will be separately introduced in chapter {CH.S.ICS}.
+
+## The Sentence Core
+
+### Predicate, Subject, Object, Complement
+
+<Num index={chapter}/> Most sentences (for the exceptions, &rarr;[{chapter}.12](#omission-of-a-linking-verb-nominal-sentences)) contain at least a **predicate** (nearly always a finite verb) and one or more **obligatory constituents** that belong to that predicate; together these make up the **sentence core**.
+ 
++ Nearly all verbs take at least one obligatory constituent, a **subject**. Subjects are marked by the *common case* (&rarr;[{CH.S.CAS}.3](../cases/#as-nominative-for-obligatory-constituent-with-verbs)), and predicates agree with it in number (&rarr;[{CH.S.AGR}.1](../agreement/#exceptions)). Some verbs take only a subject:
+
+	1. <Tengwar tengwar="" latin="tintilar"/><Comment text="predicate"/> <Tengwar tengwar="⸱" latin="i·eleni"/><Comment text="subject"/> \[RGEO/58\]. *The stars twinkle*.
+	2. <Tengwar tengwar="⸱" latin="i·arcanwar"/><Comment text="subject"/> <Tengwar tengwar="" latin="tauvar"/><Comment text="predicate"/> \[PE22/147\]. *The thrones endure*.
+	3. <Tengwar tengwar="" latin="ulo"/><Comment text="subject"/> <Tengwar tengwar="" latin="úva"/><Comment text="predicate"/> \[PE22/167\]. *The rain is coming*.
+
++ Many verbs take both a subject and another obligatory constituent. With a majority of such verbs, this second obligatory constituent is the **direct object**, which is also marked by the *common case* (&rarr;[{CH.S.CAS}.2](../cases/#common)); some verbs take second obligatory constituents in a different case (such constituents are called **complements**):
+
+	4. <Tengwar tengwar="" latin="Varda"/><Comment text="subject"/> <Tengwar tengwar="" latin="máryat"/><Comment text="object"/> <Tengwar tengwar="" latin="ortane"/><Comment text="predicate"/> \[LotR/377\]. *Varda has uplifted her hands*.
+	5. <Tengwar tengwar=" " latin="ilye tier"/><Comment text="object"/> <Tengwar tengwar="" latin="unduláve"/><Comment text="predicate"/> <Tengwar tengwar="" latin="lumbule"/><Comment text="subject"/> \[LotR/377\]. *All paths are drowned deep in shadows*.
+	6. <Tengwar tengwar="" latin="ortírielyanna"/><Comment text="complement"/> <Tengwar tengwar="" latin="rucimme"/><Comment text="predicate"/> \[VT44/5\]. *We fly to thy patronage*.
+	7. <Tengwar tengwar="⸱" latin="i·hyarma"/><Comment text="subject"/> <Tengwar tengwar="" latin="tentane"/><Comment text="predicate"/> <Tengwar tengwar="" latin="Melcorello"/><Comment text="object"/> \[VT49/7\]. *The left hand pointed away from Melkor*.
+
++ Some verbs take more than two obligatory constituents: a subject, an object, and one (or more) further complements. Often the third obligatory constituent is the **indirect object**, which is marked by the dative case (&rarr;[{CH.S.CAS}.22](../cases/#dative)); other verbs take a second complement in the common case:
+
+	8. <Tengwar tengwar="" latin="Varda"/><Comment text="subject"/> <Tengwar tengwar="" latin="enquantuva"/><Comment text="predicate"/> <Tengwar tengwar="⸱" latin="i·yulma"/><Comment text="object"/> <Tengwar tengwar="" latin="nin"/><Comment text="indirect object"/> \[VT49/7\]. *Varda will fill the cup for me*.
+	9. <Tengwar tengwar=" " latin="lá navin"/><Comment text="predicate"/> <Tengwar tengwar="" latin="caritalya·s"/><Comment text="object"/> <Tengwar tengwar="" latin="mára"/><Comment text="complement"/> \[PE22/154\]. *I don't advise you to do so*.
+
+<Num index={chapter}/> In the examples above, with one exception, the obligatory constituents are expressed by a noun phrase or a pronoun (these are treated more fully below, &rarr;[{chapter}.14-20](#noun-phrases)).
+
+Such obligatory constituents may also take other forms, however. The most important of these are:
+
++ **prepositional phrases** (consisting of a preposition and its complement):
+
+	10. <Tengwar tengwar="" latin="i"/><Comment text="subject"/> <Tengwar tengwar="  " latin="or ilye mahalmar"/> <Comment text="complement"/> <Tengwar tengwar="" latin="ea"/><Comment text="predicate"/> \[UT/305\]. *Who is above all thrones*.
+
++ **adverbs**:
+
+	11. <Tengwar tengwar="" latin="lende"/><Comment text="predicate"/> <Tengwar tengwar="" latin="tanna"/><Comment text="complement"/> <Tengwar tengwar="" latin="Nieliccilis"/><Comment text="subject"/> \[PE16/96\]. *Thither came little Niéle*.
+
++ **subordinate clauses**:
+
+	12. <Tengwar tengwar="" latin="savin"/><Comment text="predicate"/> <Tengwar tengwar="   " latin="i Elessarno quetie naite"/><Comment text="object"/> \[PE22/158\]. *I believe that the words of Aragorn are true*. The declarative subordinate clause (&rarr;@@) fulfills the role of object with the predicate <Tengwar tengwar="" latin="savin"/>: compare <Tengwar tengwar="" latin="Elessar"/> in <Tengwar tengwar=" " latin="savin Elessar"/> *'I believe Aragorn'*.
+
++ **infinitive constructions**:
+
+	13. <Tengwar tengwar="" latin="man"/><Comment text="subject"/> <Tengwar tengwar="" latin="cenuva"/><Comment text="predicate"/> <Tengwar tengwar="  " latin="fána cirya círa"/><Comment text="object"/> \[MC/221\]. *Who shall see a white ship leave*. The common-and-infinitive construction (&rarr;@@) fulfills the role of object with the predicate <Tengwar tengwar="" latin="cenuva"/>: compare <Tengwar tengwar="" latin="andúne"/> in <Tengwar tengwar="  ⸱  " latin="man cenuva métim' andúne?"/> *'Who shall see the last evening?'*
+
++ **participle constructions**:
+
+	14. <Tengwar tengwar="" latin="lie"/><Comment text="subject"/> <Tengwar tengwar="" latin="tatallaner"/><Comment text="predicate"/> <Tengwar tengwar="⸱ " latin="i·már ampanaina"/><Comment text="object"/> \[MQ: PE22/108\]. *While it was being built people marveled at the house*. The common-and-participle construction (&rarr;@@) fulfills the role of object with the predicate <Tengwar tengwar="" latin="tatallaner"/>: compare <Tengwar tengwar="⸱" latin="i·már"/> in <Tengwar tengwar=" ⸱" latin="tatallanen i·már"/> *'I marveled at the house'*.
+
+When a constituent is expressed in the form of a subordinate clause or a construction with an infinitive or participle, this is called a **complex sentence**. For complex sentences, &rarr;@@.
+
+:::note
+**Note 1**: The number of obligatory constituents that accompany a verb is called the 'valency' of that verb: thus <Tengwar tengwar="" latin="firë"/> *die* has a valency of one, <Tengwar tengwar="" latin="anta"/> *give* has a valency of three.
+
+Some verbs have different valencies in different meanings. For instance, the verb <Tengwar tengwar="" latin="cirë"/>, when it takes only a subject, means *sail*, but may also take an *object* and then means *cut*.
+
+**Note 2**: The subject, object and other obligatory constituents that belong to the predicate are also called 'arguments'. The sentence core is also called the 'nucleus' of a sentence.
+
+**Note 3**: It is sometimes difficult to assess whether a constituent should be considered 'obligatory' in the sense given above (i.e. whether they are required with a predicate to form a grammatically correct core sentence). This is true particularly of adverbial complements such as <Tengwar tengwar="" latin="tanna"/> in (11), and with verbs which may have different valencies. In reality, syntactic 'obligatoriness' is better seen as a scale, with constituents being *more* or *less* obligatory depending on the verb and construction used.
+:::
+
+<Num index={chapter}/> There are a few verbs which do not have a subject (so called 'impersonal' verbs, &rarr;[{CH.S.VIC}](../impersonal-constructions/#proper-impersonal-verbs-and-constructions)), and very few of these take no other obligatory constituents (i.e. have a valency of zero). The sentence core then consists of nothing but the verb: e.g. <Tengwar tengwar="" latin="úla"/> *it is raining*.
+
+### 'Omission' of the Subject and Other Constituents
+
+<Num index={chapter}/> That a verb takes a certain number of obligatory constituents does not mean that all those constituents are necessarily expressed every single time that verb is used. A constituent may be omitted if it is sufficiently **clear from the context** who or what is meant:
+
+15. <Tengwar tengwar=" ⸱    " latin="roccor i·Erulingaron máre nár? Nár"/> \[PE22/166\]. *The horses of Rohirrim are good, are they not? They are*. The second sentence has no explicit subject — 'horses' has been the subject of the previous sentence and need not be mentioned explicitly again. Note that these constituents have to be supplied in translation ('they').
+16. <Tengwar tengwar="      " latin="savin Elessar ar i náne aran Ondóreo"/> \[PE22/158\]. *I believe Aragorn, and that he was a King of Gondor*. *Elessar* doesn’t need to be mentioned explicitly again.
+17. <Tengwar tengwar=" ⸱ ⸱" latin="á zac' i·fende"/> \[PE22/166\]. *Close the door*. English, too, normally omits the subject with imperatives.
+18. <Tengwar tengwar="     " latin="h·ore nin carita·s nó namin alasaila"/> \[VT41/13\]. *I would like to do so but judge it unwise*. Note how the second sentence has no explicit object, added in the translation ('it')[^cor1].
+
+<Num index={chapter}/> The lack of an explicit, separately expressed **subject** is particularly frequent in Quenya, and constitutes a regular feature of the language. Information about the subject of a verb is then *usually* expressed by the **personal ending** of that verb:
+
+19. <Tengwar tengwar="      " latin="merin sa h·aryalye alasse nó vanyalye Ambarello"/> \[MS/1\]. *I hope that you have happiness before you pass from the world*. The subjects ('I', 'you') are expressed by the first- and second-person singular endings.
+20. <Tengwar tengwar="   " latin="melinye·s apa lá hé"/> \[VT49/15\]. *I love him but not him (the other)*. The subjects ('I') is expressed by the first-person singular ending, while the first object ('him') by singular object clitic.
+
+In the third person, the omission of the subject is regular if the subject of the previous sentence is continued, as in (15). If the subject changes, an explicitly expressed subject is normally required \[VT49/14-15\].
+
+In the first and second person, explicitly expressed subjects (in the form of the personal pronouns <Tengwar tengwar="" latin="ní"/>, <Tengwar tengwar="" latin="lyé"/>, etc.) are used only for emphasis or contrast. For such 'contrastive' pronouns, &rarr;@@.
+
+:::note
+The omission of other elements than the subject (such as the object in (18)) is much more restricted and infrequent than the lack of an explicitly expressed subject. The object can be substituted for a short clitic form which closely follows the verb (20) in third person only.
+:::
+
+### Linking Verb, Predicative Complement 
+
+<Num index={chapter}/> A **linking verb** (or **copulative**/**copular verb**, **copula**) 'links' a subject to a nominal constituent, the so-called **predicative complement**, which identifies the subject or assigns a property to it. The predicative complement is usually an **adjective** which agrees in case and number with the subject, or a **noun** which agrees with the subject in case (&rarr;[27.7](../agreement/#basic-rule-1), @@).
+
+Examples of verbs that can function as linking verbs are <Tengwar tengwar="" latin="ná"/> *be*, <Tengwar tengwar="" latin="olë"/> *become*, <Tengwar tengwar="" latin="larë"/> *remain, stay*, <Tengwar tengwar="" latin="nemë"/> *seem, appear to be, prove to be*, etc.
+
+21. \[<Tengwar tengwar="" latin="vanwa"/><Comment text="predicative adjective"/> <Tengwar tengwar="" latin="ná"/><Comment text="linking verb"/>\]<Comment text="predicate"/> <Tengwar tengwar="" latin="Valimar"/><Comment text="subject"/> \[LotR/377\]. *Lost is Valimar*.
+22. \[<Tengwar tengwar="" latin="nése"/><Comment text="linking verb"/> <Tengwar tengwar=" " latin="nórima rocco"/><Comment text="predicative noun phrase"/>\]<Comment text="predicate"/> \[VT49/29\]. *He was a horse strong at running*.
+
+:::note
+Predicative nouns or adjectives are sometimes called 'predicate nouns/adjectives'. Predicative complements agreeing with a subject are also sometimes called 'subject(ive) complements'.
+:::
+
+<Num index={chapter}/> Linking verbs also occur with an adverbial expression of place or circumstance as their complement: e.g. <Tengwar tengwar="" latin="ná"/> *be (somewhere), find oneself (somewhere)*. But normally special verbs of position are used instead: <Tengwar tengwar="" latin="tulë"/> *get somewhere*, <Tengwar tengwar="" latin="harë"/> *stay somewhere*. In many grammatical treatments, such complements are also seen as predicative complements:
+
+23. <Tengwar tengwar="" latin="ní"/><Comment text="subject"/> \[<Tengwar tengwar="" latin="nauva"/><Comment text="linking verb"/> <Tengwar tengwar="" latin="tanome"/><Comment text="complement"/>\]<Comment text="predicate"/> \[VT49/19\]. *I will be there*.
+
+<Num index={chapter}/> The verb <Tengwar tengwar="" latin="ná"/>, unlike its English counterpart, doesn’t occur in the meaning *exist*. An expression like <Tengwar tengwar=" " latin="tasse ná"/> *'there is'* can have only contrastive meaning 'but not here'. In the '**existential**' use, the verb <Tengwar tengwar="" latin="ea"/> with only a subject is used instead. The verb <Tengwar tengwar="" latin="tulë"/> also has an existential use, and then means *happen*:
+
+24. <Tengwar tengwar="" latin="vahaia"/> <Tengwar tengwar="" latin="nóre"/><Comment text="subject"/> <Tengwar tengwar="" latin="ea"/><Comment text="predicate"/> <Tengwar tengwar=" ⸱ " latin="i a·esta Valinor"/> \[MQ: PE22/124\]. *Far a way there is a land called Valinor*.
+
+<Num index={chapter}/> Some other verbs link an object to a predicative complement that agrees with that object (both are in the common). Examples of such verbs are *consider X (to be) Y, make X Y, appoint X as Y* (for more details, &rarr;@@):
+
+25. <Tengwar tengwar="   " latin="alasaila ná lá care"/> <Tengwar tengwar="" latin="tai"/><Comment text="object"/> <Tengwar tengwar="" latin="mo"/><Comment text="subject"/> \[<Tengwar tengwar="" latin="nave"/><Comment text="verb"/> <Tengwar tengwar="" latin="mára"/><Comment text="predicative adjective"/>\]<Comment text="predicate"/> \[PE22/154\]. *It is unwise not to do what one judges good*.
+
+:::note
+Predicative complements agreeing with an object are sometimes called 'object(ive) complements'.
+:::
+
+### Omission of a Linking Verb: Nominal Sentences
+
+<Num index={chapter}/> Frequently, a linking verb such as <Tengwar tengwar="" latin="ná"/> is lacking in a sentence, whose core then contains only nominal elements. This occurs especially in the following cases:
+
++ when predicative adjective follows the subject:
+
+	26. <Tengwar tengwar="⸱" latin="i·roccor"/><Comment text="subject"/> <Tengwar tengwar="" latin="rindi"/><Comment text="predicate"/> \[MQ: PE21/78\]. *The horses are swift*.
+	27. <Tengwar tengwar=" " latin="Elessarno quetie"/><Comment text="subject"/> <Tengwar tengwar="" latin="naite"/><Comment text="predicate"/> \[PE22/158\]. *The words of Aragorn are true*.
+
+Unless the subject is not expressed, or is separated from a predicate:
+
+28. <Tengwar tengwar="   ⸱" latin="yá hríve mene,"/> <Tengwar tengwar="" latin="ringa"/><Comment text="predicative adjective"/> <Tengwar tengwar="" latin="ná"/><Comment text="linking verb"/> \[VT49/23\]. *When winter comes, it is cold*. Impersonal use (lit. 'cold is'); for this, &rarr;@@.
+29. <Tengwar tengwar="" latin="vanwa"/><Comment text="predicative adjective"/> <Tengwar tengwar="" latin="ná"/><Comment text="linking verb"/><Tengwar tengwar="⸱   ⸱" latin=", Rómello vanwa,"/> <Tengwar tengwar="" latin="Valimar"/><Comment text="subject"/><Tengwar tengwar="" latin="!"/> \[LotR/377\]. *Lost, lost to those from the east is Valimar!*
+
++ if the subject is postponed, but is separated from a predicate with a definite article:
+
+	30. <Tengwar tengwar="" latin="mana"/><Comment text="predicate"/> <Tengwar tengwar="⸱ " latin="i·coimas Eldaron"/><Comment text="subject"/> \[PM/395\]. *What is the 'coimas' of the Eldar?*
+	31. <Tengwar tengwar="" latin="aistana"/><Comment text="predicate"/> <Tengwar tengwar="⸱ " latin="i·yáve mónalyo"/><Comment text="subject"/> \[VT43/31\]. *Blessed is the fruit of thy womb*.
+
++ with explicit pronouns:
+
+	32. <Tengwar tengwar="" latin="aistana"/><Comment text="predicate"/> <Tengwar tengwar="" latin="elye"/><Comment text="subject"/> <Tengwar tengwar=" " latin="imíca nísi"/> \[VT43/28\]. *Blessed art thou amongst women*.
+
++ with adverbs of position and direction:
+
+	33. <Tengwar tengwar=" ⸱" latin="tasse i·osto"/> \[MQ: PE22/124\]. ***There*** *is the city*.
+	34. <Tengwar tengwar="  " latin="manna lé sinnar"/> \[MQ: PE22/124\]. *Where are you going this morning?*
+
++ with prepositional phrases:
+
+	35. <Tengwar tengwar="⸱" latin="i·Héru"/> <Tengwar tengwar="⸱" latin="as·elye"/><Comment text="prepositional phrase"/> \[VT43/28\]. *The Lord is with thee*.	
+	36. <Tengwar tengwar="   ⸱" latin="quiquie menin coaryanna,"/> <Tengwar tengwar="⸱" latin="ar·se"/><Comment text="prepositional phrase"/> \[VT49/23\]. *Whenever I get to his house, he is out*.
+
++ in formulaic questions:
+
+	37. <Tengwar tengwar="  " latin="ma naite?"/> \[PE22/166\]. *Is it true?*
+
+Only the present indicative of <Tengwar tengwar="" latin="ná"/> *be* is regularly omitted as linking verb in this way: other forms such as past <Tengwar tengwar="" latin="náne"/> or future <Tengwar tengwar="" latin="nauva"/> are not normally omitted, unless other indications of time are present, especially in expressions of location or direction of movement:
+
+38. <Tengwar tengwar="   " latin="masse lé enar?"/> \[MQ: PE22/124\]. *Where will you be tomorrow?*
+
+[^cor1]: Also, <Tengwar tengwar="  " latin="nai elye hiruva"/> \[LotR/378\].
+
+## Optional Constituents
+
+### Adverbial Modifiers and Other Optional Constituents
+
+<Num index={chapter}/> Many core sentences are elaborated by one or more **optional** (**non-obligatory**) constituents, which can be left out without making the sentence ungrammatical, and which supplement the sentence core in various ways. Most often such constituents are **adverbial modifiers**.
+
+Such optional constituents can be expressed by:
+
++ **adverbs**:
+
+	39. <Tengwar tengwar="   " latin="tas cennen nótime eldali"/> \[PE22/155\]. *I saw a few elves there*. Adverbial modifier of place.
+
++ **noun phrases** and **pronouns** (in the common, dative or adverbial case, &rarr;@@):
+
+	40. <Tengwar tengwar="⸱    " latin="á·men anta síra ilaurea massamma"/> \[VT43/12\]. *Give us this day our daily bread*. Adverbial modifier of time, expressed by the common, &rarr;@@.
+	41. <Tengwar tengwar="  ⸱   " latin="sí man i·yulma nin enquantuva?"/> \[LotR/377\]. *Who now shall refill the cup for me?* Constituent representing the beneficiary/interested party, expressed by the dative, &rarr;@@. Such constituents are often taken as indirect objects, but unlike indirect objects with verbs of giving, etc. (for which &rarr;[{chapter}.3](#predicate-subject-object-complement)), they are optional.
+
++ **prepositional phrases**:
+
+	42. <Tengwar tengwar="    " latin="nai amanya onnalya ter coivierya"/> \[VT49/41\]. *May your child be blessed throughout their life*. Adverbial modifier of time.
+
+And in the case of complex sentences, by:
+
++ **subordinate clauses**:
+
+	43. <Tengwar tengwar="   ⸱  " latin="yá hríve mene, ringa ná"/> \[VT49/23\]. *When winter comes, it is cold*. The temporal subordinate clause (&rarr;@@) serves as an adverbial modifier of time.
+
++ **participle constructions** (also &rarr;[{chapter}.22](#predicative-modifiers)):
+
+	44. <Tengwar tengwar="     " latin="man tiruva fána cirya ear falastala"/> \[MC/222\]. *Who shall heed a white ship, while the sea is surging*. The common absolute construction serves as an adverbial modifier of time.
+
+Adverbial modifiers operate on different 'levels' of the sentence:
+
++ The adverbial modifiers in examples (39)-(44) express such semantic categories as the place where, the time when, the circumstance(s) under which, the manner in which, the reasons because of which, etc., the action expressed by a predicate takes place. Adverbial modifiers functioning at this level (i.e. those which have scope over (the verb in) the core sentence) are often called **adjuncts**.
+
++ Adverbial modifiers may also have scope over a constituent only, modifying nouns, attributive modifiers, other adverbial modifiers, etc. (such adverbial modifiers are called **subjuncts**):
+
+	 45. <Tengwar tengwar="    " latin="yéni únótime ve rámar aldaron"/> \[LotR/377\]. *Long years numberless as the wings of trees*. The prepositional phrase <Tengwar tengwar="  " latin="ve rámar aldaron"/> modifies <Tengwar tengwar="" latin="únótime"/> which itself is an attributive modifier with <Tengwar tengwar="" latin="yéni"/>.
+
++ Some other adverbial modifiers are, syntactically speaking, more detached, and have scope over the sentence as a whole, expressing the attitude of the speaker towards the reality or desirability of the content of his sentence, or his attitude towards the form or style of the sentence (such modifiers are often called **disjuncts**):
+
+	46. <Tengwar tengwar="      ⸱  " latin="an cé mo querne cendele númenna, ve senya"/> \[VT49/22\]. *For if one turned the face westward, as was usual*. The phrase <Tengwar tengwar=" " latin="ve senya"/> expresses the speaker's attitude towards the reality of the content of the sentence.
+	47. <Tengwar tengwar="    " latin="Melco mardello lende: márie"/> \[MQ: LR/72\]. *Melko has gone from Earth: it is good*. The idiomatic phrase <Tengwar tengwar="" latin="márie"/> expresses the speaker's attitude towards their utterance.
+
++ Finally, grammars typically recognize a fourth type of adverbial modifier, that of **conjuncts**, which indicate how one sentence or larger unit of text relates to its surrounding context,i.e. which play role in structuring a text; such forms are treated in this grammar as **connective discourse particles**, @@:
+
+	48. <Tengwar tengwar="       " latin="an Varda maryat ortane ar hízie untúpa míri"/> \[LotR/377\]. *For Varda raised her hands, and mist covers jewels*.
+	49. <Tengwar tengwar="⸱    ⸱  " latin="ála·me tula úzactienna mal á·me etelecta ulcullo"/> \[VT43/12\]. *Lead us not into temptation, but deliver us from evil*.
+
+## Noun Phrases
+
+### Elements of the Noun Phrase
+
+<Num index={chapter}/> In most of the examples above, constituents take the form of a noun phrase. A **noun phrase** consists of (at least) a **head**, and (possibly) various kinds of **modifiers** which are added to the head.
+
+For example, in each of the examples below, a noun phrase serves as object to a predicate:
+
+50. <Tengwar tengwar="" latin="antanen"/> \[<Tengwar tengwar="" latin="hatal"/><Comment text="head"/>\] <Tengwar tengwar="" latin="sena"/> \[VT49/14\]. *I cast a spear at him*.
+51. <Tengwar tengwar="" latin="man"/> \[<Tengwar tengwar="⸱" latin="i·"/><Comment text="modifier"/> <Tengwar tengwar="" latin="yulma"/><Comment text="head"/>\]<Comment text="object"/> <Tengwar tengwar=" " latin="nin enquantuva"/> \[LotR/377\]. *Who will refill a cup for me?*
+52. <Tengwar tengwar=" " latin="hízie untúpa"/> \[ <Tengwar tengwar="" latin="Calaciryo"/><Comment text="modifier"/> <Tengwar tengwar="" latin="míri"/><Comment text="head"/>\]<Comment text="object"/> \[LotR/377\]. *Mist covers the jewels of Calacirya*.
+
+Sometimes noun phrase can become quite long and nested:
+
+53. <Tengwar tengwar="" latin="linte"/><Comment text="modifier"/> <Tengwar tengwar="" latin="yuldar"/><Comment text="head"/> \[<Tengwar tengwar="" latin="lisse"/><Comment text="modifier"/> <Tengwar tengwar="" latin="miruvóreva"/><Comment text="head"/>\]<Comment text="modifier"/> <Tengwar tengwar="       " latin="mí oromardi Andúne pella Vardo nu luini tellumar"/><Comment text="modifier"/> \[LotR/377\]. *Swift draughts of sweet nectar in the high halls beyond the West under blue domes of Varda*.
+
+### Types of Modifier
+
+<Num index={chapter}/> The following types of modifier agree with the head in number (for the agreement in case, &rarr;[27.7](../agreement/#basic-rule-1)):
+
++ **numerals**: ordinal numerals such as <Tengwar tengwar="" latin="minya"/> *first*, <Tengwar tengwar="" latin="attea"/> *second* (for details, &rarr;@@); among the ordinals may also be reckoned adjectives such as <Tengwar tengwar="" latin="hyana"/> *other* and <Tengwar tengwar="" latin="ecsa"/> *other*, <Tengwar tengwar="" latin="enta"/> *another*, and several others;
+
++ **demonstrative**, **indefinite**, **interrogative**, and **possessive pronouns** (for details, &rarr;@@):
+
+	54. <Tengwar tengwar=" " latin="ávatyara mello"/> \[<Tengwar tengwar="" latin="menye"/><Comment text="modifier"/> <Tengwar tengwar="" latin="roctar"/><Comment text="head"/>\]<Comment text="noun phrase"/> \[*draft*: VT43/11\]. *Forgive us our trespasses*. <Tengwar tengwar="" latin="menye"/> agrees with <Tengwar tengwar="" latin="roctar"/>.
+
++ **quantifiers**: certain adjectives indicating quantity, such as <Tengwar tengwar="" latin="nótima"/> *some*, *few*, <Tengwar tengwar="" latin="ilya"/> *every*, *each*:
+
+	55. <Tengwar tengwar="   " latin="i Eru i or"/> \[ <Tengwar tengwar="" latin="ilye"/><Comment text="modifier"/> <Tengwar tengwar="" latin="mahalmar"/><Comment text="head"/>\]<Comment text="noun phrase"/> \[UT/305\]. *The One who is above all thrones for ever*. <Tengwar tengwar="" latin="ilye"/> agrees with <Tengwar tengwar="" latin="mahalmar"/>.
+	56. <Tengwar tengwar=" " latin="tas cennen"/> \[ <Tengwar tengwar="" latin="nótimë"/><Comment text="modifier"/> <Tengwar tengwar="" latin="eldali"/><Comment text="head"/>\]<Comment text="noun phrase"/> \[PE22/155\]. *I saw a few elves there*.
+
++ **attributive genitive II**: noun phrases in the adjectival case act as quasi-adjectives (for details, &rarr;@@):
+
+	57. <Tengwar tengwar="      " latin="Valar ar Maiar fantaner nassentar fanainen ve"/> \[ <Tengwar tengwar="" latin="quenderinwe"/><Comment text="modifier"/> <Tengwar tengwar="  " latin="coar ar larmar"/><Comment text="head"/>\]<Comment text="noun phrase"/> \[PE17/174\]. *Valar cloaked their true-being like to Elvish bodies and raiment*. <Tengwar tengwar="" latin="quenderinwe"/> agrees with <Tengwar tengwar="  " latin="coar ar larmar"/>.
+	58. <Tengwar tengwar="" latin="eldarinwe"/><Comment text="modifier"/> <Tengwar tengwar="  " latin="leperi ar notessi"/><Comment text="head"/> \[VT47/4\]. *The Elvish Fingers and Numerals*. <Tengwar tengwar="" latin="eldarinwe"/> agrees with <Tengwar tengwar="  " latin="leperi ar notessi"/>.
+
++ (other) **adjectives** and **participles** (&rarr;@@):
+
+	59. <Tengwar tengwar="" latin="luini"/><Comment text="modifier"/> <Tengwar tengwar="" latin="tellumar"/><Comment text="head"/> \[LotR/377\]. *Blue domes*.
+	60. <Tengwar tengwar="" latin="racine"/><Comment text="modifier"/> <Tengwar tengwar="" latin="tengui"/><Comment text="head"/> \[VT39/6\]. *Stripped signs*.
+
+:::note
+In the noun phrase only one (typically, the last) element receives the case ending, for more details, &rarr;@@.
+
+For the relative ordering of such modifiers, particularly with respect to the article, &rarr;@@.
+
+Most of these pronouns and adjectives/participles may also have a predicative relationship with a noun, either as predicative complement (&rarr;[{chapter}.8](#linking-verb-predicative-complement) above) or as predicative modifier (&rarr;[{chapter}.22](#predicative-modifiers) below).
+:::
+
+<Num index={chapter}/> The following types of modifier do not agree with the head:
+
++ the **definite article** (for a full treatment, &rarr;@@);
++ numerals: **cardinal numbers** such as <Tengwar tengwar="" latin="min"/> *one*, <Tengwar tengwar="" latin="atta"/> *two* (for details, &rarr;@@);
++ noun phrases/pronouns in the **genitive I** very frequently serve as modifier in a noun phrase (for details, &rarr;@@):
+
+	61. <Tengwar tengwar="" latin="savin"/> \[ <Tengwar tengwar="" latin="Elessarno"/><Comment text="modifier"/> <Tengwar tengwar="" latin="quetie"/><Comment text="head"/>\]<Comment text="noun phrase"/> \[VT49/28\]. *I believe the words of Aragorn*.
+	62. <Tengwar tengwar="" latin="zindar"/> \[<Tengwar tengwar="" latin="i"/><Comment text="modifier"/> <Tengwar tengwar="" latin="Eldar"/><Comment text="head"/> <Tengwar tengwar="" latin="Malariando"/><Comment text="modifier"/>\]<Comment text="noun phrase"/> \[PE21/77\]. *Grey are the Elves of Beleriand*.
+
+:::note
+For the relative ordering of such genitives and the article (if present), &rarr;@@.
+
+In several uses, the genitive I may also be used as predicative complement, &rarr;@@.
+:::
+
++ **active participles**:
+
+	63. <Tengwar tengwar="   ⸱ ⸱ " latin="man cenuva menel acúna rucsal' ambonnar"/> \[MC/222\]. *Who shall see the heavens bending upon crumbling hills*.
+
++ **adverbs** or **prepositional phrases**:
+
+	64. \[<Tengwar tengwar="" latin="zindanoriello"/><Comment text="modifier"/> <Tengwar tengwar="" latin="mornie"/><Comment text="head"/>\]<Comment text="noun phrase"/> <Tengwar tengwar="" latin="caita"/> \[LotR/377\]. *Out of a grey country darkness lies*.
+	65. <Tengwar tengwar="" latin="linte"/> <Tengwar tengwar="" latin="yuldar"/><Comment text="head"/> <Tengwar tengwar=" " latin="mí oromardi"/><Comment text="modifier"/> \[RGEO/58\]. *Swift draughts in lofty draughts*.
+
++ **relative clauses** (for a full treatment, @@).
+
+### Types of Head
+
+<Num index={chapter}/> The head of a noun phrase is typically a noun, such as <Tengwar tengwar="" latin="yulma"/>; proper names also belong to this class:
+
+66. <Tengwar tengwar="   ⸱  " latin="a aina María, arca atarme"/> \[VT44/12\]. *Holy Mary, pray for us*.
+67. <Tengwar tengwar="  " latin="Elendil Vorondo voronwe"/> \[UT/305\]. *Of the faith of Elendil the Faithful*.
+
+<Num index={chapter}/> Most of the kinds of modifiers listed above (&rarr;[{chapter}.16-17](#types-of-modifier)) may also serve as head, however, particularly when they are modified by the article (&rarr;@@):
+
++ **adjectives** and **participles**; sometimes with the article, sometimes with other modifiers as well:
+
+	68. <Tengwar tengwar="  ⸱  " latin="a vanima, vanimálion nostari"/> \[LotR/981\]. *O beautiful ones, parents of beautiful children*.
+	69. <Tengwar tengwar="    " latin="ilyain antalto annar lestanen Ilúvatáren"/> \[MQ: LR/72\]. *To all they gave in measure the gifts of Ilúvatar*.
+	70. <Tengwar tengwar="  " latin="nactana ló Túrin"/> \[VT49/24\]. *Slain by Turin*.
+
+:::note
+If participle had dependent words, the relative clause would be used in its stead:
+
+71. <Tengwar tengwar="      " latin="nai tiruvantes i hárar mahalmassen mi Númen"/> \[UT/305\]. *May those who sit upon thrones of the West keep watch over it*.
+72. <Tengwar tengwar="   " latin="i carir quettar ómainen"/> \[WJ/391\] *Those who form words with voices*.
+:::
+
+:::tip[Assumption]
++ **attributive genitives**, **adverbs** and **prepositional phrases**; always with the article:
+
+	73. <Tengwar tengwar=" ⸱ ⸱ ⸱  ⸱ ⸱" latin="ralá'n Ingaráno'n Ingaranna, mal i·Eruo'n Erunna"/> *Render to Caesar the things that are Caesar's; and to God the things that are God's*.
+:::
+
+#### Pronominal and Adnominal Use of Pronouns, Quantifiers and Cardinal Numerals
+
+<Num index={chapter}/> In addition to the types of head treated above, various **pronouns** and **quantifiers** and (occasionally) **cardinal numerals** can serve as head. For these forms, a distinction is made between:
+
++ the **pronominal use**, when the pronoun/quantifier serves as head;
++ the **adnominal use**, when the pronoun/quantifier serves as modifier.
+
+In the pronominal use, such forms typically cannot be modified by the article or other modifiers (there are exceptions, however); in other words, such pronouns/quantifiers then function as noun phrases **by themselves**:
+
+74. <Tengwar tengwar="   " latin="lumbule unduláve ilye tier"/> \[RGEO/59\]. *Shadow swallowed all roads*. Adnominal use.
+75. <Tengwar tengwar=" " latin="arimelda ilyaron"/> \[PE17/57\]. *Dearest of all*. Pronominal use.
+
+:::note
+Personal, reflexive and reciprocal pronouns are used only pronominally (&rarr;@@).
+
+For so-called 'autonomous' relative clauses (i.e. relative clauses serving as noun phrases by themselves), @@.
+:::
+
+### Apposition
+
+<Num index={chapter}/> Apposition is the placement of two words or word groups parallel to each other without any coordinating particle (<Tengwar tengwar="" latin="ta"/> or <Tengwar tengwar="" latin="ar"/>, @@), with one, the 'appositive' defining or modifying the other. In this way, two noun phrases (each with their own head), may together serve as a single constituent:
+
+75. <Tengwar tengwar="" latin="aistana"/> \[<Tengwar tengwar="" latin="i"/> <Tengwar tengwar="" latin="yáve"/><Comment text="head"/> <Tengwar tengwar="" latin="mónalyo"/>\] \[<Tengwar tengwar="" latin="Yésus"/>\]<Comment text="head"/> \[VT43/31\]. *Blessed is the fruit of thy womb Jesus*. The combined phrase <Tengwar tengwar="   " latin="i yáve mónalyo Yésus"/> is a subject.
+76. \[<Tengwar tengwar="" latin="Elainen"/><Comment text="head"/>\] \[<Tengwar tengwar="" latin="tárin"/><Comment text="head"/> <Tengwar tengwar="" latin="Periandion"/>\] <Tengwar tengwar="" latin="ar"/> \[<Tengwar tengwar="" latin="meldenya"/><Comment text="head"/> <Tengwar tengwar="" latin="anyáran"/>\] \[VT49/40\]. *To Elaine, queen of Hobbits and my very old friend*. The whole quote is a combined phrase serving as an indirect object.
+
+For agreement in apposition, &rarr;[{CH.S.AGR}.15-16](../agreement/#apposition).
+
+## Predicative Modifiers
+
+<Num index={chapter}/> Some constituents simultaneously serve as adverbial modifier and to modify the head of a noun phrase. Such constituents are called **predicative modifiers**: they occur in the form of adjectives and especially participles, which agree with their noun in case. For example:
+
+77. <Tengwar tengwar=" ⸱ ⸱" latin="ampanaina i·már a·tatallane·s"/> \[MQ: PE22/108\]. *While it was being built people marveled at the house*. The participle <Tengwar tengwar="" latin="ampanaina"/> agrees with the subject <Tengwar tengwar="⸱" latin="i·már"/>: it describes the house. At the same time, it serves as an adverbial modifier, describing the circumstances/time of occurence.
+78. <Tengwar tengwar="     " latin="man hlaruva carcar yarra izilme ilcalasse"/> \[MC/222\]. *Who shall hear the rocks snarling in the moon gleaming?* The participle <Tengwar tengwar="" latin="ilcalasse"/> agrees with <Tengwar tengwar="" latin="izilme"/>; it describes the moon. At the same time, it serves as an adverbial modifier, describing the circumstances/time of rocks’ snarling.
+
+:::note
+For this so-called 'circumstantial' use of the participle in, @@.
+
+For the position of predicative modifiers relative to their head and the article (if present), &rarr;@@.
+:::
+
+## Elements Interrupting or Outside the Syntax of a Sentence
+
+### Parentheses
+
+<Num index={chapter}/> Sentences may be interrupted by other sentences &mdash; **parentheses**. These are often relatively short, and frequently contain some form of comment, as in:
+
+79. <Tengwar tengwar="  ⸱   " latin="lá caritas, navin, alasaila ná"/> \[PE22/154\]. *Not doing this would be, I think, unwise*.
+80. <Tengwar tengwar=" ⸱ ⸱ ⸱ " latin="á zac' i·fende, mecin"/> \[PE22/166\]. *Close the door, please*.
+
+### Elements 'Outside' the Syntax of a Sentence
+
+<Num index={chapter}/> Some elements stand 'outside' the sentence, i.e. they are not part of the syntactic structure of predicates, complements and modifiers. The most important of these are:
+
++ **forms of address** (&rarr;@@):
+
+	81. <Tengwar tengwar="   ⸱   ⸱" latin="a Aina Faire, Eru órava o·messë"/> \[VT44/15\]. *God, the Holy Spirit, have mercy on us*.
+
++ **exclamations**, **interjections**, etc. (also, in answers, <Tengwar tengwar="" latin="ná"/> *yes*):
+
+	82. <Tengwar tengwar=" ⸱    " latin="mal á·me etelecta ulcullo: násie"/> \[VT43/23\]. *But deliver us from evil: Amen*.
+	83. <Tengwar tengwar="  ⸱ " latin="Arwen vanimelda, namárie"/> \[LotR/352\]. *Arwen beautiful and beloved, farewell*.
+	84. <Tengwar tengwar="  " latin="e man antaváro"/> \[MQ: LR/63\]. *What will he give indeed?*
+
+---

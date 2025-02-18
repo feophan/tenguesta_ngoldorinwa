@@ -1,0 +1,8 @@
+{
+	"Tengwar": {
+		"scope": "mdx",
+		"prefix": ["", "tengwar"],
+		"body": ["<Tengwar tengwar=\"${1:text}\" latin=\"${2:text}\"/>"],
+		"description": "A switch-script component for displaying tengwar text."
+	}
+}

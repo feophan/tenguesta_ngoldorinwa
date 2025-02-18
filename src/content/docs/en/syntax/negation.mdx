@@ -1,0 +1,32 @@
+---
+title: Negation
+ID: S.NEG
+lastUpdated: 2025-02-11
+---
+import { CH } from "../../../../assets/constants";
+import Tengwar from '../../../../components/teng.astro';
+import Num from '../../../../components/paraNum.astro';
+import Aside from '../../../../components/newAside.astro';
+import Warning from '../../../../components/Warning.astro';
+
+export const chapter = CH.S.NEG;
+
+## Standard negation
+
+<Num index={chapter}/> Quenya has two main ways to form a negative clause:
+
++ **negation adverb** <Tengwar tengwar="" latin="ú"/>
++ **zero quantifiers**, such as <Tengwar tengwar="" latin="úquen"/> *nobody*, <Tengwar tengwar="" latin="úlume"/> *never*, etc (&rarr; [{`${CH.S.PRO}`}](../pronouns-and-quantifiers/#indefinite-pronouns)).
+
+<Num index={chapter}/> Quenya differs somewhat from English in how these two methods interact with each other.
+
+<Aside type="rule" title="Rule">If a zero quantifier is present, then it takes precedence over the negation adverb (&rarr; [PE23/99](../../reference/negation/)).</Aside>
+
+1. <Tengwar tengwar="  " latin="úquen túle hai"/> 'nobody arrived on time'
+2. <Tengwar tengwar="   " latin="ú melden úquen ambe lá·se"/> 'Túro didn't arrive on time'
+3. <Tengwar tengwar=" " latin="cennenye·s úlume"/> 'I have never seen him'
+4. <Tengwar tengwar=" " latin="cennenye úquen"/> 'I didn't see anyone' (lit. 'I saw nobody')
+
+## Prohibitive
+
+<Warning type="wait">Under construction</Warning>

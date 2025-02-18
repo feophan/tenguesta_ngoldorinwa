@@ -1,0 +1,11 @@
+---
+export interface Props {
+  text: string;
+}
+
+const { text } = Astro.props as Props;
+---
+
+<Fragment>
+    <span style="font-variant:small-caps;"><sub>{text}</sub></span>
+</Fragment>
