@@ -14,13 +14,15 @@ export const CH = {
         ART: 5,
         NOU: 6,
         ADJ: 7,
-        ADV: 8,
-        PPL: 9,
-        IVF: 10,
-        AOR: 11,
-        VFI: 12,
-        VFP: 13,
-        VOV: 14
+        PPL: 8,
+        ADV: 9,
+        PRO: 10,
+        COR: 11,
+        IVF: 12,
+        AOR: 13,
+        VFI: 14,
+        VFP: 15,
+        VOV: 16
     },
     S: {
         SEN: 28,
